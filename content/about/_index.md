@@ -19,13 +19,17 @@ Contact me [here][1].
 
 PGP Fingerprint
 
-<pre>AFB2 336F 7EA5 BE5A B9B2 2FF8 2B20 1107 DA00 4171</pre>
+```
+AFB2 336F 7EA5 BE5A B9B2 2FF8 2B20 1107 DA00 4171
+```
 
 [PGP Public Key][2]
 
 Bitcoin address
 
-<pre>1CejGZw1f11pTNmZewrn3pCW3Qufh4NaG7</pre>
+```
+1CejGZw1f11pTNmZewrn3pCW3Qufh4NaG7
+```
 
  [1]: mailto:isma@arenzana.org
  [2]: https://raw.githubusercontent.com/iarenzana/iarenzana.github.io/master/assets/misc/rsa_public_key.txt
