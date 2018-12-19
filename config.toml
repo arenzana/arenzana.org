@@ -80,3 +80,19 @@ enableEmoji = true
 	twitter-square = "https://www.twitter.com/iarenzana"
 	github-square = "https://www.github.com/iarenzana"
 
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/posts/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "home"
+    weight = 100
+    identifier = "home"
+    url = "/"

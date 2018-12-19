@@ -1,15 +1,4 @@
----
-title: About
-author: iarenzana
-type: page
-date: 2018-06-13T15:20:57+00:00
-asalah_show_title:
-  - no
-asalah_enable_facebook_comments:
-  - no
-
----
-Hey there, I&#8217;m Isma.
+Hey there, it's Isma.
 
 Interested in everything: from art to technology, faith to travel.
 
