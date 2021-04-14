@@ -1,20 +1,21 @@
 ---
-title: Maltratos y otras cosas
 author: iarenzana
-type: post
-date: 2009-07-04T13:00:00+00:00
-url: /2009/07/maltratos-y-otras-cosas/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2009/07/maltratos-y-otras-cosas.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/8442544889646023348
+- /feeds/11302648/posts/default/8442544889646023348
+blogger_permalink:
+- /2009/07/maltratos-y-otras-cosas.html
 categories:
-  - Viajes
-
+- Viajes
+date: "2009-07-04T13:00:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=72
+id: 72
+title: Maltratos y otras cosas
+url: /2009/07/maltratos-y-otras-cosas/
 ---
 <p style="text-align: justify;">
   Ayer fue un día tranquilo. Nos levantamos tarde y desayunamos igualmente tarde (a las 11). Después comimos dos veces en el caso de Chuck y mío: a la 1 porque fuimos a visitar a unos amigos suyos de aquí que nos invitaron a comer y después a las 3 con todo el equipo. Esto de ser traductor alguna ventaja debía tener supongo. Algo de lo que no me había dado cuenta nunca es de lo que cansa hablar. Pasar el día hablando (traduciendo) termina agotando y, no sin razón, al final del día empiezo a hablar en español a los americanos y en inglés a los chilenos. A ellos les hace mucha gracia. A mí menos.

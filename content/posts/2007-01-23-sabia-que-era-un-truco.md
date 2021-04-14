@@ -1,20 +1,21 @@
 ---
-title: Sabía que era un truco!!!!
 author: iarenzana
-type: post
-date: 2007-01-23T19:09:00+00:00
-url: /2007/01/sabia-que-era-un-truco/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/01/saba-que-era-un-truco.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/1968050794580113584
+- /feeds/11302648/posts/default/1968050794580113584
+blogger_permalink:
+- /2007/01/saba-que-era-un-truco.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-01-23T19:09:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=193
+id: 193
+title: Sabía que era un truco!!!!
+url: /2007/01/sabia-que-era-un-truco/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Saludos canallas. Me he encontrado con este vídeo que me ha iluminado.

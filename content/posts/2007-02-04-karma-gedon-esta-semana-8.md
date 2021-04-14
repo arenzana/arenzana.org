@@ -1,39 +1,33 @@
 ---
-title: Karma-gedón… esta semana 8!
 author: iarenzana
-type: post
-date: 2007-02-04T19:28:00+00:00
-url: /2007/02/karma-gedon-esta-semana-8/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/02/karma-gedn-esta-semana-8.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/859234599256364972
+- /feeds/11302648/posts/default/859234599256364972
+blogger_permalink:
+- /2007/02/karma-gedn-esta-semana-8.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-02-04T19:28:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=186
+id: 186
+title: Karma-gedón&#8230; esta semana 8!
+url: /2007/02/karma-gedon-esta-semana-8/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Buenas canallas, esta semana estoy muy fuerte como podéis ver:
 </p>
 
-Amigos 9
-  
-Familia 8
-  
-Trabajo 7
-  
-Meteorología 8
-  
-Alimentación 8
-  
-General 7
-  
-**Total Semanal 8
-  
+Amigos 9  
+Familia 8  
+Trabajo 7  
+Meteorología 8  
+Alimentación 8  
+General 7  
+**Total Semanal 8  
 ** 
 
 <p style="text-indent:20pt;">

@@ -1,20 +1,21 @@
 ---
-title: Good Ol’ Scotland
 author: iarenzana
-type: post
-date: 2010-11-17T10:08:00+00:00
-url: /2010/11/good-ol-scotland/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2010/11/good-ol-scotland.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/505833276292617170
+- /feeds/11302648/posts/default/505833276292617170
+blogger_permalink:
+- /2010/11/good-ol-scotland.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2010-11-17T10:08:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=56
+id: 56
+title: Good Ol&#8217; Scotland
+url: /2010/11/good-ol-scotland/
 ---
 Aqu&iacute; va una foto de Edimburgo por la tarde. Un HDR con _tone-mapping_.
 

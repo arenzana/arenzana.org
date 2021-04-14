@@ -1,24 +1,24 @@
 ---
-title: Bien vs Mal o la filosofía de la (ir)responsabilidad y la relativización moral
 author: iarenzana
-type: post
-date: 2012-12-01T23:19:00+00:00
-url: /2012/12/bien-vs-mal-o-la-filosofia-de-la-irresponsabilidad-y-la-relativizacion-moral/
-featured_image: /wp-content/uploads/2012/12/rousseau.jpg
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2012/12/bien-vs-mal-o-la-filosofia-de-la.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/3515392595921484899
+- /feeds/11302648/posts/default/3515392595921484899
+blogger_permalink:
+- /2012/12/bien-vs-mal-o-la-filosofia-de-la.html
 categories:
-  - Dios
-  - fe
-  - filosofía
-  - reflexión
-
+- Dios
+- fe
+- filosofía
+- reflexión
+date: "2012-12-01T23:19:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+id: 34
+image: /wp-content/uploads/2012/12/rousseau.jpg
+title: Bien vs Mal o la filosofía de la (ir)responsabilidad y la relativización moral
+url: /2012/12/bien-vs-mal-o-la-filosofia-de-la-irresponsabilidad-y-la-relativizacion-moral/
 ---
 <p style="text-align: justify;">
   Leyendo &#8220;<a href="http://www.amazon.com/How-Now-Shall-We-Live/dp/0842318089/ref=wl_it_dp_o_pdT1_S_nC?ie=UTF8&colid=3B3EEZSZSHAN8&coliid=I143IUK4GWPCB9">How now shall we live</a>&#8221; (de Charles Colson) he encontrado uno de esos temas que te dejan boquiabierto y te invitan a pensar más en profundidad sobre tu propia vida. Colson afirma que la tendencia de la sociedad es seguir la filosofía de Rousseau. Esta corriente relativiza (por no decir que elimina) el elemento de responsabilidad en los actos humanos dejando, así, el termino pecado como un concepto de la prehistoria. Debido a mi situación, este tema me ha tocado muy personalmente y ha ofrecido nuevas ideas y puntos de vista sobre las motivaciones humanas.
@@ -29,7 +29,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <img style="float: left;" src="https://arenzana.org/wp-content/uploads/2012/12/rousseau.jpg" alt="" width="" height="" border="0" />
+  <img loading="lazy" style="float: left;" src="https://arenzana.org/wp-content/uploads/2012/12/rousseau.jpg" alt="" width="" height="" border="0" />
 </p>
 
 <p style="text-align: justify;">

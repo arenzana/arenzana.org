@@ -1,20 +1,21 @@
 ---
-title: Fama y ambición
 author: iarenzana
-type: post
-date: 2007-08-01T17:03:00+00:00
-url: /2007/08/fama-y-ambicion/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/08/fama-y-ambicin.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/2845817168326332457
+- /feeds/11302648/posts/default/2845817168326332457
+blogger_permalink:
+- /2007/08/fama-y-ambicin.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-08-01T17:03:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=156
+id: 156
+title: Fama y ambición
+url: /2007/08/fama-y-ambicion/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Ya os lo dije chicas, no hacía falta que hicierais más méritos para aparecer en mi blog. Las dos os lo habéis ganado a pulso. Ahora Nicole está <a href="http://www.people.com/people/article/0,,20049108,00.html">embarazada</a>

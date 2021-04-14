@@ -1,21 +1,21 @@
 ---
-title: ¿Cómo estás?
 author: iarenzana
-type: post
-date: 2012-11-21T00:50:00+00:00
-url: /2012/11/como-estas/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2012/11/como-estas.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/3460453920071337309
+- /feeds/11302648/posts/default/3460453920071337309
+blogger_permalink:
+- /2012/11/como-estas.html
 categories:
-  - amigos
-  - reflexión
-
+- amigos
+- reflexión
+date: "2012-11-21T00:50:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+id: 35
+title: ¿Cómo estás?
+url: /2012/11/como-estas/
 ---
 <p style="text-align: justify;">
   Tengo una amiga que lo da absolutamente todo en una amistad. Mi hermano y yo hemos bromeado en ocasiones sobre cómo su amistad es como intentar enchufar un aparato diseñado para 110v a una toma de 220v: su corriente es tan fuerte que termina por quemarnos. Ella suele ser muy emocional en lo que respecta a las relaciones, lo cual hace que cuando alguien le falla ella entra en un fuerte bajón emocional. Y con razón.

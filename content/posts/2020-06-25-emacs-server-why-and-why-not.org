@@ -1,0 +1,37 @@
+#+BLOG: arenzanaorg
+#+POSTID: 425
+#+BLOG: arenzanaorg
+#+DATE: [2020-06-24 Wed 15:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: emacs
+#+TAGS[]: emacs tech
+#+DESCRIPTION:
+#+TITLE: Emacs Server - Why and why not?
+
+* What
+
+Unknown to many of us, under the hood emacs was designed as a client/server architecture; which means, Emacs core runs as a daemon and you attach clients to it. Normally, we run both when we type =emacs=, but the execution of both the client and the server is transparent to the user. Before you attempt to do something fancy, this architecture is somewhat limited to localhost (1), which means that you can't quite "remote into" an emacs running on a different host. In a world where we have [[https://github.com/tmux/tmux/wiki][tmux]], [[https://mosh.org/][mosh]], and other multiplexers and mobile connectivity technologies, there may not seem like there's much room for running emacs as a server, but we will see some advantages to this approach.
+
+* Why and How
+
+I tend to use =tmux= as my multiplexer and I run a session on my laptop as soon as I start working. This session will only die when the machine goes down for a reboot or when shutting it down. The advantage of running tmux is (besides being able to upgrade iTerm without losing all my sessions) is that it keeps my brain trained to work on a remote box (I used to work in operations, being a sysadmin truly does something to your brain). Inside this tmux session, I run Emacs by typing =e=, which is an alias on my =~/.zshrc= as follows:
+
+#+BEGIN_SRC
+alias e="emacsclient -a '' -t"
+#+END_SRC
+
+You will notice that this alias uses a different command, =emacsclient=. Running this command will not run a full instance of Emacs, but will attempt to attach to a currently running session on localhost. If a server is not running, one will be started. You can also start Emacs as a daemon by running =emacs --daemon=. No client will be attached to it if you run it this way.
+
+If you have been following this blog, you will know how much I enjoy customizing Emacs. This passion for customization has driven my Emacs to take almost 3 seconds to start from cold (2). And even though I've done my best to improve the performance of this operation (remove unnecessary customization, use of =use-package=, some performance tuning, etc), there's too much overhead at start time.
+
+By running a server first, my configuration gets loaded once, and when I attach the client, the configuration is loaded in memory. The operation of starting a client (what I actually interface with) is a matter of milliseconds. In addition to this when I close the client and reattach it, my Emacs still contains the same open buffers, running processes, etc. This means that, if you want to actually close Emacs and all of its open buffers, you need to make sure you close all of them =C-x C-B= and then =d= on every entry to close.
+
+* Conclusion
+
+The value I drive from this workflow resides in performance improvements. It saves me time and, why not, frustrations. It can be argued that value can be found from an Emacs-as-a-server architecture even if your =~/.emacs= is not too complex, but in my opinion, if that's your situation, there's no need to add any extra "complexity" associated to separating the client and server operations.
+
+Special thanks to the always great Irreal for [[https://irreal.org/blog/?p=4887\][this article]] that served as a good starting guide.
+
+(1) While it's technically possible to connect to a TCP socket, this is not meant to be a remote connectivity tool.
+
+(2) Listen, email loading, RSS, Twitter, journals, and development environments don't come without a cost.

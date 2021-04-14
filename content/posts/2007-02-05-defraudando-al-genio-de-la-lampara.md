@@ -1,20 +1,21 @@
 ---
-title: Defraudando al Genio de la Lámpara
 author: iarenzana
-type: post
-date: 2007-02-05T17:19:00+00:00
-url: /2007/02/defraudando-al-genio-de-la-lampara/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/02/defraudando-al-genio-de-la-lmpara.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/957846592183182742
+- /feeds/11302648/posts/default/957846592183182742
+blogger_permalink:
+- /2007/02/defraudando-al-genio-de-la-lmpara.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-02-05T17:19:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=185
+id: 185
+title: Defraudando al Genio de la Lámpara
+url: /2007/02/defraudando-al-genio-de-la-lampara/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Saludos canallas, cómo va la semana? (no espero respuesta).

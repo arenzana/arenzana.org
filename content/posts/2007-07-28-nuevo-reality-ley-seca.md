@@ -1,20 +1,21 @@
 ---
-title: 'Nuevo ‘reality’: Ley Seca'
 author: iarenzana
-type: post
-date: 2007-07-28T14:18:00+00:00
-url: /2007/07/nuevo-reality-ley-seca/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/07/nuevo-ley-seca.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/288521330929312755
+- /feeds/11302648/posts/default/288521330929312755
+blogger_permalink:
+- /2007/07/nuevo-ley-seca.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-07-28T14:18:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=158
+id: 158
+title: 'Nuevo &#8216;reality&#8217;: Ley Seca'
+url: /2007/07/nuevo-reality-ley-seca/
 ---
 <p style="text-align:justify;text-indent:40pt;">
   Últimamemente no he tenido demasiadas &#8220;pelis mentales&#8221;; pero hoy me ha asaltado una muy curiosa a raiz de tantas noticias relacionadas con el costumbrismo etílico de algunos personajes públicos. Creo que si consiguiéramos llevarlo a cabo sería, sin ninguna duda, el programa con más éxito de la televisión.

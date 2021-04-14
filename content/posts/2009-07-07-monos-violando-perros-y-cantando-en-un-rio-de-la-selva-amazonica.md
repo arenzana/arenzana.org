@@ -1,20 +1,21 @@
 ---
-title: Monos violando perros y cantando en un río de la selva amazónica
 author: iarenzana
-type: post
-date: 2009-07-07T03:16:00+00:00
-url: /2009/07/monos-violando-perros-y-cantando-en-un-rio-de-la-selva-amazonica/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2009/07/monos-violando-perros-y-cantando-en-un.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/7274961426796322926
+- /feeds/11302648/posts/default/7274961426796322926
+blogger_permalink:
+- /2009/07/monos-violando-perros-y-cantando-en-un.html
 categories:
-  - Viajes
-
+- Viajes
+date: "2009-07-07T03:16:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=71
+id: 71
+title: Monos violando perros y cantando en un río de la selva amazónica
+url: /2009/07/monos-violando-perros-y-cantando-en-un-rio-de-la-selva-amazonica/
 ---
 Ayer fuimos a la selva. No es un hecho particularmente interesante sobre todo si habéis leído mi blog en el pasado. La diferencia, en esta ocasión, es que íbamos a presenciar unos bautismos en la selva amazónica. Para más interés, nos pidieron a mí y a otros dos amigos (Mary y Rob &#8220;Vegas&#8221; Cook) que cantásemos en un trío. De modo que desoyendo toda recomendación paternal e impactados por todo lo que llevávamos viviendo esta semana, nos quitamos los zapatos, nos remangamos los vaqueros y nos metimos en el río Napo para cantar en unos bautismos. Fue impresionante.
 

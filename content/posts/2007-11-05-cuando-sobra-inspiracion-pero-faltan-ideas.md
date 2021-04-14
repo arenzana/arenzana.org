@@ -1,21 +1,22 @@
 ---
-title: Cuando sobra inspiración pero faltan ideas
 author: iarenzana
-type: post
-date: 2007-11-05T17:15:00+00:00
-url: /2007/11/cuando-sobra-inspiracion-pero-faltan-ideas/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/11/cuando-sobra-inspiracin-pero-faltan.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/1481306384662854640
+- /feeds/11302648/posts/default/1481306384662854640
+blogger_permalink:
+- /2007/11/cuando-sobra-inspiracin-pero-faltan.html
 categories:
-  - arte
-  - reflexión
-
+- arte
+- reflexión
+date: "2007-11-05T17:15:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=135
+id: 135
+title: Cuando sobra inspiración pero faltan ideas
+url: /2007/11/cuando-sobra-inspiracion-pero-faltan-ideas/
 ---
 <p style="text-align: justify;">
   Puede sonar extraño y contradictorio; pero, en ocasiones, podemos estar inspirados pero estar faltos de ideas: eso es exactamente lo que me sucede hoy. Tengo muchas ganas de escribir&#8230; pero no sé de qué exactamente. A veces me sucede lo mismo con la fotografía, tengo ganas de disparar pero no encuentro víctima y, si la encuentro, esta se niega a colaborar. Es lo que suele suceder con los retratos que, a diferencia de la escritura y al igual que las relaciones, es cosa de dos.

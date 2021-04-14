@@ -1,20 +1,21 @@
 ---
-title: Probando ecto 3
 author: iarenzana
-type: post
-date: 2007-10-09T17:37:00+00:00
-url: /2007/10/probando-ecto-3/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/10/probando-ecto-3.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/1308270806519083831
+- /feeds/11302648/posts/default/1308270806519083831
+blogger_permalink:
+- /2007/10/probando-ecto-3.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-10-09T17:37:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=142
+id: 142
+title: Probando ecto 3
+url: /2007/10/probando-ecto-3/
 ---
 <p style="text-align: justify;">
   <p style="text-align: justify;">

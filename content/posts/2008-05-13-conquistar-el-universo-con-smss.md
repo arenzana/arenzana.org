@@ -1,21 +1,22 @@
 ---
-title: Conquistar el universo con SMSs
 author: iarenzana
-type: post
-date: 2008-05-13T19:26:00+00:00
-url: /2008/05/conquistar-el-universo-con-smss/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/05/conquistar-el-universo-con-smss.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/9179987390415320862
+- /feeds/11302648/posts/default/9179987390415320862
+blogger_permalink:
+- /2008/05/conquistar-el-universo-con-smss.html
 categories:
-  - curiosidades
-  - noticias
-
+- curiosidades
+- noticias
+date: "2008-05-13T19:26:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=103
+id: 103
+title: Conquistar el universo con SMSs
+url: /2008/05/conquistar-el-universo-con-smss/
 ---
 <p style="text-align: justify;">
   No, si cuando yo digo que la vida es cara&#8230;. lo digo por algo. Leo en <a href="http://www.microsiervos.com/archivo/curiosidades/sms-mas-caros-que-hubble.html">Microsiervos</a> que la transferencia de 1Mb en SMSs (algo menos de la capacidad de los clásicos floppies) cuesta unos 1100 EUR. Cuesta unos 15 EUR transferir la misma cantidad de datos desde el Hubble hasta la tierra.

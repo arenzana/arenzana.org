@@ -1,0 +1,165 @@
+#+BLOG: arenzanaorg
+#+POSTID: 403
+#+ORG2BLOG:
+#+DATE: [2019-12-03 Tue 13:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: emacs
+#+TAGS[]: emacs golang tech
+#+DESCRIPTION:
+#+TITLE: Emacs Go Mode - Revisited
+
+A few months ago [[https://arenzana.org/2019/01/emacs-go-mode/][I went over]] how to set up Emacs for Go development. Since then, I have honestly not changed a single thing about it. Until this week.
+
+* Background
+
+Here's the thing. Something I have changed too much over the last few months has been the vendoring mechanism I use for my Go projects. From [[https://github.com/Masterminds/glide][Glide]], I moved to [[https://github.com/golang/dep][go dep]], and a couple of months ago, I started the migration to the [[https://github.com/golang/go/wiki/Modules][Go Modules]], Golang's potential long-term solution to the package management mess the community has been living with since the inception of the language 10 years ago ([[https://blog.golang.org/10years][Happy Birthday Go!]]).
+
+Go Modules changes a lot of things about the taxonomy of your projects: vendor management, GOPATH, ~go get~, etc. Just like me and my vendor management journey, ~gomode~ has also gone through several iterations from [[https://github.com/nsf/gocode][here]], to [[https://github.com/mdempsky/gocode][here]], and [[https://github.com/stamblerre/gocode][here]].
+
+It was time to start looking at something else with more long term support.
+
+* LSP time
+
+LSP (Language Server Provider) promises to do away with all these issues by implementing a "driver" with a common editor interface and adapting to the languages as they evolve. [[https://www.youtube.com/watch?v=5Re6BHEOT_k][Rebecca Stambler's "Go, please stop breaking my editor"]] is a must-watch if you're interested in the topic.
+
+To work on Go using emacs, the most logical recipe would be [[https://github.com/emacs-lsp/lsp-mode][lsp-mode]], [[https://github.com/golang/tools/blob/master/gopls/README.md][gopls]], and [[https://github.com/dominikh/go-mode.el][go-mode]]. ~gopls~ is the LSP-compatible language server, ~lsp-mode~ is the Emacs interface for LSP servers, and ~go-mode~ is, well, the major mode for Go (discussed [[https://arenzana.org/2019/01/emacs-go-mode/][in my previous article]]).
+
+* Go, please
+
+In the video (May 2019), Rebecca points out that ~gopls~ is still in alpha and warns us to proceed with caution. Currently, (December 2019) it feels more like a beta, so not too bad, but still not perfect. ~gopls~ is, however, the future for Emacs to become a solid Golang editor. This is because it's the only language tool (beside's Rebecca's ~gocode~ that's in maintenance mode) that fully supports Go modules that is in active development.
+
+All I had to do to install it was this:
+#+BEGIN_SRC bash
+go get golang.org/x/tools/gopls@latest
+#+END_SRC
+
+It's important to check out the latest version since the tool is evolving quite quickly right now.
+
+What happens in the editor is that Emacs spawns an instance of the server when ~go-mode~ is enabled on a buffer. After this, ~lsp-mode~ will attempt to connect to it. The advantage of using a server rather than a command is that it's much quicker to respond and interface with Emacs (it does feel snappier once the server comes up, which is also fairly quick). The disadvantages are the security concerns of running a server on a laptop; but to be fair, this is not supposed to be a long-running/permanent process.
+
+On my Emacs config, I just added the following lines:
+
+#+BEGIN_SRC emacs-lisp
+(setq lsp-gopls-staticcheck t)
+(setq lsp-eldoc-render-all t)
+(setq lsp-gopls-complete-unimported t)
+#+END_SRC
+
+I just wanted those elements to be active, but feel free to edit to taste.
+
+* lsp-mode
+
+~lsp-mode~ will need to be added to our Emacs set up. I copied most of this from the ~gopls~ + ~lsp-mode~ set up guides adjusting it to my needs and adding a couple of things.
+
+#+BEGIN_SRC emacs-lisp
+
+(use-package lsp-mode
+  :ensure t
+  :commands (lsp lsp-deferred)
+  :hook (go-mode . lsp-deferred))
+
+;;Set up before-save hooks to format buffer and add/delete imports.
+;;Make sure you don't have other gofmt/goimports hooks enabled.
+
+(defun lsp-go-install-save-hooks ()
+  (add-hook 'before-save-hook #'lsp-format-buffer t t)
+  (add-hook 'before-save-hook #'lsp-organize-imports t t))
+(add-hook 'go-mode-hook #'lsp-go-install-save-hooks)
+
+;;Optional - provides fancier overlays.
+
+(use-package lsp-ui
+  :ensure t
+  :commands lsp-ui-mode
+  :init
+)
+
+;;Company mode is a standard completion package that works well with lsp-mode.
+;;company-lsp integrates company mode completion with lsp-mode.
+;;completion-at-point also works out of the box but doesn't support snippets.
+
+(use-package company
+  :ensure t
+  :config
+  (setq company-idle-delay 0)
+  (setq company-minimum-prefix-length 1))
+
+(use-package company-lsp
+  :ensure t
+  :commands company-lsp)
+
+;;Optional - provides snippet support.
+
+(use-package yasnippet
+  :ensure t
+  :commands yas-minor-mode
+  :hook (go-mode . yas-minor-mode))
+
+;;lsp-ui-doc-enable is false because I don't like the popover that shows up on the right
+;;I'll change it if I want it back
+
+
+(setq lsp-ui-doc-enable nil
+      lsp-ui-peek-enable t
+      lsp-ui-sideline-enable t
+      lsp-ui-imenu-enable t
+      lsp-ui-flycheck-enable t)
+
+#+END_SRC
+
+Here, I:
+1) Enable ~lsp-mode~.
+2) Add hooks for package imports and buffer formatting on save.
+3) Enable ~lsp-ui~ (to display ~go-eldoc~ info, etc).
+4) Company for overlays.
+5) ~yasnippet~ for snippet support.
+6) Some options for ~lsp-ui~.
+
+In the options I disabled ~lsp-ui-doc-enable~ because it displayed docs on both the mini buffer and on an overlay located to the right of the buffer. I found it too distracting and decided to disable the overlay and leave the mini buffer help.
+
+* Old Go Mode
+
+So what's left of my original Go mode configuration? Well, the custom compilation stuff, line numbers, etc are still there:
+
+#+BEGIN_SRC emacs-lisp
+(defun custom-go-mode ()
+  (display-line-numbers-mode 1))
+
+(use-package go-mode
+:defer t
+:ensure t
+:mode ("\\.go\\'" . go-mode)
+:init
+  (setq compile-command "echo Building... && go build -v && echo Testing... && go test -v && echo Linter... && golint")  
+  (setq compilation-read-command nil)
+  (add-hook 'go-mode-hook 'custom-go-mode)
+:bind (("M-," . compile)
+("M-." . godef-jump)))
+
+(setq compilation-window-height 14)
+(defun my-compilation-hook ()
+  (when (not (get-buffer-window "*compilation*"))
+    (save-selected-window
+      (save-excursion
+	(let* ((w (split-window-vertically))
+	       (h (window-height w)))
+	  (select-window w)
+	  (switch-to-buffer "*compilation*")
+	  (shrink-window (- h compilation-window-height)))))))
+(add-hook 'compilation-mode-hook 'my-compilation-hook)
+
+(global-set-key (kbd "C-c C-c") 'comment-or-uncomment-region)
+(setq compilation-scroll-output t)
+#+END_SRC
+
+I'm not calling any of the goimports, gocode, etc as I used to, since ~gopls~ takes care of it all.
+
+* Summary
+
+Besides speed, there's not a whole lot of difference between my previous and my current setups, really. The real advantage I see is that I'm future-proofing my setup by adopting officially-supported procedures. Just like going to Go Modules: my workflow is not improved, but this seems to be the direction the community is going and it will be easier for me to adopt it now than in the future.
+
+* Caveats
+
+The first time you open a ~.go~ file, you will be prompted for the root of the project. It will find ~go.mod~ and suggest that directory as the root. It's an extra step, but not a big deal. The interface makes it simple enough.
+
+This root path might have been the issue I initially hit where Emacs would color everything red on save. I couldn't figure out what the problem was (I assumed it was a problem with my GOPATH and Modules), but removing my ~.emacs.d~ directory and having it recreated fixed it on my Mac. I never had the problem on my Fedora laptop.

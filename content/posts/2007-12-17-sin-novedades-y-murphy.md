@@ -1,23 +1,24 @@
 ---
-title: Sin Novedades y Murphy
 author: iarenzana
-type: post
-date: 2007-12-17T18:44:00+00:00
-url: /2007/12/sin-novedades-y-murphy/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/12/sin-novedades-y-murphy.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/3610525732921439208
+- /feeds/11302648/posts/default/3610525732921439208
+blogger_permalink:
+- /2007/12/sin-novedades-y-murphy.html
 categories:
-  - comentario
-  - mudanza
-  - trabajo
-  - vida
-
+- comentario
+- mudanza
+- trabajo
+- vida
+date: "2007-12-17T18:44:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=124
+id: 124
+title: Sin Novedades y Murphy
+url: /2007/12/sin-novedades-y-murphy/
 ---
 <p style="text-align: justify;">
   A veces sucede que cuanto más haces menos tienes para contar. Ese es mi caso. Los días más aburridos son, probablemente, los días en los que más cosas tengo para contar. Otros días bastante movidos, en cambio, no me ofrecen ningún tema digno de comentar. Peculiaridades de la vida.

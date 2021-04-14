@@ -1,20 +1,21 @@
 ---
-title: 'Conociendo a los locales. Capítulo 2: La Policía'
 author: iarenzana
-type: post
-date: 2007-03-17T02:56:00+00:00
-url: /2007/03/conociendo-a-los-locales-capitulo-2-la-policia/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/03/conociendo-los-locales-captulo-2-la.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/4359693470248836362
+- /feeds/11302648/posts/default/4359693470248836362
+blogger_permalink:
+- /2007/03/conociendo-los-locales-captulo-2-la.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-03-17T02:56:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=168
+id: 168
+title: 'Conociendo a los locales. Capítulo 2: La Policía'
+url: /2007/03/conociendo-a-los-locales-capitulo-2-la-policia/
 ---
 <p style="text-indent:40pt;">
   Justo al mediodía acabo de pasar por Lindis Pass; un paso montañoso muy pintoresco. Básicamente se trata de una carretera que pasa entre un sistema montañoso; muy pocas subidas y bajadas y algunas curvas, nada raro. Justo al terminar el sistema montañoso, llega una gran llanura que se extiende hasta Mount Cook, el pico más alto del país y de Australasia; junto a ese pico se encuentra el lago Tekapo. Llego a la gran llanura (parecida a Rohan) y llega una gran recta de la que no se ve el final. Nadie más iba por la carretera, ni en mi sentido, ni en el contrario: decido darme un homenaje; dadas las circunstancias y que había perdido mucho tiempo anteriormente por un autobús decidí subir la velocidad de 100 (que es el límite) a 120 km/h. Así hago la recta más rápido, gano algo de tiempo y no me aburro; además, no pasa nada; cómo va a haber policía en una recta en medio de la nada; literalmente: NADA. Por si cruzan los niños del colegio? Pues bien, me equivocaba.

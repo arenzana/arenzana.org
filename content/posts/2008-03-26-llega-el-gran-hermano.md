@@ -1,22 +1,23 @@
 ---
-title: Llega el gran hermano
 author: iarenzana
-type: post
-date: 2008-03-26T11:43:00+00:00
-url: /2008/03/llega-el-gran-hermano/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/03/llega-el-gran-hermano.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/860559867480628784
+- /feeds/11302648/posts/default/860559867480628784
+blogger_permalink:
+- /2008/03/llega-el-gran-hermano.html
 categories:
-  - comentario
-  - denuncia
-  - reflexión
-
+- comentario
+- denuncia
+- reflexión
+date: "2008-03-26T11:43:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=110
+id: 110
+title: Llega el gran hermano
+url: /2008/03/llega-el-gran-hermano/
 ---
 <p style="text-align: justify;">
   Esta mañana estaba escuchando un programa de discusión extranjero refiriéndose a una nueva propuesta lanzada en el Reino Unido. Dicha propuesta propone, valga la redundancia, realizar análisis de sangre a todos los niños a los 5 años en busca de unos indicadores particulares en el ADN que muestren la propensión de un individuo a cometer delitos. Es decir, está implicando que cierto aspecto de nuestro ADN (naturaleza) nos hace más proclives a matar, ser violadores o cualquier otra cosa.

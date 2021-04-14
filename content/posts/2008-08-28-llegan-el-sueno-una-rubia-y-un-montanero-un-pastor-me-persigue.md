@@ -1,22 +1,23 @@
 ---
-title: Llegan el sueño, una rubia y un montañero. Un pastor me persigue
 author: iarenzana
-type: post
-date: 2008-08-28T21:21:00+00:00
-url: /2008/08/llegan-el-sueno-una-rubia-y-un-montanero-un-pastor-me-persigue/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/08/llegan-el-sueo-una-rubia-y-un-montaero.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/7275944809778759025
+- /feeds/11302648/posts/default/7275944809778759025
+blogger_permalink:
+- /2008/08/llegan-el-sueo-una-rubia-y-un-montaero.html
 categories:
-  - humor
-  - noruega
-  - Viajes
-
+- humor
+- noruega
+- Viajes
+date: "2008-08-28T21:21:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=89
+id: 89
+title: Llegan el sueño, una rubia y un montañero. Un pastor me persigue
+url: /2008/08/llegan-el-sueno-una-rubia-y-un-montanero-un-pastor-me-persigue/
 ---
 <p style="text-align: justify;">
   El cansancio poco a poco se apodera de mí y se empieza a notar en el humor. Al igual que un portátil se queda sin batería y la pantalla se desvanece poco a poco yo empiezo a sentir que mi cuerpo pesa y resulto más borde de lo normal. Si cabe. El portátil está además al 6% de batería de modo que estamos en la misma situación.

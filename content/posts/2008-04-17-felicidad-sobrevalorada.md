@@ -1,22 +1,23 @@
 ---
-title: Felicidad sobrevalorada
 author: iarenzana
-type: post
-date: 2008-04-17T17:32:00+00:00
-url: /2008/04/felicidad-sobrevalorada/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/04/felicidad-sobrevalorada.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6518586970167916431
+- /feeds/11302648/posts/default/6518586970167916431
+blogger_permalink:
+- /2008/04/felicidad-sobrevalorada.html
 categories:
-  - filosofía
-  - humor
-  - vida
-
+- filosofía
+- humor
+- vida
+date: "2008-04-17T17:32:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=106
+id: 106
+title: Felicidad sobrevalorada
+url: /2008/04/felicidad-sobrevalorada/
 ---
 <p style="text-align: justify;">
   El momento en el que empiezas a escribir sobre el paseo que acabas de dar para ir a comprar el pan indica oficialmente que ya no tienes vida. Peor aún es escribir sobre las gotitas de lluvia que te caen durante ese paseo hacia la panadería. Pero hoy no voy a hablar de ello&#8230; o sí.

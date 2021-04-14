@@ -1,22 +1,23 @@
 ---
-title: Vida en Somalia (Update 1)
 author: iarenzana
-type: post
-date: 2007-11-27T10:29:00+00:00
-url: /2007/11/vida-en-somalia-update-1/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/11/vida-en-somalia-update-1.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/920929035141853871
+- /feeds/11302648/posts/default/920929035141853871
+blogger_permalink:
+- /2007/11/vida-en-somalia-update-1.html
 categories:
-  - mudanza
-  - reflexión
-  - vida
-
+- mudanza
+- reflexión
+- vida
+date: "2007-11-27T10:29:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=129
+id: 129
+title: Vida en Somalia (Update 1)
+url: /2007/11/vida-en-somalia-update-1/
 ---
 <p style="text-align: justify;">
   La cosa empieza a tomar forma y ha dejado de ser Somalia y pasa a ser Marruecos (sin ofender).

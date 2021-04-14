@@ -1,20 +1,21 @@
 ---
-title: ¿Tan difícil era?
 author: iarenzana
-type: post
-date: 2007-11-14T18:21:00+00:00
-url: /2007/11/tan-dificil-era/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/11/tan-difcil-era.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/4018959581381572645
+- /feeds/11302648/posts/default/4018959581381572645
+blogger_permalink:
+- /2007/11/tan-difcil-era.html
 categories:
-  - música
-
+- música
+date: "2007-11-14T18:21:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=132
+id: 132
+title: ¿Tan difícil era?
+url: /2007/11/tan-dificil-era/
 ---
 <p style="text-align: justify;">
   <p style="text-align: justify;">

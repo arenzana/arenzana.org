@@ -1,20 +1,21 @@
 ---
-title: Lo que hay que ver…
 author: iarenzana
-type: post
-date: 2007-01-22T18:45:00+00:00
-url: /2007/01/lo-que-hay-que-ver/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/01/lo-que-hay-que-ver.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/3865627237707405852
+- /feeds/11302648/posts/default/3865627237707405852
+blogger_permalink:
+- /2007/01/lo-que-hay-que-ver.html
 categories:
-  - videos
-
+- videos
+date: "2007-01-22T18:45:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=194
+id: 194
+title: Lo que hay que ver&#8230;
+url: /2007/01/lo-que-hay-que-ver/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Sólo como nota de curiosidad&#8230; este es un vídeo que vi hace unos meses; buenísimo, cada vez que lo veo se me saltan las lágrimas&#8230; y no precisamente de lástima.
@@ -39,7 +40,7 @@ categories:
   Faltan 39 días, 22 horas y 56 minutos.
 </p>
 
-**Into Jesus** del Álbum &#8220;Supernatural&#8221; por [dc Talk][1]
+**Into Jesus** del Álbum &#8220;Supernatural&#8221; por [dc Talk](http://www.google.com/search?q=%22dc%20Talk%22)
 
 <!-- technorati tags start -->
 
@@ -48,5 +49,3 @@ categories:
 </p>
 
 <!-- technorati tags end -->
-
- [1]: http://www.google.com/search?q=%22dc%20Talk%22

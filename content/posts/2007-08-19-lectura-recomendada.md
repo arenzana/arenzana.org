@@ -1,20 +1,21 @@
 ---
-title: Lectura recomendada
 author: iarenzana
-type: post
-date: 2007-08-19T20:24:00+00:00
-url: /2007/08/lectura-recomendada/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/08/lectura-recomendada.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6812083582168297963
+- /feeds/11302648/posts/default/6812083582168297963
+blogger_permalink:
+- /2007/08/lectura-recomendada.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-08-19T20:24:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=153
+id: 153
+title: Lectura recomendada
+url: /2007/08/lectura-recomendada/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   No lo hago muy a menudo y, de hecho, la última vez que recomendé un <a href="http://micarreta.blogspot.com/2007/01/reas-de-mi-conocimiento.html">libro</a>, no era en español. De modo que sé que la recomendación literaria no es de las secciones más queridas.

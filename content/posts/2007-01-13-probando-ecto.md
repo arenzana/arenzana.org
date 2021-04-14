@@ -1,20 +1,21 @@
 ---
-title: Probando Ecto
 author: iarenzana
-type: post
-date: 2007-01-13T12:30:00+00:00
-url: /2007/01/probando-ecto/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/01/probando-ecto.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/8064704309726156800
+- /feeds/11302648/posts/default/8064704309726156800
+blogger_permalink:
+- /2007/01/probando-ecto.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-01-13T12:30:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=200
+id: 200
+title: Probando Ecto
+url: /2007/01/probando-ecto/
 ---
 <p style="text-align:justify;">
   Esto es básicamente una prueba para ver si funciona el sistema Ecto. Ecto es un programa de publicación de blogs muy atractivo para usuarios de Mac y de Windows.
@@ -23,10 +24,10 @@ categories:
 También pongo una foto para ver cómo quedan las fotos publicadas con Ecto en Blogger&#8230;.
 
 <p style="text-align:justify;">
-  <a href="http://farm1.static.flickr.com/106/304147242_68197afc45.jpg"><img src="http://farm1.static.flickr.com/106/304147242_68197afc45.jpg" height="100" width="124" border="1" hspace="4" vspace="4" alt="304147242 68197Afc45" /></a>
+  <a href="http://farm1.static.flickr.com/106/304147242_68197afc45.jpg"><img loading="lazy" src="http://farm1.static.flickr.com/106/304147242_68197afc45.jpg" height="100" width="124" border="1" hspace="4" vspace="4" alt="304147242 68197Afc45" /></a>
 </p>
 
-**Missing You** from the album &#8220;Still The Same&#8230; Great Rock Classics Of Our Time&#8221; by [Rod Stewart][1]
+**Missing You** from the album &#8220;Still The Same&#8230; Great Rock Classics Of Our Time&#8221; by [Rod Stewart](http://www.google.com/search?q=%22Rod%20Stewart%22)
 
 <!-- technorati tags start -->
 
@@ -35,5 +36,3 @@ También pongo una foto para ver cómo quedan las fotos publicadas con Ecto en B
 </p>
 
 <!-- technorati tags end -->
-
- [1]: http://www.google.com/search?q=%22Rod%20Stewart%22

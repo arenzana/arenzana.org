@@ -1,24 +1,25 @@
 ---
-title: 'Mi Divina Comedia: Carta desde el noveno círculo'
 author: iarenzana
-type: post
-date: 2008-01-12T22:27:00+00:00
-url: /2008/01/mi-divina-comedia-carta-desde-el-noveno-circulo/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/01/mi-divina-comedia-carta-desde-el-noveno.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/2080958081126938372
+- /feeds/11302648/posts/default/2080958081126938372
+blogger_permalink:
+- /2008/01/mi-divina-comedia-carta-desde-el-noveno.html
 categories:
-  - comentario
-  - libros
-  - reflexión
-  - trabajo
-  - vida
-
+- comentario
+- libros
+- reflexión
+- trabajo
+- vida
+date: "2008-01-12T22:27:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=117
+id: 117
+title: 'Mi Divina Comedia: Carta desde el noveno círculo'
+url: /2008/01/mi-divina-comedia-carta-desde-el-noveno-circulo/
 ---
 <p style="text-align: justify;">
   Según la <a href="http://es.wikipedia.org/wiki/La_Divina_Comedia">Divina Comedia</a> (de Dante, para aquellos que suspendéis literatura) el infierno se divide en 9 círculos. Que son los niveles por los que los hombres deben pasar como castigo por sus pecados. El propio Dante, protagonista de su obra, junto con Virgilio, atraviesa los 5 primeros (el alto infierno) y finalmente los 4 últimos. Según el poema tardó 24 horas en atravesar estos últimos 4 círculos.

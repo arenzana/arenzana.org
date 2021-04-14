@@ -1,20 +1,21 @@
 ---
-title: Un poco de informática y consejos para todos
 author: iarenzana
-type: post
-date: 2007-10-25T17:41:00+00:00
-url: /2007/10/un-poco-de-informatica-y-consejos-para-todos/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/10/un-poco-de-informtica-y-consejos-para_25.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/2782866510724803594
+- /feeds/11302648/posts/default/2782866510724803594
+blogger_permalink:
+- /2007/10/un-poco-de-informtica-y-consejos-para_25.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-10-25T17:41:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=139
+id: 139
+title: Un poco de informática y consejos para todos
+url: /2007/10/un-poco-de-informatica-y-consejos-para-todos/
 ---
 <p style="text-align:justify;">
   Algunos pueden pensar que soy un poco exagerado o un neurótico. Pero el otro día por la noche bajé a cerrar la puerta de la oficina y me di cuenta de lo vulnerable que era todo el sistema. Desde un robo hasta un incendio. Hay gran cantidad de datos en los ordenadores que debo mantener y cuya pérdida supondría cierta cantidad de lágrimas (en el sentido figurado y literal).

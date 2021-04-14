@@ -1,20 +1,21 @@
 ---
-title: 'Primeras impresiones: Tránsito y Sydney (Día 1)'
 author: iarenzana
-type: post
-date: 2007-03-05T06:16:00+00:00
-url: /2007/03/primeras-impresiones-transito-y-sydney-dia-1/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/03/primeras-impresiones-trnsito-y-sydney.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/235024660206412250
+- /feeds/11302648/posts/default/235024660206412250
+blogger_permalink:
+- /2007/03/primeras-impresiones-trnsito-y-sydney.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-03-05T06:16:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=179
+id: 179
+title: 'Primeras impresiones: Tránsito y Sydney (Día 1)'
+url: /2007/03/primeras-impresiones-transito-y-sydney-dia-1/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   En la página web donde compré el billete de avión, sólo ponía que 27 horas de viaje (no necesariamente dentro del avión). De lo que no me había dado cuenta era de que esto iban a ser un sol y dos lunas!!

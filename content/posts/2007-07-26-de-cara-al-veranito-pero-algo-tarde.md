@@ -1,20 +1,21 @@
 ---
-title: De cara al veranito (pero algo tarde)
 author: iarenzana
-type: post
-date: 2007-07-26T20:35:00+00:00
-url: /2007/07/de-cara-al-veranito-pero-algo-tarde/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/07/de-cara-al-veranito-pero-algo-tarde.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/2445370253631149864
+- /feeds/11302648/posts/default/2445370253631149864
+blogger_permalink:
+- /2007/07/de-cara-al-veranito-pero-algo-tarde.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-07-26T20:35:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=159
+id: 159
+title: De cara al veranito (pero algo tarde)
+url: /2007/07/de-cara-al-veranito-pero-algo-tarde/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Era cuestión de tiempo que <a href="http://www.elmundo.es/elmundo/2007/07/23/espana/1185198012.html">El Solitario</a> se declarase en <a href="http://www.elmundo.es/elmundo/2007/07/26/espana/1185479611.html?a=c8f7abd974551bbbf450ffe74ccc7706&t=1185481483">huelga de hambre</a>. Primero fue <a href="http://www.elmundo.es/elmundo/2007/01/25/espana/1169761780.html">Iñaki</a>, posteriormente unos <a href="http://www.elmundo.es/elmundo/2004/06/21/sociedad/1087849178.html">inmigrantes</a> y por último (pero no por ello menos importante) <a href="http://www.elmundo.es/elmundo/2007/05/04/espana/1178304491.html">Cachuli</a>. No descarto más miembros en la lista anterior; pero a voz de pronto son los que recuerdo.

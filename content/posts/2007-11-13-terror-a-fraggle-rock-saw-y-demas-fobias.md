@@ -1,22 +1,23 @@
 ---
-title: Terror a Fraggle Rock, Saw y demás fobias
 author: iarenzana
-type: post
-date: 2007-11-13T09:55:00+00:00
-url: /2007/11/terror-a-fraggle-rock-saw-y-demas-fobias/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/11/terror-fraggle-rock-saw-y-dems-fobias.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/7054831195768898026
+- /feeds/11302648/posts/default/7054831195768898026
+blogger_permalink:
+- /2007/11/terror-fraggle-rock-saw-y-dems-fobias.html
 categories:
-  - cine
-  - comentario
-  - reflexión
-
+- cine
+- comentario
+- reflexión
+date: "2007-11-13T09:55:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=133
+id: 133
+title: Terror a Fraggle Rock, Saw y demás fobias
+url: /2007/11/terror-a-fraggle-rock-saw-y-demas-fobias/
 ---
 <p style="text-align: justify;">
   Últimamente existen fobias para todos los gustos. Desde a lugares abiertos a lugares cerrados. De la luz a la oscuridad. Del avión al barco. Después hay otras fobias algo más comunes como fobia a los ladrones, violadores y asesinos en serie; esta última es con la que me siento algo más identifcado.

@@ -1,20 +1,21 @@
 ---
-title: Sueños ardiendo. 3.0?
 author: iarenzana
-type: post
-date: 2009-09-05T21:12:00+00:00
-url: /2009/09/suenos-ardiendo-3-0/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2009/09/suenos-ardiendo-30.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/5860708720736429246
+- /feeds/11302648/posts/default/5860708720736429246
+blogger_permalink:
+- /2009/09/suenos-ardiendo-30.html
 categories:
-  - filosofía
-
+- filosofía
+date: "2009-09-05T21:12:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=67
+id: 67
+title: Sueños ardiendo. 3.0?
+url: /2009/09/suenos-ardiendo-3-0/
 ---
 <p style="text-align: justify;">
   Saludos, quiero, una vez más, disculparme por mi larga ausencia y abandono del blog.

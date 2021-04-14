@@ -1,20 +1,21 @@
 ---
-title: Maniobras de reanimación cardio-respiratoria
 author: iarenzana
-type: post
-date: 2010-05-19T12:56:00+00:00
-url: /2010/05/maniobras-de-reanimacion-cardio-respiratoria/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2010/05/maniobras-de-reanimacion-cardio.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/1408604118336722435
+- /feeds/11302648/posts/default/1408604118336722435
+blogger_permalink:
+- /2010/05/maniobras-de-reanimacion-cardio.html
 categories:
-  - saludos varios
-
+- saludos varios
+date: "2010-05-19T12:56:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=64
+id: 64
+title: Maniobras de reanimación cardio-respiratoria
+url: /2010/05/maniobras-de-reanimacion-cardio-respiratoria/
 ---
 <p style="text-align: justify;">
   Saludos navegantes,

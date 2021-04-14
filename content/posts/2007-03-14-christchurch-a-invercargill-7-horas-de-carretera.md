@@ -1,20 +1,21 @@
 ---
-title: 'Christchurch a Invercargill: 7 horas de carretera'
 author: iarenzana
-type: post
-date: 2007-03-14T07:28:00+00:00
-url: /2007/03/christchurch-a-invercargill-7-horas-de-carretera/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/03/christchurch-invercargill-7-horas-de.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/8696552034540416333
+- /feeds/11302648/posts/default/8696552034540416333
+blogger_permalink:
+- /2007/03/christchurch-invercargill-7-horas-de.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-03-14T07:28:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=171
+id: 171
+title: 'Christchurch a Invercargill: 7 horas de carretera'
+url: /2007/03/christchurch-a-invercargill-7-horas-de-carretera/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Son sólo 579km; pero la autopista 1 (como lo llaman ellos) no es más que un carril (en ocasiones 1 y medio) por sentido. Eso significa que los camiones, tractores y caravanas se aliarán para hacerte el viaje, cuanto menos, imposible. Yo tardé 7 horas y media porque por el camino hice algunas paradas (1 para comer, otra para repostar y la otra para ver un lugar) de modo que más o menos me encontré dentro de la media.

@@ -1,20 +1,21 @@
 ---
-title: Tirados como una colilla (Update 1)
 author: iarenzana
-type: post
-date: 2007-08-24T08:04:00+00:00
-url: /2007/08/tirados-como-una-colilla-update-1/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/08/tirados-como-una-colilla-update-1.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/840004487774563917
+- /feeds/11302648/posts/default/840004487774563917
+blogger_permalink:
+- /2007/08/tirados-como-una-colilla-update-1.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-08-24T08:04:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=151
+id: 151
+title: Tirados como una colilla (Update 1)
+url: /2007/08/tirados-como-una-colilla-update-1/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Dado el interés que había despertó la reparación de mi coche (por algunos en particular) voy a dar el estado actual de la situación.

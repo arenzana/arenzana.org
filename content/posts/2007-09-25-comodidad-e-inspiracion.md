@@ -1,20 +1,21 @@
 ---
-title: Comodidad e inspiración
 author: iarenzana
-type: post
-date: 2007-09-25T17:23:00+00:00
-url: /2007/09/comodidad-e-inspiracion/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/09/comodidad-e-inspiracin.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/159198051174375504
+- /feeds/11302648/posts/default/159198051174375504
+blogger_permalink:
+- /2007/09/comodidad-e-inspiracin.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-09-25T17:23:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=149
+id: 149
+title: Comodidad e inspiración
+url: /2007/09/comodidad-e-inspiracion/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   He terminado de trabajar, me he dado una ducha y me he puesto a escribir. Evidentemente el blog no hasta ahora, como se puede ver. Tumbado en una hamaca en el jardín con mi portátil encima he empezado a derrochar bytes y lanzar líneas en mi procesador de texto dando forma a algo que aún no soy capaz de identificar. Qué ironía. Algunos dicen que la felicidad la componen cosas muy sencillas, y es verdad, aunque cierta complejidad aporta un nivel diferente de placer. También hubiera querido estar en la playa, pero siempre se puede tener todo supongo.
@@ -40,6 +41,4 @@ categories:
   (*) No uso el homónimo Puerta del Sol &#8211; Nochevieja porque eso forma parte de la propiedad intelectual de <a href="http://es.wikipedia.org/wiki/Ram%C3%B3n_Garc%C3%ADa">Ramonchu</a> quien no ha pagado por la publicidad del presente blog.
 </p>
 
-**Radio Nowhere** from the album &#8220;Radio Nowhere &#8211; Single&#8221; by [Bruce Springsteen][1]
-
- [1]: http://www.google.com/search?q=%22Bruce%20Springsteen%22
+**Radio Nowhere** from the album &#8220;Radio Nowhere &#8211; Single&#8221; by [Bruce Springsteen](http://www.google.com/search?q=%22Bruce%20Springsteen%22)

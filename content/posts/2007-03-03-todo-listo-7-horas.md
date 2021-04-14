@@ -1,20 +1,21 @@
 ---
-title: 'Todo listo: 7 horas'
 author: iarenzana
-type: post
-date: 2007-03-03T10:19:00+00:00
-url: /2007/03/todo-listo-7-horas/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/03/todo-listo-7-horas.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/3344983935891127364
+- /feeds/11302648/posts/default/3344983935891127364
+blogger_permalink:
+- /2007/03/todo-listo-7-horas.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-03-03T10:19:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=180
+id: 180
+title: 'Todo listo: 7 horas'
+url: /2007/03/todo-listo-7-horas/
 ---
 <p style="text-indent:20pt;">
   7 horas para la hora D. Acabo de cerrar la maleta enorme. Pensaba llevarla con sitio de sobra para lo que traiga de vuelta; pero las botas y el abrigo (para la visita a Mount Cook) ocupan demasiado. La bolsa de mano aún tiene sitio de sobra. Pero ya lo veremos.

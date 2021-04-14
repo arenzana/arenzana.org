@@ -1,20 +1,21 @@
 ---
-title: National Geographic de jardín
 author: iarenzana
-type: post
-date: 2007-10-05T17:49:00+00:00
-url: /2007/10/national-geographic-de-jardin/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/10/national-geographic-de-jardn.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/5193938822593818791
+- /feeds/11302648/posts/default/5193938822593818791
+blogger_permalink:
+- /2007/10/national-geographic-de-jardn.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-10-05T17:49:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=144
+id: 144
+title: National Geographic de jardín
+url: /2007/10/national-geographic-de-jardin/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Hay momentos de aburrimiento; en mi vida más bien pocos, pero cuando los hay me doy cuenta de que no debo desperdiciarlos. Es mejor cuando, además, tienes a otra persona aburrida junto a ti que está dispuesta a aprovecharlos igualmente. Este ha sido el caso de Guillemo y mío hoy.
@@ -33,7 +34,7 @@ categories:
 </p>
 
 <p style="text-align:center;">
-  <a href="http://www.flickr.com/photos/abysm/1490455333/" title="Mantis"><img src="http://farm2.static.flickr.com/1065/1490455333_55890cef5f.jpg" width="500" height="333" alt="IMG_3386.JPG" /></a>
+  <a href="http://www.flickr.com/photos/abysm/1490455333/" title="Mantis"><img loading="lazy" src="http://farm2.static.flickr.com/1065/1490455333_55890cef5f.jpg" width="500" height="333" alt="IMG_3386.JPG" /></a>
 </p>
 
 <p style="text-align:justify;text-indent:20pt;">
@@ -41,7 +42,7 @@ categories:
 </p>
 
 <p style="text-align:center;">
-  <a href="http://www.flickr.com/photos/abysm/1491309852/" title="Mantis 2"><img src="http://farm2.static.flickr.com/1257/1491309852_33a0fdb5af.jpg" width="500" height="333" alt="IMG_3384.JPG" /></a>
+  <a href="http://www.flickr.com/photos/abysm/1491309852/" title="Mantis 2"><img loading="lazy" src="http://farm2.static.flickr.com/1257/1491309852_33a0fdb5af.jpg" width="500" height="333" alt="IMG_3384.JPG" /></a>
 </p>
 
 <p style="text-align:justify;text-indent:20pt;">
@@ -58,6 +59,4 @@ categories:
 
 **</p> 
 
-Unchanging</strong> from the album &#8220;Not to Us&#8221; by [Chris Tomlin][1]
-
- [1]: http://www.google.com/search?q=%22Chris%20Tomlin%22
+Unchanging</strong> from the album &#8220;Not to Us&#8221; by [Chris Tomlin](http://www.google.com/search?q=%22Chris%20Tomlin%22)

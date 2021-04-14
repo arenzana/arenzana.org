@@ -1,25 +1,25 @@
 ---
-title: Racoon Obsession – Day 2
 author: iarenzana
-type: post
-date: 2013-03-11T16:30:00+00:00
-url: /2013/03/racoon-obsession-day-2/
-featured_image: /wp-content/uploads/2013/03/racoon-obsession-3.jpg
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2013/03/racoon-obsession-day-2.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/2654634644700520704
+- /feeds/11302648/posts/default/2654634644700520704
+blogger_permalink:
+- /2013/03/racoon-obsession-day-2.html
 categories:
-  - curiosidades
-  - Fort Wayne
-  - foto
-  - Fotografía
-  - vida
-
+- curiosidades
+- Fort Wayne
+- foto
+- Fotografía
+- vida
+date: "2013-03-11T16:30:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+id: 29
+image: /wp-content/uploads/2013/03/racoon-obsession-3.jpg
+title: Racoon Obsession &#8211; Day 2
+url: /2013/03/racoon-obsession-day-2/
 ---
 <div style="text-align: justify;">
   Lo primero que he tenido que hacer es buscarme la enemistad con mis vecinos al dejar la tapa del cubo de basura abierto. Buscarme enemigos entre mis vecinos no es lo más conveniente cuando lo que quieres es, precisamente, hacer amigos. Pero ese es el precio a pagar. El caso es que para poder ver a mis amigos los mapaches primero debo permitirles que rebusquen en la basura.
@@ -37,7 +37,7 @@ categories:
 </div>
 
 <div style="clear: both; text-align: center;">
-  <a href="https://arenzana.org/wp-content/uploads/2013/03/racoon-obsession-3.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://arenzana.org/wp-content/uploads/2013/03/racoon-obsession-3.jpg" width="213" /></a>
+  <a href="https://arenzana.org/wp-content/uploads/2013/03/racoon-obsession-3.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" border="0" height="320" src="https://arenzana.org/wp-content/uploads/2013/03/racoon-obsession-3.jpg" width="213" /></a>
 </div>
 
 <div style="text-align: justify;">

@@ -1,22 +1,23 @@
 ---
-title: Isma 2.0 LTS (Update 1)
 author: iarenzana
-type: post
-date: 2008-07-11T10:09:00+00:00
-url: /2008/07/isma-2-0-lts-update-1/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/07/isma-20-lts-update-1.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/3974779833487493875
+- /feeds/11302648/posts/default/3974779833487493875
+blogger_permalink:
+- /2008/07/isma-20-lts-update-1.html
 categories:
-  - filosofía
-  - reflexión
-  - vida
-
+- filosofía
+- reflexión
+- vida
+date: "2008-07-11T10:09:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=96
+id: 96
+title: Isma 2.0 LTS (Update 1)
+url: /2008/07/isma-2-0-lts-update-1/
 ---
 <p style="text-align: justify;">
   Una guitarra eléctrica Les Paul de Epiphone también pasa a formar parte de mi nuevo &#8216;yo&#8217;.

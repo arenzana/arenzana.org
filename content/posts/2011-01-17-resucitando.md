@@ -1,20 +1,21 @@
 ---
-title: Resucitando
 author: iarenzana
-type: post
-date: 2011-01-17T20:03:00+00:00
-url: /2011/01/resucitando/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2011/01/resucitando.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6164506958893676323
+- /feeds/11302648/posts/default/6164506958893676323
+blogger_permalink:
+- /2011/01/resucitando.html
 categories:
-  - libros
-
+- libros
+date: "2011-01-17T20:03:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=52
+id: 52
+title: Resucitando
+url: /2011/01/resucitando/
 ---
 <p style="text-align: justify;">
   Una pequeña pausa en mis tareas diarias para recordar las palabras de una escritora a quien tuve el placer de conocer.

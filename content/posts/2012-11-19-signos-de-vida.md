@@ -1,24 +1,24 @@
 ---
-title: Signos de vida
 author: iarenzana
-type: post
-date: 2012-11-19T02:22:00+00:00
-url: /2012/11/signos-de-vida/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2012/11/signos-de-vida.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/7714809263101974176
+- /feeds/11302648/posts/default/7714809263101974176
+blogger_permalink:
+- /2012/11/signos-de-vida.html
 categories:
-  - Dios
-  - fe
-  - noticias
-  - reflexión
-  - vida
-
+- Dios
+- fe
+- noticias
+- reflexión
+- vida
+date: "2012-11-19T02:22:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+id: 36
+title: Signos de vida
+url: /2012/11/signos-de-vida/
 ---
 <p style="text-align: justify;">
   Me gusta Anatomía de Grey, lo confieso. Sé que es serie &#8220;de tías&#8221; pero me da igual: digan lo que digan me gusta Anatomía de Grey. Uno de esos grandes momentos en la serie es cuando el paciente se encuentra en la mesa de operaciones rodeado de 15 batas blancas, verdes y azules. Como en Carnaval. Se trata de una operación de alto riesgo de la que el paciente saldrá o bien completamente curado o morirá. Anatomía de Grey es, al contrario de lo que su nombre indica, blanco o negro. Supongo que no van demasiado a hospitales españoles donde la mayor parte de las veces sales igual que entras. Tonterías a parte, uno de los puntos álgidos de la operación es que el paciente debe morir temporalmente en algún momento y he aquí la secuencia de sucesos:

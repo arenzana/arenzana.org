@@ -1,22 +1,23 @@
 ---
-title: Los viajes de Gulliver
 author: iarenzana
-type: post
-date: 2010-01-12T17:13:00+00:00
-url: /2010/01/los-viajes-de-gulliver/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2010/01/los-viajes-de-gulliver.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/8416293731261071850
+- /feeds/11302648/posts/default/8416293731261071850
+blogger_permalink:
+- /2010/01/los-viajes-de-gulliver.html
 categories:
-  - comentario
-  - humor
-  - Viajes
-
+- comentario
+- humor
+- Viajes
+date: "2010-01-12T17:13:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=65
+id: 65
+title: Los viajes de Gulliver
+url: /2010/01/los-viajes-de-gulliver/
 ---
 <div style="text-align: justify;">
   Y no es porque viaje mucho. Que también, si no porque me sentí un poco como el capitán Lemuel Gulliver en Brobdingnag: rodeado de gigantes cuando hace varias semanas viajé, una vez más, a mi querida América. O mejor dicho, Estados Unidos de América, ya que argentinos, chilenos y ecuatorianos entre otros sienten esta acepción del país norteamericano como un ataque hacia su propia patria. Y en España quejándonos de nacionalismos. Y es que, amigos míos, una vez más vuelvo a decirlo: todo es grande en América.

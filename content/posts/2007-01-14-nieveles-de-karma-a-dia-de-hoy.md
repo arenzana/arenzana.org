@@ -1,20 +1,21 @@
 ---
-title: Nieveles de Karma a día de hoy
 author: iarenzana
-type: post
-date: 2007-01-14T18:34:00+00:00
-url: /2007/01/nieveles-de-karma-a-dia-de-hoy/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/01/nieveles-de-karma-da-de-hoy.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/4429961591628590630
+- /feeds/11302648/posts/default/4429961591628590630
+blogger_permalink:
+- /2007/01/nieveles-de-karma-da-de-hoy.html
 categories:
-  - karma
-
+- karma
+date: "2007-01-14T18:34:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=199
+id: 199
+title: Nieveles de Karma a día de hoy
+url: /2007/01/nieveles-de-karma-a-dia-de-hoy/
 ---
 <p style="text-indent:20pt;">
   A partir de hoy cada domingo (salvo fuerza mayor) publicaré mis niveles de karma con respecto al mundo. Estos niveles se refieren a mi humor, ánimo y en general respuesta a ciertos impulsos. Para aquellos incultos que no sabéis qué es el karma&#8230;
@@ -40,18 +41,12 @@ categories:
   Bueno, sin más os dejo con la tabla de resultados de la semana junto a una pequeña explicación:
 </p>
 
-Amigos 7
-  
-Familia 8
-  
-Trabajo 7
-  
-Meteorología 8
-  
-Alimentación 7
-  
-General 5
-  
+Amigos 7  
+Familia 8  
+Trabajo 7  
+Meteorología 8  
+Alimentación 7  
+General 5  
 **Total Semanal 7**
 
 <p style="text-indent:20pt;">

@@ -1,20 +1,21 @@
 ---
-title: Viernes víspera de vacaciones
 author: iarenzana
-type: post
-date: 2007-08-10T17:59:00+00:00
-url: /2007/08/viernes-vispera-de-vacaciones/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/08/viernes-vspera-de-vacaciones.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/2364880788990902224
+- /feeds/11302648/posts/default/2364880788990902224
+blogger_permalink:
+- /2007/08/viernes-vspera-de-vacaciones.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-08-10T17:59:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=155
+id: 155
+title: Viernes víspera de vacaciones
+url: /2007/08/viernes-vispera-de-vacaciones/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Saludos tripulación. Mañana salgo en dirección NW (noroeste para los incultos). Destino: León. Está bien, no tiene tanto glamour como Sydney o Nueva Zelanda, pero&#8230; algo es algo. Mis acompañantes&#8230; mis padres. Está bien, no tiene&#8230;. [Censurado] pero algo es algo.

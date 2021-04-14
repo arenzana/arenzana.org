@@ -1,22 +1,23 @@
 ---
-title: Todo Listo – Empieza la cuenta atrás.
 author: iarenzana
-type: post
-date: 2007-01-18T11:46:00+00:00
-url: /2007/01/todo-listo-empieza-la-cuenta-atras/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/01/todo-listo-empieza-la-cuenta-atrs.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6311838591561908692
+- /feeds/11302648/posts/default/6311838591561908692
+blogger_permalink:
+- /2007/01/todo-listo-empieza-la-cuenta-atrs.html
 categories:
-  - Australia
-  - NZ
-  - Viajes
-
+- Australia
+- NZ
+- Viajes
+date: "2007-01-18T11:46:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=197
+id: 197
+title: Todo Listo &#8211; Empieza la cuenta atrás.
+url: /2007/01/todo-listo-empieza-la-cuenta-atras/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Ayer me trajo mi padre del trabajo la reserva del coche en Nueva Zelanda, consiguiendo así completar mi lista de quehaceres previos al viaje, bueno, aún queda algún detallito, pero bueno.

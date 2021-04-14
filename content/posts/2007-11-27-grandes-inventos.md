@@ -1,20 +1,21 @@
 ---
-title: Grandes inventos
 author: iarenzana
-type: post
-date: 2007-11-27T21:03:00+00:00
-url: /2007/11/grandes-inventos/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/11/grandes-inventos.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6535630695734458464
+- /feeds/11302648/posts/default/6535630695734458464
+blogger_permalink:
+- /2007/11/grandes-inventos.html
 categories:
-  - humor
-
+- humor
+date: "2007-11-27T21:03:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=128
+id: 128
+title: Grandes inventos
+url: /2007/11/grandes-inventos/
 ---
 <p style="text-align: justify;">
   No hay nada que decir:

@@ -1,20 +1,21 @@
 ---
-title: Un leopardo en mi ordenador!!!!
 author: iarenzana
-type: post
-date: 2007-10-31T10:18:00+00:00
-url: /2007/10/un-leopardo-en-mi-ordenador/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/10/un-leopardo-en-mi-ordenador.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/5312466512537717890
+- /feeds/11302648/posts/default/5312466512537717890
+blogger_permalink:
+- /2007/10/un-leopardo-en-mi-ordenador.html
 categories:
-  - informática
-
+- informática
+date: "2007-10-31T10:18:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=136
+id: 136
+title: Un leopardo en mi ordenador!!!!
+url: /2007/10/un-leopardo-en-mi-ordenador/
 ---
 Reconozco que soy un &#8216;fanboy&#8217; pero&#8230; soy informático al fin y al cabo. Ayer, muy ilusionado, recibí el DVD de instalación de Mac OS X Leopard; la última versión del sistema operativo de Apple.
 

@@ -1,21 +1,22 @@
 ---
-title: Ballenas y despertadores
 author: iarenzana
-type: post
-date: 2008-08-26T10:05:00+00:00
-url: /2008/08/ballenas-y-despertadores/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/08/ballenas-y-despertadores.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/1728300277572269630
+- /feeds/11302648/posts/default/1728300277572269630
+blogger_permalink:
+- /2008/08/ballenas-y-despertadores.html
 categories:
-  - humor
-  - Viajes
-
+- humor
+- Viajes
+date: "2008-08-26T10:05:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=90
+id: 90
+title: Ballenas y despertadores
+url: /2008/08/ballenas-y-despertadores/
 ---
 <p style="text-align: justify;">
   Por algún extraño motivo siempre he sido de los que han podido conciliar el sueño desde el primer momento en el que pongo la cabeza en mí almohada (o la roca dependiendo de la superficie donde duerma) y me despierto exactamente 3 minutos antes de que suene el despertador: ni 2 minutos ni 1 minuto. 3. 7:57, 8:57, 9:57&#8230;. da igual. Inexplicablemente este comportamiento se altera cuando estoy de vacaciones y los despertadores, de repente se convierten en astutos enemigos que por unos días, consiguen derribarme de un puñetazo. En vacaciones además desayuno notablemente más.

@@ -1,27 +1,28 @@
 ---
-title: Hasta la Vista (Capitulo 1)
 author: iarenzana
-type: post
-date: 2007-01-31T19:06:00+00:00
-url: /2007/01/hasta-la-vista-capitulo-1/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/01/hasta-la-vista.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6963593508462866151
+- /feeds/11302648/posts/default/6963593508462866151
+blogger_permalink:
+- /2007/01/hasta-la-vista.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-01-31T19:06:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=188
+id: 188
+title: Hasta la Vista (Capitulo 1)
+url: /2007/01/hasta-la-vista-capitulo-1/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Debido a la cantidad de preguntas que he recibido últimamente al respecto, he decidido hacer un post sobre Windows Vista. Lo dividiré en diferentes capítulos conforme me apetezca, naturalmente.
 </p>
 
 <p style="text-align:center;">
-  <a href="http://farm1.static.flickr.com/21/27785874_a58b0ea95b.jpg"><img src="http://farm1.static.flickr.com/21/27785874_a58b0ea95b.jpg" height="100" width="136" border="1" hspace="4" vspace="4" alt="27785874 A58B0Ea95B" /></a>
+  <a href="http://farm1.static.flickr.com/21/27785874_a58b0ea95b.jpg"><img loading="lazy" src="http://farm1.static.flickr.com/21/27785874_a58b0ea95b.jpg" height="100" width="136" border="1" hspace="4" vspace="4" alt="27785874 A58B0Ea95B" /></a>
 </p>
 
 <p style="text-align:justify;text-indent:20pt;">
@@ -33,7 +34,7 @@ categories:
 </p>
 
 <p style="text-align:center;">
-  <a href="http://farm1.static.flickr.com/130/329104487_c5908eff20.jpg"><img src="http://farm1.static.flickr.com/130/329104487_c5908eff20.jpg" height="230" width="365" border="1" hspace="4" vspace="4" alt="329104487 C5908Eff20" /></a>
+  <a href="http://farm1.static.flickr.com/130/329104487_c5908eff20.jpg"><img loading="lazy" src="http://farm1.static.flickr.com/130/329104487_c5908eff20.jpg" height="230" width="365" border="1" hspace="4" vspace="4" alt="329104487 C5908Eff20" /></a>
 </p>
 
 <p style="text-align:justify;text-indent:20pt;">
@@ -41,7 +42,7 @@ categories:
 </p>
 
 <p style="text-align:center;">
-  <a href="http://farm1.static.flickr.com/51/144956768_45e6304305_b.jpg"><img src="http://farm1.static.flickr.com/51/144956768_45e6304305_b.jpg" height="219" width="357" border="1" hspace="4" vspace="4" alt="144956768 45E6304305 B" /></a>
+  <a href="http://farm1.static.flickr.com/51/144956768_45e6304305_b.jpg"><img loading="lazy" src="http://farm1.static.flickr.com/51/144956768_45e6304305_b.jpg" height="219" width="357" border="1" hspace="4" vspace="4" alt="144956768 45E6304305 B" /></a>
 </p>
 
 <p style="text-align:justify;text-indent:20pt;">

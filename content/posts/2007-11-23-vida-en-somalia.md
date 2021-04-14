@@ -1,21 +1,22 @@
 ---
-title: Vida en Somalia
 author: iarenzana
-type: post
-date: 2007-11-23T09:39:00+00:00
-url: /2007/11/vida-en-somalia/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/11/vida-en-somalia.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/8065499719829049226
+- /feeds/11302648/posts/default/8065499719829049226
+blogger_permalink:
+- /2007/11/vida-en-somalia.html
 categories:
-  - mudanza
-  - vida
-
+- mudanza
+- vida
+date: "2007-11-23T09:39:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=130
+id: 130
+title: Vida en Somalia
+url: /2007/11/vida-en-somalia/
 ---
 <p style="text-align: justify;">
   Sé que algunos se habrán rasgado las vestiduras al leer el título del post &#8220;tú no sabes lo que es vivir en Somalia&#8221; o &#8220;tu problema no tiene comparación a lo que se vive en Somalia&#8221; pues sí, es cierto. Es verdad que ni soy miserable ni desgraciado. Pero antes dejadme explicar lo que sucede.

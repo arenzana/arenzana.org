@@ -1,20 +1,21 @@
 ---
-title: Aprendiendo a volar
 author: iarenzana
-type: post
-date: 2007-07-19T18:00:00+00:00
-url: /2007/07/aprendiendo-a-volar/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/07/aprendiendo-volar.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/2451750211150445533
+- /feeds/11302648/posts/default/2451750211150445533
+blogger_permalink:
+- /2007/07/aprendiendo-volar.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-07-19T18:00:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=161
+id: 161
+title: Aprendiendo a volar
+url: /2007/07/aprendiendo-a-volar/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Hay momentos en la vida de un hombre en los que uno debe sacar las alas y lanzarse al vacío: es lo que los expertos llaman aprender a volar; yo lo llamo aprender a cocinar. Debido a cuestiones ajenas a mí hoy mi madre no ha podido proporcionarme materia alimenticia; de modo que tuve que enfrentarme a la cruda realidad: tendría que hacer yo la comida.

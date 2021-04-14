@@ -1,22 +1,23 @@
 ---
-title: La taquilla 194 y Guantánamo
 author: iarenzana
-type: post
-date: 2008-11-06T12:16:00+00:00
-url: /2008/11/la-taquilla-194-y-guantanamo/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/11/la-taquilla-194-y-guantnamo.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/842451824199075872
+- /feeds/11302648/posts/default/842451824199075872
+blogger_permalink:
+- /2008/11/la-taquilla-194-y-guantnamo.html
 categories:
-  - comentario
-  - humor
-  - vida
-
+- comentario
+- humor
+- vida
+date: "2008-11-06T12:16:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=87
+id: 87
+title: La taquilla 194 y Guantánamo
+url: /2008/11/la-taquilla-194-y-guantanamo/
 ---
 <p style="text-align: justify;">
   Recientemente he descubierto que tras las vacaciones me cuesta escribir. Lo he notado en que pasó prácticamente un año desde mi viaje a Australia hasta los siguientes posts; culpé de aquella ausencia al jet-lag y que necesitaba un tiempo para digerir todo lo que había vivido. Tras hablar con gente descubrí que nadie se había creido lo del jet-lag y que básicamente estaba usando excusas para tapar mi vaguería. Eso también.

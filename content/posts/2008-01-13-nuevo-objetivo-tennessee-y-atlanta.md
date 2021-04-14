@@ -1,22 +1,23 @@
 ---
-title: 'Nuevo Objetivo: Tennessee y Atlanta'
 author: iarenzana
-type: post
-date: 2008-01-13T21:35:00+00:00
-url: /2008/01/nuevo-objetivo-tennessee-y-atlanta/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/01/nuevo-objetivo-tennessee-y-atlanta.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/8659888347120326985
+- /feeds/11302648/posts/default/8659888347120326985
+blogger_permalink:
+- /2008/01/nuevo-objetivo-tennessee-y-atlanta.html
 categories:
-  - comentario
-  - eeuu
-  - Viajes
-
+- comentario
+- eeuu
+- Viajes
+date: "2008-01-13T21:35:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=116
+id: 116
+title: 'Nuevo Objetivo: Tennessee y Atlanta'
+url: /2008/01/nuevo-objetivo-tennessee-y-atlanta/
 ---
 <p style="text-align: justify;">
   Escribo hoy para informar de los próximos planes. Y lo cierto es que lo hago con muy poca antelación ya que debido a compromisos laborales, como bien sabéis, mi disponibilidad para escribir se ha visto gravemente mermada.
@@ -30,7 +31,6 @@ categories:
 </p>
 
 <div style="text-align: center;">
-  <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=Knoxville,+TN,+USA&ie=UTF8&om=1&s=AARTsJrQ7-YHy2MzxdlJQIqAF3dD5F-kSw&ll=37.753344,-81.474609&spn=12.151728,18.676758&z=5&output=embed"></iframe>
 </div>
 
 <div style="text-align: center;">

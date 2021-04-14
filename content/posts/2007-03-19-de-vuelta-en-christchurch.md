@@ -1,20 +1,21 @@
 ---
-title: De vuelta en Christchurch
 author: iarenzana
-type: post
-date: 2007-03-19T04:30:00+00:00
-url: /2007/03/de-vuelta-en-christchurch/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/03/de-vuelta-en-christchurch.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/7116156757409505327
+- /feeds/11302648/posts/default/7116156757409505327
+blogger_permalink:
+- /2007/03/de-vuelta-en-christchurch.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-03-19T04:30:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=166
+id: 166
+title: De vuelta en Christchurch
+url: /2007/03/de-vuelta-en-christchurch/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   A las 8:45am hacía el &#8220;check-out&#8221; del hotel en el que estaba en Tekapo. Debo decir que no me sentí demasiado mal. A pesar de que el sitio era espectacularment bonito&#8230; no ofrecían demasiadas oportunidades para visitar la zona, etc.

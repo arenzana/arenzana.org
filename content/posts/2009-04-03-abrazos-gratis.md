@@ -1,22 +1,23 @@
 ---
-title: Abrazos gratis
 author: iarenzana
-type: post
-date: 2009-04-03T20:05:00+00:00
-url: /2009/04/abrazos-gratis/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2009/04/abrazos-gratis.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/3394402562498117408
+- /feeds/11302648/posts/default/3394402562498117408
+blogger_permalink:
+- /2009/04/abrazos-gratis.html
 categories:
-  - comentario
-  - gracias
-  - vida
-
+- comentario
+- gracias
+- vida
+date: "2009-04-03T20:05:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=75
+id: 75
+title: Abrazos gratis
+url: /2009/04/abrazos-gratis/
 ---
 <p style="text-align: justify;">
   He oído decir cientos de veces aquella frase de &#8220;nadie regala nada&#8221;. Error. Gran error.

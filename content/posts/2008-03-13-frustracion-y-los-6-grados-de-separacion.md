@@ -1,23 +1,24 @@
 ---
-title: Frustración y los 6 grados de separación
 author: iarenzana
-type: post
-date: 2008-03-13T14:51:00+00:00
-url: /2008/03/frustracion-y-los-6-grados-de-separacion/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/03/frustracin-y-los-6-grados-de-separacin.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/5417187410974927433
+- /feeds/11302648/posts/default/5417187410974927433
+blogger_permalink:
+- /2008/03/frustracin-y-los-6-grados-de-separacin.html
 categories:
-  - comentario
-  - filosofía
-  - reflexión
-  - trabajo
-
+- comentario
+- filosofía
+- reflexión
+- trabajo
+date: "2008-03-13T14:51:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=111
+id: 111
+title: Frustración y los 6 grados de separación
+url: /2008/03/frustracion-y-los-6-grados-de-separacion/
 ---
 <p style="text-align: justify;">
   Hace unos 40 años un escritor húngaro propuso la teoría de los seis grados de separación. Dicha teoría sostiene que toda persona está conectada a cualquier otra persona del planeta por una cadena de conocidos que no tiene más de cinco intermediarios; es decir, una cadena de seis personas.

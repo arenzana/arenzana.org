@@ -1,27 +1,28 @@
 ---
-title: Jazz, formas sinuosas y otros recuerdos del pasado
 author: iarenzana
-type: post
-date: 2010-12-13T18:36:00+00:00
-url: /2010/12/jazz-formas-sinuosas-y-otros-recuerdos-del-pasado/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2010/12/jazz-formas-sinuosas-y-otros-recuerdos.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/5955950546631872103
+- /feeds/11302648/posts/default/5955950546631872103
+blogger_permalink:
+- /2010/12/jazz-formas-sinuosas-y-otros-recuerdos.html
 categories:
-  - amigos
-  - arte
-  - Australia
-  - foto
-  - música
-  - reflexión
-  - Viajes
-  - vida
-
+- amigos
+- arte
+- Australia
+- foto
+- música
+- reflexión
+- Viajes
+- vida
+date: "2010-12-13T18:36:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=53
+id: 53
+title: Jazz, formas sinuosas y otros recuerdos del pasado
+url: /2010/12/jazz-formas-sinuosas-y-otros-recuerdos-del-pasado/
 ---
 <!-- p.p1 {margin: 0.0px 0.0px 12.0px 0.0px; text-align: justify; font: 12.0px Helvetica} p.p2 {margin: 0.0px 0.0px 12.0px 0.0px; text-align: justify; font: 12.0px Helvetica; min-height: 14.0px} span.s1 {text-decoration: underline ; color: #053bee} -->
 

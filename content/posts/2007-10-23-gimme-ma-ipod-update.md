@@ -1,20 +1,21 @@
 ---
-title: Gimme ma iPod (update)
 author: iarenzana
-type: post
-date: 2007-10-23T16:02:00+00:00
-url: /2007/10/gimme-ma-ipod-update/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/10/gimme-ma-ipod-update.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/5457355397879518732
+- /feeds/11302648/posts/default/5457355397879518732
+blogger_permalink:
+- /2007/10/gimme-ma-ipod-update.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-10-23T16:02:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=140
+id: 140
+title: Gimme ma iPod (update)
+url: /2007/10/gimme-ma-ipod-update/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Muchos preguntan (muchos no; pero eso no importa) por qué hace días que no escribo. Y bueno, la respuesta es sencilla. He estado jugando con mi nuevo iPod Touch. Llegó el viernes y estoy como niño con juguete nuevo. Algunos me han pedido fotos; pero no estoy preparado para mandarlas todavía; aunque espero hacerlo en los próximos días.

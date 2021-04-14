@@ -1,20 +1,21 @@
 ---
-title: Áreas de mi conocimiento
 author: iarenzana
-type: post
-date: 2007-01-19T10:11:00+00:00
-url: /2007/01/areas-de-mi-conocimiento/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/01/reas-de-mi-conocimiento.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/2543217706648422634
+- /feeds/11302648/posts/default/2543217706648422634
+blogger_permalink:
+- /2007/01/reas-de-mi-conocimiento.html
 categories:
-  - libros
-
+- libros
+date: "2007-01-19T10:11:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=196
+id: 196
+title: Áreas de mi conocimiento
+url: /2007/01/areas-de-mi-conocimiento/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   A modo de recomendación, el otro día escuché un audio-book en inglés de John Hodgman titulado &#8220;Areas of my Expertise&#8221; que traducido viene a ser &#8220;Las áreas de mi conocimiento&#8221; o &#8220;Áreas en las que destaco&#8221;. Es un libro muy divertido y lo recomiendo absolutamente si entiendes inglés tanto hablado como escrito (aunque sea poco).
@@ -36,7 +37,7 @@ categories:
   Faltan 43 días, 9 horas y 27 minutos.
 </p>
 
-**From The Inside Out** del Álbum &#8220;United We Stand&#8221; por [Hillsong][1]
+**From The Inside Out** del Álbum &#8220;United We Stand&#8221; por [Hillsong](http://www.google.com/search?q=%22Hillsong%22)
 
 <!-- technorati tags start -->
 
@@ -45,5 +46,3 @@ categories:
 </p>
 
 <!-- technorati tags end -->
-
- [1]: http://www.google.com/search?q=%22Hillsong%22

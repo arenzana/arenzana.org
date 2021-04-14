@@ -1,20 +1,21 @@
 ---
-title: Ocio y tiempo libre (de ese poco)
 author: iarenzana
-type: post
-date: 2007-09-30T13:46:00+00:00
-url: /2007/09/ocio-y-tiempo-libre-de-ese-poco/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/09/ocio-y-tiempo-libre-de-ese-poco.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/9110198794921964175
+- /feeds/11302648/posts/default/9110198794921964175
+blogger_permalink:
+- /2007/09/ocio-y-tiempo-libre-de-ese-poco.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-09-30T13:46:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=146
+id: 146
+title: Ocio y tiempo libre (de ese poco)
+url: /2007/09/ocio-y-tiempo-libre-de-ese-poco/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Como la mayoría sabéis, estamos en medio de una mudanza que, a voz de pronto va a dar para largo. Mientras tanto nos encontramos en un lugar indeterminado de la geografía madrileña mientras concluimos dicha gesta.

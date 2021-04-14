@@ -1,20 +1,21 @@
 ---
-title: Liberando la música
 author: iarenzana
-type: post
-date: 2007-02-08T11:22:00+00:00
-url: /2007/02/liberando-la-musica/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/02/liberando-la-msica.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/7698865609840521394
+- /feeds/11302648/posts/default/7698865609840521394
+blogger_permalink:
+- /2007/02/liberando-la-msica.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-02-08T11:22:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=184
+id: 184
+title: Liberando la música
+url: /2007/02/liberando-la-musica/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Ayer despertábamos con un ensayo escrito por <a href="http://es.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a> (presidente ejecutivo de Apple, Inc) en el que comentaba el futuro, que, a su juicio tendrá la música protegida por DRM (música comprada en el iTunes Music Store, Sony Connect, Zune Store&#8230;. etc).

@@ -1,20 +1,21 @@
 ---
-title: Monte Cocinar
 author: iarenzana
-type: post
-date: 2007-03-18T05:57:00+00:00
-url: /2007/03/monte-cocinar/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/03/monte-cocinar.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/7876195727841548462
+- /feeds/11302648/posts/default/7876195727841548462
+blogger_permalink:
+- /2007/03/monte-cocinar.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-03-18T05:57:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=167
+id: 167
+title: Monte Cocinar
+url: /2007/03/monte-cocinar/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Hoy no hay demasiadas novedades en el frente, de modo que será un post bastante corto. Hoy he ido a visitar Mount Cook (Monte Cocinar) para ver si podía dar un paseo en avioneta por allí, o un tour o montar a caballo o algo. Según llego a la zona empieza a llover (aquí en tekapo lucía Lorenzo). Me dicen que no se permiten operaciones en el área debido a la lluvia y el viento, de modo que nada de vuelos.

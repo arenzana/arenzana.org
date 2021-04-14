@@ -1,22 +1,23 @@
 ---
-title: Tan simple y a la vez tan complejo
 author: iarenzana
-type: post
-date: 2011-05-16T16:34:00+00:00
-url: /2011/05/tan-simple-y-a-la-vez-tan-complejo/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2011/05/tan-simple-y-la-vez-tan-complejo.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/2655918232197438314
+- /feeds/11302648/posts/default/2655918232197438314
+blogger_permalink:
+- /2011/05/tan-simple-y-la-vez-tan-complejo.html
 categories:
-  - comentario
-  - filosofía
-  - reflexión
-
+- comentario
+- filosofía
+- reflexión
+date: "2011-05-16T16:34:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=46
+id: 46
+title: Tan simple y a la vez tan complejo
+url: /2011/05/tan-simple-y-a-la-vez-tan-complejo/
 ---
 <p style="text-align: justify;">
   He pasado gran parte de esta semana intentando comprender la mente humana. He llegado a 2 conclusiones: 1) La mente humana es extremadamente simple y 2) La mente humana es, a la vez, extremadamente compleja.

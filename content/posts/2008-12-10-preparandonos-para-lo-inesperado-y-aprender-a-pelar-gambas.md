@@ -1,21 +1,22 @@
 ---
-title: Preparándonos para lo inesperado (y aprender a pelar gambas)
 author: iarenzana
-type: post
-date: 2008-12-10T12:29:00+00:00
-url: /2008/12/preparandonos-para-lo-inesperado-y-aprender-a-pelar-gambas/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/12/preparndonos-para-lo-inesperado-y.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/3903971070106236715
+- /feeds/11302648/posts/default/3903971070106236715
+blogger_permalink:
+- /2008/12/preparndonos-para-lo-inesperado-y.html
 categories:
-  - humor
-  - reflexión
-
+- humor
+- reflexión
+date: "2008-12-10T12:29:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=82
+id: 82
+title: Preparándonos para lo inesperado (y aprender a pelar gambas)
+url: /2008/12/preparandonos-para-lo-inesperado-y-aprender-a-pelar-gambas/
 ---
 Estoy convencido de que Hitler no decidió invadir Polonia de la noche a la mañana. De la misma manera que tampoco creo que el Motín del Té de Boston fuera un capricho de unos cuantos a los que les gustaba más el café de Colombia.
 

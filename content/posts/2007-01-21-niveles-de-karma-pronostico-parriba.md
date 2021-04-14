@@ -1,20 +1,21 @@
 ---
-title: 'Niveles de Karma… pronóstico: ‘Parriba’'
 author: iarenzana
-type: post
-date: 2007-01-21T17:02:00+00:00
-url: /2007/01/niveles-de-karma-pronostico-parriba/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/01/niveles-de-karma-pronstico.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/3535610246242396606
+- /feeds/11302648/posts/default/3535610246242396606
+blogger_permalink:
+- /2007/01/niveles-de-karma-pronstico.html
 categories:
-  - karma
-
+- karma
+date: "2007-01-21T17:02:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=195
+id: 195
+title: 'Niveles de Karma&#8230; pronóstico: &#8216;Parriba&#8217;'
+url: /2007/01/niveles-de-karma-pronostico-parriba/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Qué pasa canallas. Esta semana no ofrece muchos cambios en general; a pesar de ellos debo decir que los niveles han aumentado por los amigos, lo cual es bueno; seguid así chavales.

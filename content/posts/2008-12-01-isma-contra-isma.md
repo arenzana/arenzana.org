@@ -1,22 +1,23 @@
 ---
-title: Isma contra Isma
 author: iarenzana
-type: post
-date: 2008-12-01T21:21:00+00:00
-url: /2008/12/isma-contra-isma/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/12/isma-contra-isma.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6651334709744119879
+- /feeds/11302648/posts/default/6651334709744119879
+blogger_permalink:
+- /2008/12/isma-contra-isma.html
 categories:
-  - comentario
-  - filosofía
-  - humor
-
+- comentario
+- filosofía
+- humor
+date: "2008-12-01T21:21:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=83
+id: 83
+title: Isma contra Isma
+url: /2008/12/isma-contra-isma/
 ---
 <p style="text-align: justify;">
   Hay cosas en esta vida con las que a uno no le costaría vivir: un descapotable en la Riviera francesa, un vaso de leche caliente por la noche antes de ir a dormir o una <em>caipirinha</em> en una isla desierta. A todo se acostumbra uno vamos.

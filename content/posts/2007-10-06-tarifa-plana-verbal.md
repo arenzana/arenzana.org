@@ -1,20 +1,21 @@
 ---
-title: Tarifa plana verbal
 author: iarenzana
-type: post
-date: 2007-10-06T16:40:00+00:00
-url: /2007/10/tarifa-plana-verbal/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/10/tarifa-plana-verbal.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6110465180576121140
+- /feeds/11302648/posts/default/6110465180576121140
+blogger_permalink:
+- /2007/10/tarifa-plana-verbal.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-10-06T16:40:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=143
+id: 143
+title: Tarifa plana verbal
+url: /2007/10/tarifa-plana-verbal/
 ---
 <p style="text-align:justify;text-indent:40pt;">
   Siempre tiene que haber de todo; en ocasiones toca hablar de <a href="http://micarreta.blogspot.com/2007/07/nuevo-ley-seca.html">Paris Hilton</a> y en otras de <a href="http://micarreta.blogspot.com/search?q=Stewart">una isla de Nueva Zelanda</a>. Hoy toca una de filosofía. Lo sé, la vida no es justa; pero nadie dijo que tuviera que serlo.

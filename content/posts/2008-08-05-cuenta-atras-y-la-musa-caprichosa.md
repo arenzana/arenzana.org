@@ -1,21 +1,22 @@
 ---
-title: Cuenta atrás y la musa caprichosa.
 author: iarenzana
-type: post
-date: 2008-08-05T20:36:00+00:00
-url: /2008/08/cuenta-atras-y-la-musa-caprichosa/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/08/cuenta-atrs-y-la-musa-caprichosa.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/4656692602675526458
+- /feeds/11302648/posts/default/4656692602675526458
+blogger_permalink:
+- /2008/08/cuenta-atrs-y-la-musa-caprichosa.html
 categories:
-  - humor
-  - reflexión
-
+- humor
+- reflexión
+date: "2008-08-05T20:36:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=93
+id: 93
+title: Cuenta atrás y la musa caprichosa.
+url: /2008/08/cuenta-atras-y-la-musa-caprichosa/
 ---
 <p style="text-align: justify;">
   Muchas personas empiezan la cuenta atrás de sus vacaciones unos dos meses antes de la salida en sí. Yo, del mismo modo, tengo mi cuenta atrás, pero no comienza hasta 24 horas antes de la salida. Para gustos los colores.

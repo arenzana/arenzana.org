@@ -1,20 +1,21 @@
 ---
-title: De cuando me saqué el práctico
 author: iarenzana
-type: post
-date: 2007-01-26T18:20:00+00:00
-url: /2007/01/de-cuando-me-saque-el-practico/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/01/de-cuando-hice-el-prctico.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/7585431145810805866
+- /feeds/11302648/posts/default/7585431145810805866
+blogger_permalink:
+- /2007/01/de-cuando-hice-el-prctico.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-01-26T18:20:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=190
+id: 190
+title: De cuando me saqué el práctico
+url: /2007/01/de-cuando-me-saque-el-practico/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   He podido rescatar hoy unas pequeñas tomas de cuando me saqué el examen práctico del carnet de conducir el año pasado:

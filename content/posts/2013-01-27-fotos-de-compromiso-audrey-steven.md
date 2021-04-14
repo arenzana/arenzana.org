@@ -1,27 +1,27 @@
 ---
-title: 'Fotos de compromiso – Audrey & Steven'
 author: iarenzana
-type: post
-date: 2013-01-27T03:26:00+00:00
-url: /2013/01/fotos-de-compromiso-audrey-steven/
-featured_image: /wp-content/uploads/2013/01/AUD_STE_ENG-1.jpg
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2013/01/fotos-de-compromiso-audrey-steven.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6374049334672636420
+- /feeds/11302648/posts/default/6374049334672636420
+blogger_permalink:
+- /2013/01/fotos-de-compromiso-audrey-steven.html
 categories:
-  - boda
-  - compromiso
-  - engagement
-  - Fort Wayne
-  - Fotografía
-  - photo
-  - wedding
-
+- boda
+- compromiso
+- engagement
+- Fort Wayne
+- Fotografía
+- photo
+- wedding
+date: "2013-01-27T03:26:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+id: 31
+image: /wp-content/uploads/2013/01/AUD_STE_ENG-1.jpg
+title: Fotos de compromiso &#8211; Audrey &#038; Steven
+url: /2013/01/fotos-de-compromiso-audrey-steven/
 ---
 <p style="text-align: justify;">
   Estos son Steven y Audrey, la pareja cuya boda tendré el placer de fotografiar en abril junto a Guille en Fort Wayne, Indiana. Hace unas semanas tuve el honor de hacer su sesión de fotos de compromiso y puedo decir que son una pareja absolutamente genial. Con menos de 10 grados bajo cero salí a hacer unas pruebas de luz y Steven me acompañó para ayudarme; dónde encuentras a alguien así?! Además de esto, esta era una de las primeras veces que les hacían una sesión de fotos juntos, de modo que se notaba que era algo nuevo para ambos; fue genial ver cómo empezaron a animarse y a sentirse más cómodos delante de la cámara (y delante mío, claro). Gracias a Steven en particular porque, como chico que es, eso de hacerse fotos no le resulta muy natural. Pero creo que ha merecido la pena.
@@ -43,12 +43,12 @@ categories:
   Congratulation guys!
 </p>
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://arenzana.org/wp-content/uploads/2013/01/AUD_STE_ENG-1.jpg" alt="" width="" height="" border="0" />
+<img loading="lazy" style="display: block; margin-left: auto; margin-right: auto;" src="https://arenzana.org/wp-content/uploads/2013/01/AUD_STE_ENG-1.jpg" alt="" width="" height="" border="0" /> 
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://arenzana.org/wp-content/uploads/2013/01/AUD_STE_ENG-2.jpg" alt="" width="" height="" border="0" />
+<img loading="lazy" style="display: block; margin-left: auto; margin-right: auto;" src="https://arenzana.org/wp-content/uploads/2013/01/AUD_STE_ENG-2.jpg" alt="" width="" height="" border="0" /> 
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://arenzana.org/wp-content/uploads/2013/01/AUD_STE_ENG-3.jpg" alt="" width="" height="" border="0" />
+<img loading="lazy" style="display: block; margin-left: auto; margin-right: auto;" src="https://arenzana.org/wp-content/uploads/2013/01/AUD_STE_ENG-3.jpg" alt="" width="" height="" border="0" /> 
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://arenzana.org/wp-content/uploads/2013/01/AUD_STE_ENG-4.jpg" alt="" width="" height="" border="0" />
+<img loading="lazy" style="display: block; margin-left: auto; margin-right: auto;" src="https://arenzana.org/wp-content/uploads/2013/01/AUD_STE_ENG-4.jpg" alt="" width="" height="" border="0" /> 
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://arenzana.org/wp-content/uploads/2013/01/AUD_STE_ENG-5.jpg" alt="" width="" height="" border="0" />
+<img loading="lazy" style="display: block; margin-left: auto; margin-right: auto;" src="https://arenzana.org/wp-content/uploads/2013/01/AUD_STE_ENG-5.jpg" alt="" width="" height="" border="0" />

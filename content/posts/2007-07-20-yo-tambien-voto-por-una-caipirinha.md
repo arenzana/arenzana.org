@@ -1,20 +1,21 @@
 ---
-title: Yo también voto por una caipirinha
 author: iarenzana
-type: post
-date: 2007-07-20T18:37:00+00:00
-url: /2007/07/yo-tambien-voto-por-una-caipirinha/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/07/yo-tambin-voto-por-una-caipirinha.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/7517886983280419497
+- /feeds/11302648/posts/default/7517886983280419497
+blogger_permalink:
+- /2007/07/yo-tambin-voto-por-una-caipirinha.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-07-20T18:37:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=160
+id: 160
+title: Yo también voto por una caipirinha
+url: /2007/07/yo-tambien-voto-por-una-caipirinha/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Los que me conocéis podréis imaginar que un evento como <a href="http://www.elmundo.es/elmundo/2007/07/18/internacional/1184714515.html">el del avión de TAM</a> en Brasil no lo puedo dejar pasar sin hacer algún comentario al respecto.

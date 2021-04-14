@@ -1,21 +1,22 @@
 ---
-title: Quiero y no puedo
 author: iarenzana
-type: post
-date: 2008-07-29T11:27:00+00:00
-url: /2008/07/quiero-y-no-puedo/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/07/quiero-y-no-puedo.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/1438000346474542354
+- /feeds/11302648/posts/default/1438000346474542354
+blogger_permalink:
+- /2008/07/quiero-y-no-puedo.html
 categories:
-  - filosofía
-  - reflexión
-
+- filosofía
+- reflexión
+date: "2008-07-29T11:27:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=94
+id: 94
+title: Quiero y no puedo
+url: /2008/07/quiero-y-no-puedo/
 ---
 <p align="justify">
   Hay muchas cosas que quisiera pero que no puedo hacer.

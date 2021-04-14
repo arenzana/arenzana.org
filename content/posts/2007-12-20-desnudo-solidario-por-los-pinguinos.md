@@ -1,20 +1,21 @@
 ---
-title: Desnudo solidario por los pingüinos
 author: iarenzana
-type: post
-date: 2007-12-20T21:06:00+00:00
-url: /2007/12/desnudo-solidario-por-los-pinguinos/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/12/desnudo-solidario-por-los-pinginos.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6618305405131782754
+- /feeds/11302648/posts/default/6618305405131782754
+blogger_permalink:
+- /2007/12/desnudo-solidario-por-los-pinginos.html
 categories:
-  - humor
-
+- humor
+date: "2007-12-20T21:06:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=122
+id: 122
+title: Desnudo solidario por los pingüinos
+url: /2007/12/desnudo-solidario-por-los-pinguinos/
 ---
 <p style="text-align: justify;">
   Últimamente se ve proliferar los calendarios benéficos cuyos protagonistas orgullosamente nos muestran todo el pellejo. He dedicado un poco de mi escaso tiempo libre al análisis pormenorizado de este fenómeno.

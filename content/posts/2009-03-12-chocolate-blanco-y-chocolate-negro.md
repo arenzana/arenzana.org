@@ -1,21 +1,22 @@
 ---
-title: Chocolate blanco y chocolate negro
 author: iarenzana
-type: post
-date: 2009-03-12T20:37:00+00:00
-url: /2009/03/chocolate-blanco-y-chocolate-negro/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2009/03/chocolate-blanco-y-chocolate-negro.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/1052083526088441928
+- /feeds/11302648/posts/default/1052083526088441928
+blogger_permalink:
+- /2009/03/chocolate-blanco-y-chocolate-negro.html
 categories:
-  - humor
-  - reflexión
-
+- humor
+- reflexión
+date: "2009-03-12T20:37:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=76
+id: 76
+title: Chocolate blanco y chocolate negro
+url: /2009/03/chocolate-blanco-y-chocolate-negro/
 ---
 <p style="text-align: justify;">
   Nunca he conseguido entender por qué los anuncios utilizan el chocolate como principal elemento de placer. Bueno, no es cierto, sí lo entiendo y tampoco es cierto que el chocolate sea el principal elemento de placer; todos sabemos que es una metáfora. Hoy no he dormido bien.

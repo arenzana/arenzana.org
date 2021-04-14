@@ -1,20 +1,21 @@
 ---
-title: Cairns 1 – Nemo y Willy Fog
 author: iarenzana
-type: post
-date: 2007-03-10T09:40:00+00:00
-url: /2007/03/cairns-1-nemo-y-willy-fog/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/03/cairns-1-nemo-y-willy-fog.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/1898330517786685290
+- /feeds/11302648/posts/default/1898330517786685290
+blogger_permalink:
+- /2007/03/cairns-1-nemo-y-willy-fog.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-03-10T09:40:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=175
+id: 175
+title: Cairns 1 &#8211; Nemo y Willy Fog
+url: /2007/03/cairns-1-nemo-y-willy-fog/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Saludos. Sé que habéis echado de menos las actualizaciones del viaje. Lo entiendo. Pero ayer llegué y el cambio de hora aquí en Ciarns (1 hora menos que en Sydney) me ha matado 😛 . Está bien, eso y la humedad (alrededor del 95% a 30 grados) y el pie que me mata. Además, me había quedado sin batería del ordenador al llegar aquí porque me había visto una peli de Torrente en el trayecto a Cairns, así que tenía que reservarme. Finalmente conseguí un adaptador y cargué el portatil.

@@ -1,20 +1,21 @@
 ---
-title: Impresiones leonesas
 author: iarenzana
-type: post
-date: 2007-08-16T17:18:00+00:00
-url: /2007/08/impresiones-leonesas/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/08/impresiones-leonesas.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6652904968506419880
+- /feeds/11302648/posts/default/6652904968506419880
+blogger_permalink:
+- /2007/08/impresiones-leonesas.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-08-16T17:18:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=154
+id: 154
+title: Impresiones leonesas
+url: /2007/08/impresiones-leonesas/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   No es que haya acabado de llegar de viaje o que no había cobertura en la ciudad de León (lo cual es poco probable) o la tierra me succionó de repente. No. Simplemente he sido un vago y, una vez más, no he escrito al respecto. Pero bueno, aquí el que manda soy yo.

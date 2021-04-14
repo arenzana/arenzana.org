@@ -1,21 +1,22 @@
 ---
-title: El amor gana. Sin duda.
 author: iarenzana
-type: post
-date: 2011-03-30T14:12:00+00:00
-url: /2011/03/el-amor-gana-sin-duda/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2011/03/el-amor-gana-sin-duda.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/833824104011380650
+- /feeds/11302648/posts/default/833824104011380650
+blogger_permalink:
+- /2011/03/el-amor-gana-sin-duda.html
 categories:
-  - fe
-  - libros
-
+- fe
+- libros
+date: "2011-03-30T14:12:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=48
+id: 48
+title: El amor gana. Sin duda.
+url: /2011/03/el-amor-gana-sin-duda/
 ---
 <p style="text-align: justify;">
   En las últimas ha surgido la controversia entorno al nuevo libro de <a href="http://robbell.com/">Rob Bell</a> titulado <a href="http://www.amazon.com/Love-Wins-About-Heaven-Person/dp/006204964X/ref=sr_1_1?ie=UTF8&qid=1301492771&sr=8-1">Love Wins</a>. La controversia es sencilla: Bell plantea algunas preguntas a modo de reto: ¿es correcta nuestra concepción tradicional del cielo? ¿y del infierno? ¿es cierto que sólo unos pocos irán al cielo? ¿es verdad que no hay esperanza después de la muerte? Muchas preguntas sobre un Dios/Juez y Dios &#8211; Amante.

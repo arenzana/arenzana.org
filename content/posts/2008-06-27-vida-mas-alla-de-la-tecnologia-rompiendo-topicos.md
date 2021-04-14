@@ -1,24 +1,25 @@
 ---
-title: 'Vida Más Allá de la Tecnología: Rompiendo Tópicos'
 author: iarenzana
-type: post
-date: 2008-06-27T20:06:00+00:00
-url: /2008/06/vida-mas-alla-de-la-tecnologia-rompiendo-topicos/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/06/vida-ms-all-de-la-tecnologa-rompiendo.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/812415679362987694
+- /feeds/11302648/posts/default/812415679362987694
+blogger_permalink:
+- /2008/06/vida-ms-all-de-la-tecnologa-rompiendo.html
 categories:
-  - comentario
-  - humor
-  - informática
-  - reflexión
-  - tecnologia
-
+- comentario
+- humor
+- informática
+- reflexión
+- tecnologia
+date: "2008-06-27T20:06:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=97
+id: 97
+title: 'Vida Más Allá de la Tecnología: Rompiendo Tópicos'
+url: /2008/06/vida-mas-alla-de-la-tecnologia-rompiendo-topicos/
 ---
 > <p style="text-align: justify;">
 >   A lo largo de tu vida adulta te encuentras con una gran cantidad de tópicos en diferentes situaciones que, al ser tópicos, en un principio alcanzan el nivel de Ley de la Naturaleza pero que, con el tiempo te das cuenta que no es así o que no puedes generalizar.

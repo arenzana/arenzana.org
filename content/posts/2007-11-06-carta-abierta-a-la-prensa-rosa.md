@@ -1,21 +1,22 @@
 ---
-title: Carta abierta a la prensa rosa
 author: iarenzana
-type: post
-date: 2007-11-06T21:05:00+00:00
-url: /2007/11/carta-abierta-a-la-prensa-rosa/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/11/carta-abierta-la-prensa-rosa.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/7812401785582769429
+- /feeds/11302648/posts/default/7812401785582769429
+blogger_permalink:
+- /2007/11/carta-abierta-la-prensa-rosa.html
 categories:
-  - denuncia
-  - reflexión
-
+- denuncia
+- reflexión
+date: "2007-11-06T21:05:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=134
+id: 134
+title: Carta abierta a la prensa rosa
+url: /2007/11/carta-abierta-a-la-prensa-rosa/
 ---
 Este post es un post-denuncia; uno de esos en los que te descomprimes y dejas salir todas esas cosas que sabes que hace tiempo deberías haber dicho pero que, por hache o por be nunca llegas a hacer.
 

@@ -1,20 +1,21 @@
 ---
-title: Última semana – 4 días y contando
 author: iarenzana
-type: post
-date: 2007-02-26T19:20:00+00:00
-url: /2007/02/ultima-semana-4-dias-y-contando/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/02/ltima-semana-4-das-y-contando.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6635241060680814837
+- /feeds/11302648/posts/default/6635241060680814837
+blogger_permalink:
+- /2007/02/ltima-semana-4-das-y-contando.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-02-26T19:20:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=182
+id: 182
+title: Última semana &#8211; 4 días y contando
+url: /2007/02/ultima-semana-4-dias-y-contando/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   A falta de 4 días para irme, hoy he empezado a preparar algunas cosas para el viaje así como un &#8220;checklist&#8221; de las cosas que me tengo que llevar y preparar antes de irme. En el checklist sólo apunto las cosas que me debo llevar pero que probablemente se me olvidarán si no dejo testimonio escrito de ello y, además, lo coloco en un sitio que seguro veré antes de irme.
@@ -28,8 +29,8 @@ categories:
   Por lo demás paso a describir el equipo técnico del que haré uso durante el viaje (parezco McGiver más que un turista).
 </p>
 
-  * [Canon EOS 450][1]. Es la cámara que me llevo para el viaje. 8M; pero lo mejor de todo: reflex digital. Espero tomar buenas imágenes con este juguete.
-  * [Apple MacBook][2]. Mi portatil. Trataré que sea mi conexión con el mundo real; lo usaré para desscargar fotos de la cámara y subirlas a internet así como actualizar este blog.
+  * [Canon EOS 450](http://www.photographyblog.com/index.php/weblog/comments/canon_eos_400d/). Es la cámara que me llevo para el viaje. 8M; pero lo mejor de todo: reflex digital. Espero tomar buenas imágenes con este juguete.
+  * [Apple MacBook](http://www.apple.com/es/macbook/macbook.html). Mi portatil. Trataré que sea mi conexión con el mundo real; lo usaré para desscargar fotos de la cámara y subirlas a internet así como actualizar este blog.
   * Disco duro portatil. Un disco duro del tamaño de un móvil de 20Gb de capacidad. Lo llevaré en las salidas por si la tarjeta de 1Gb de la cámara se me agota (inexperadamente).
 
 <p style="text-align:justify;text-indent:20pt;">
@@ -44,7 +45,7 @@ categories:
   Faltan 4 días, 22 horas y 21 minutos.
 </p>
 
-**Vivo Per Lei (Con Giorgia)** del Álbum &#8220;Romanza [English Version]&#8221; por [Andrea Bocelli][3]
+**Vivo Per Lei (Con Giorgia)** del Álbum &#8220;Romanza [English Version]&#8221; por [Andrea Bocelli](http://www.google.com/search?q=%22Andrea%20Bocelli%22)
 
 <!-- technorati tags start -->
 
@@ -53,7 +54,3 @@ categories:
 </p>
 
 <!-- technorati tags end -->
-
- [1]: http://www.photographyblog.com/index.php/weblog/comments/canon_eos_400d/
- [2]: http://www.apple.com/es/macbook/macbook.html
- [3]: http://www.google.com/search?q=%22Andrea%20Bocelli%22

@@ -1,20 +1,21 @@
 ---
-title: Tirados como una colilla
 author: iarenzana
-type: post
-date: 2007-08-23T09:47:00+00:00
-url: /2007/08/tirados-como-una-colilla/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/08/tirados-como-una-colilla.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6289617221283401864
+- /feeds/11302648/posts/default/6289617221283401864
+blogger_permalink:
+- /2007/08/tirados-como-una-colilla.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-08-23T09:47:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=152
+id: 152
+title: Tirados como una colilla
+url: /2007/08/tirados-como-una-colilla/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Ayer fue uno de esos días de los que esperas mucho pero que resultan terminar peor de lo que podrías haber imaginado. Uno de esos días en los que Murphy se regocija en gran manera.

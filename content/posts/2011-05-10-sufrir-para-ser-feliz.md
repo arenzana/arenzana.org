@@ -1,23 +1,24 @@
 ---
-title: Sufrir para ser feliz
 author: iarenzana
-type: post
-date: 2011-05-10T16:55:00+00:00
-url: /2011/05/sufrir-para-ser-feliz/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2011/05/sufrir-para-ser-feliz.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6746960789237192193
+- /feeds/11302648/posts/default/6746960789237192193
+blogger_permalink:
+- /2011/05/sufrir-para-ser-feliz.html
 categories:
-  - filosofía
-  - oracion
-  - reflexión
-  - vida
-
+- filosofía
+- oracion
+- reflexión
+- vida
+date: "2011-05-10T16:55:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=47
+id: 47
+title: Sufrir para ser feliz
+url: /2011/05/sufrir-para-ser-feliz/
 ---
 <p style="text-align: justify;">
   Útimamente circula por mi mente una idea. La felicidad. Siempre te preguntas si eres feliz; sin embargo existe un problema con esta pregunta: la felicidad no se puede medir cuantitativamente. Siendo este el caso es imposible poner un límite que, siendo superado, podamos decir que somos felices y no superado decir que no lo somos o que casi lo somos.

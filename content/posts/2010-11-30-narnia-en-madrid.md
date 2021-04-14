@@ -1,22 +1,23 @@
 ---
-title: Narnia en Madrid
 author: iarenzana
-type: post
-date: 2010-11-30T12:19:00+00:00
-url: /2010/11/narnia-en-madrid/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2010/11/narnia-en-madrid.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/5229497940652085303
+- /feeds/11302648/posts/default/5229497940652085303
+blogger_permalink:
+- /2010/11/narnia-en-madrid.html
 categories:
-  - foto
-  - madrid
-  - vida
-
+- foto
+- madrid
+- vida
+date: "2010-11-30T12:19:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=54
+id: 54
+title: Narnia en Madrid
+url: /2010/11/narnia-en-madrid/
 ---
 Ayer pude comprobar con mi querida amiga Rebeca que Narnia no est&aacute; m&aacute;s all&aacute; de 500m del aeropuerto. Lo bonito es que no tengo pruebas de esto y que vais a tener que confiar en mi palabra. S&oacute;lo nosotros sabemos el lugar exacto en el que atravesando unos &aacute;rboles y viendo la sombra del paraguas en el suelo nevado (ligeramente en nuestro caso) podremos vislumbrar, tras unos instantes, una farola; solitaria, que nos marcar&iacute;a el camino correcto.
 

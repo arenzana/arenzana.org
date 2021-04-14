@@ -1,20 +1,21 @@
 ---
-title: Bandido desarmado
 author: iarenzana
-type: post
-date: 2009-01-14T22:03:00+00:00
-url: /2009/01/bandido-desarmado/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2009/01/bandido-desarmado.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/8473295366609002720
+- /feeds/11302648/posts/default/8473295366609002720
+blogger_permalink:
+- /2009/01/bandido-desarmado.html
 categories:
-  - reflexión
-
+- reflexión
+date: "2009-01-14T22:03:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=80
+id: 80
+title: Bandido desarmado
+url: /2009/01/bandido-desarmado/
 ---
 <p style="text-align: justify;">
   Y una vez más, para variar, me quitaron las pistolas.

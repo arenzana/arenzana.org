@@ -1,24 +1,25 @@
 ---
-title: Lo que realmente importa
 author: iarenzana
-type: post
-date: 2011-05-24T21:01:00+00:00
-url: /2011/05/lo-que-realmente-importa/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2011/05/lo-que-realmente-importa.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6866837145768949214
+- /feeds/11302648/posts/default/6866837145768949214
+blogger_permalink:
+- /2011/05/lo-que-realmente-importa.html
 categories:
-  - amigos
-  - comentario
-  - Dios
-  - gracias
-  - reflexión
-
+- amigos
+- comentario
+- Dios
+- gracias
+- reflexión
+date: "2011-05-24T21:01:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=45
+id: 45
+title: Lo que realmente importa
+url: /2011/05/lo-que-realmente-importa/
 ---
 <p style="text-align: justify;">
   He tardado varios a&ntilde;os pero al final lo he comprendido. Siempre me han dicho que no soy el chaval m&aacute;s &#8220;avispao&#8221; de la clase y que tardaba en captar las cosas. Y en la vida es igual.

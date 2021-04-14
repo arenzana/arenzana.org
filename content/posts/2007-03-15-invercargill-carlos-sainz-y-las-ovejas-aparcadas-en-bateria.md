@@ -1,20 +1,21 @@
 ---
-title: 'Invercargill: Carlos Sainz y las ovejas aparcadas en batería'
 author: iarenzana
-type: post
-date: 2007-03-15T03:36:00+00:00
-url: /2007/03/invercargill-carlos-sainz-y-las-ovejas-aparcadas-en-bateria/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/03/invercargill-carlos-sainz-y-las-ovejas.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/3514677996396042794
+- /feeds/11302648/posts/default/3514677996396042794
+blogger_permalink:
+- /2007/03/invercargill-carlos-sainz-y-las-ovejas.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-03-15T03:36:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=170
+id: 170
+title: 'Invercargill: Carlos Sainz y las ovejas aparcadas en batería'
+url: /2007/03/invercargill-carlos-sainz-y-las-ovejas-aparcadas-en-bateria/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Desde el momento en el que miré por la ventana supe que no sería un gran día. No dejaba de llover. Bajé a desayunar y uno de mis colegas estaba abajo. Me senté con él y me comentó que el tiempo no mejoraría demasiado hoy. De modo que Stewart Island quedaba descartado para hoy. La única opción que me quedaba era hacer el recorrido de la costa oeste. Unos 100km de carreterilla rural cerca de la costa donde se supone que se pueden ver delfines y demás animalejos.

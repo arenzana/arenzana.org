@@ -1,23 +1,23 @@
 ---
-title: De espartanos y campamentistas
 author: iarenzana
-type: post
-date: 2012-03-11T18:09:00+00:00
-url: /2012/03/de-espartanos-y-campamentistas/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2012/03/de-espartanos-y-campamentistas.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/1347147990323893284
+- /feeds/11302648/posts/default/1347147990323893284
+blogger_permalink:
+- /2012/03/de-espartanos-y-campamentistas.html
 categories:
-  - cine
-  - Dios
-  - oracion
-  - reflexión
-
+- cine
+- Dios
+- oracion
+- reflexión
+date: "2012-03-11T18:09:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+id: 38
+title: De espartanos y campamentistas
+url: /2012/03/de-espartanos-y-campamentistas/
 ---
 <p style="text-align: justify;">
   Los que me conocéis sabéis que 300 es una de mis películas predilectas; quizá principalmente por la cantidad de citas épicas que podemos encontrar en esta película. Una de ellas, quizá mi favorita, tiene lugar cuando Jerjes se acerca a Leónidas pidiéndole que se rinda diciendo &#8220;Cómo osas enfrentarte a mí cuando yo de buena gana dejaría morir a mis propios hombres para conseguir la victoria?&#8221; A lo que Leónidas le responde:

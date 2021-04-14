@@ -1,20 +1,21 @@
 ---
-title: Sydney Día 2 – El termitero, el autobús y Steve Irwin (Made in Spain)
 author: iarenzana
-type: post
-date: 2007-03-06T07:58:00+00:00
-url: /2007/03/sydney-dia-2-el-termitero-el-autobus-y-steve-irwin-made-in-spain/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/03/sydney-da-2-el-termitero-el-autobs-y.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/835412536771788534
+- /feeds/11302648/posts/default/835412536771788534
+blogger_permalink:
+- /2007/03/sydney-da-2-el-termitero-el-autobs-y.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-03-06T07:58:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=178
+id: 178
+title: Sydney Día 2 &#8211; El termitero, el autobús y Steve Irwin (Made in Spain)
+url: /2007/03/sydney-dia-2-el-termitero-el-autobus-y-steve-irwin-made-in-spain/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Al despertarme la cosa no pintaba bien. A las 7:30 empieza el día con un pastillazo de Gelocatil (que 9 horas después sigue el sabor en mi boca). Gracias a Dios la ducha salvó la mañana, y, por lo visto, el día.
@@ -25,7 +26,7 @@ categories:
 </p>
 
 <p style="text-indent:300pt;">
-  <a href="http://farm1.static.flickr.com/181/412401816_fc81e6d5e2_b.jpg"><img src="http://farm1.static.flickr.com/181/412401816_fc81e6d5e2_b.jpg" height="100" width="149" border="1" hspace="4" vspace="4" alt="412401816 Fc81E6D5E2 B" /></a>
+  <a href="http://farm1.static.flickr.com/181/412401816_fc81e6d5e2_b.jpg"><img loading="lazy" src="http://farm1.static.flickr.com/181/412401816_fc81e6d5e2_b.jpg" height="100" width="149" border="1" hspace="4" vspace="4" alt="412401816 Fc81E6D5E2 B" /></a>
 </p>
 
 <p style="text-align:justify;text-indent:20pt;">
@@ -50,7 +51,7 @@ categories:
 
 <p style="text-align:justify;text-indent:20pt;">
   <p style="text-align:justify;text-indent:300pt;">
-    <a href="http://farm1.static.flickr.com/167/412397094_8113b635ec_b.jpg"><img src="http://farm1.static.flickr.com/167/412397094_8113b635ec_b.jpg" height="100" width="149" border="1" hspace="4" vspace="4" alt="412397094 8113B635Ec B" /></a><span style="font-size:0pt;"><br /> </span>
+    <a href="http://farm1.static.flickr.com/167/412397094_8113b635ec_b.jpg"><img loading="lazy" src="http://farm1.static.flickr.com/167/412397094_8113b635ec_b.jpg" height="100" width="149" border="1" hspace="4" vspace="4" alt="412397094 8113B635Ec B" /></a><span style="font-size:0pt;"><br /> </span>
   </p>
   
   <p style="text-align:justify;text-indent:20pt;">
@@ -59,7 +60,7 @@ categories:
   
   <p style="text-align:justify;text-indent:20pt;">
     <p style="text-indent:300pt;">
-      <a href="http://farm1.static.flickr.com/184/412399602_6381042730_b.jpg"><img src="http://farm1.static.flickr.com/184/412399602_6381042730_b.jpg" height="100" width="149" border="1" hspace="4" vspace="4" alt="412399602 6381042730 B" /></a>
+      <a href="http://farm1.static.flickr.com/184/412399602_6381042730_b.jpg"><img loading="lazy" src="http://farm1.static.flickr.com/184/412399602_6381042730_b.jpg" height="100" width="149" border="1" hspace="4" vspace="4" alt="412399602 6381042730 B" /></a>
     </p>
     
     <p style="text-align:justify;text-indent:20pt;">

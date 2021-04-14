@@ -1,24 +1,25 @@
 ---
-title: Ciencia, Chiquilicuatre y Jennifer López
 author: iarenzana
-type: post
-date: 2008-05-14T19:41:00+00:00
-url: /2008/05/ciencia-chiquilicuatre-y-jennifer-lopez/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/05/ciencia-chiquilicuatre-y-jennifer-lpez.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/3634403520143897283
+- /feeds/11302648/posts/default/3634403520143897283
+blogger_permalink:
+- /2008/05/ciencia-chiquilicuatre-y-jennifer-lpez.html
 categories:
-  - curiosidades
-  - filosofía
-  - humor
-  - reflexión
-  - vida
-
+- curiosidades
+- filosofía
+- humor
+- reflexión
+- vida
+date: "2008-05-14T19:41:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=102
+id: 102
+title: Ciencia, Chiquilicuatre y Jennifer López
+url: /2008/05/ciencia-chiquilicuatre-y-jennifer-lopez/
 ---
 <p style="text-align: justify;">
   Todos en algún momento hemos tenido una idea que nos ha llevado a pensar &#8220;esto tendría que ser Ley de la Naturaleza&#8221;. Eso mismo debió de pasarle a Isaac cuando se le cayó la manzana en a cabeza. Bueno, lo primero que debió pensar fue algo así como &#8220;maldita fruta&#8221;; aunque después de maldecir durante unos minutos decidió que aquello no había sido una p****a (estamos en horario infantil todavía) sino que aquello se había producido en respuesta a un efecto natural que hoy conocemos como <a href="http://es.wikipedia.org/wiki/Ley_de_la_gravitaci%C3%B3n_universal">Ley de la Gravitación Universal</a>. Yo me hubiera quedado con la idea de la p****a.

@@ -1,22 +1,23 @@
 ---
-title: 'Comedura filosófica de tarro (por: El Tío simple)'
 author: iarenzana
-type: post
-date: 2007-11-30T10:19:00+00:00
-url: /2007/11/comedura-filosofica-de-tarro-por-el-tio-simple/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/11/comedura-filosfica-de-tarro-por-el-to.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/822027435016499919
+- /feeds/11302648/posts/default/822027435016499919
+blogger_permalink:
+- /2007/11/comedura-filosfica-de-tarro-por-el-to.html
 categories:
-  - filosofía
-  - humor
-  - reflexión
-
+- filosofía
+- humor
+- reflexión
+date: "2007-11-30T10:19:00Z"
+guid: https://arenzana.org/?p=127
+publishDate: "2097-01-23T19:09:00Z"
+id: 127
+title: 'Comedura filosófica de tarro (por: El Tío simple)'
+url: /2007/11/comedura-filosofica-de-tarro-por-el-tio-simple/
 ---
 <p style="text-align: justify;">
   Hay muchas cosas que te molestan en esta vida. A mi hermano le revienta que la sábana se le salga por la noche mientras duerme, a mi padre le molesta el anuncio de Noriega enseñando el culo. A mí, en particular y entre otras muchas cosas, me molesta que me consideren un simple o un superficial. Cualquiera de las dos cosas con indiferencia respecto al orden. Como informático se me ha enseñado a analizar y estudiar las cosas; a ser capaz de simplificar tareas complejas para darles resolución. El hecho de simplificar un problema no significa que seas un simple. A todos nos gusta simplificar las cosas; pero para llegar a la simplicidad debes pasar por la complejidad de resolver el problema a simplificar. No sé si lo habéis entendido.

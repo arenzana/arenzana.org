@@ -1,20 +1,21 @@
 ---
-title: Promoción, promoción, promoción…. gratuita, eso sí
 author: iarenzana
-type: post
-date: 2007-07-10T15:52:00+00:00
-url: /2007/07/promocion-promocion-promocion-gratuita-eso-si/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/07/promocin-promocin-promocin-gratuita-eso.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/1310957160237230021
+- /feeds/11302648/posts/default/1310957160237230021
+blogger_permalink:
+- /2007/07/promocin-promocin-promocin-gratuita-eso.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-07-10T15:52:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=162
+id: 162
+title: Promoción, promoción, promoción&#8230;. gratuita, eso sí
+url: /2007/07/promocion-promocion-promocion-gratuita-eso-si/
 ---
 <p style="text-align:justify;text-indent:40pt;">
   Si hicieran un concurso mundial para ver quién tiene las mejores historias del mundo&#8230; yo lo tendría claro; ganaría mi compañero Aki. Sin duda es una de las personas que tiene las historias más interesantes y sobrecogedoras del mundo. Cuando trabajaba en la oficina de Nueva York la comida duraba unos 45 minutos más cuando comía con él; porque cada día tenía una historia diferente (e interesante) que contar.

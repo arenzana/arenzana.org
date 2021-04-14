@@ -1,21 +1,22 @@
 ---
-title: A la sombra
 author: iarenzana
-type: post
-date: 2008-02-25T11:49:00+00:00
-url: /2008/02/a-la-sombra/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/02/la-sombra.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/7994425743802683828
+- /feeds/11302648/posts/default/7994425743802683828
+blogger_permalink:
+- /2008/02/la-sombra.html
 categories:
-  - comentario
-  - denuncia
-
+- comentario
+- denuncia
+date: "2008-02-25T11:49:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=113
+id: 113
+title: A la sombra
+url: /2008/02/a-la-sombra/
 ---
 <p style="text-align: justify;">
   Ayer llegué a casa después de un largo día y me encontré en mi escritorio una nota de Iberdrola indicándonos amablemente que hoy, desde las 12:30pm hasta las 13:30pm habrá un corte de luz debido a trabajos en la línea.

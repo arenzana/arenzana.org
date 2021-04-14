@@ -1,23 +1,24 @@
 ---
-title: No recibir aquello que mereces
 author: iarenzana
-type: post
-date: 2011-12-12T08:37:00+00:00
-url: /2011/12/no-recibir-aquello-que-mereces/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2011/12/no-recibir-aquello-que-mereces.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/4734288958949761441
+- /feeds/11302648/posts/default/4734288958949761441
+blogger_permalink:
+- /2011/12/no-recibir-aquello-que-mereces.html
 categories:
-  - comentario
-  - Dios
-  - fe
-  - reflexión
-
+- comentario
+- Dios
+- fe
+- reflexión
+date: "2011-12-12T08:37:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=42
+id: 42
+title: No recibir aquello que mereces
+url: /2011/12/no-recibir-aquello-que-mereces/
 ---
 En ocasiones olvidamos la importancia de nuestros actos. De hecho, como alguien me dijo hace no mucho, quizá estamos dejando de odiar el mal y el pecado ha quedado sellado en nuestras vidas de tal manera que no lo vemos o incluso sentimos.
 

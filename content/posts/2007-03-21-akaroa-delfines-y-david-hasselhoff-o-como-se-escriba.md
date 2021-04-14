@@ -1,20 +1,21 @@
 ---
-title: 'Akaroa: Delfines y David Hasselhoff (o como se escriba)'
 author: iarenzana
-type: post
-date: 2007-03-21T05:58:00+00:00
-url: /2007/03/akaroa-delfines-y-david-hasselhoff-o-como-se-escriba/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/03/akaroa-delfines-y-david-hasselhoff-o.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/1045371993044271289
+- /feeds/11302648/posts/default/1045371993044271289
+blogger_permalink:
+- /2007/03/akaroa-delfines-y-david-hasselhoff-o.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-03-21T05:58:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=165
+id: 165
+title: 'Akaroa: Delfines y David Hasselhoff (o como se escriba)'
+url: /2007/03/akaroa-delfines-y-david-hasselhoff-o-como-se-escriba/
 ---
 <p style="text-align:justify;text-indent:40pt;">
   Bueno, en vista de que los planes para hacer kite-boarding y lo de los caballos y lo del helicóptero no funcionaron porque por aquí se toman bastantes vacaciones&#8230; yo tenía muy poca esperanza del día de hoy. Por consejo de mis &#8220;hosts&#8221;, me pasé por Akaroa, un pueblecillo pesquero a unas 2 horas de Christchurch que se encuentra en la península de Banks cuyo mayor principal es ver/nadar con delfines. De modo que a eso fui. Llegué al pueblo después de subir (y por supuesto bajar) un puerto de montaña y me dediqué a buscar lugares que me puediesen llevar a nada con pececillos de estos. Encontré uno. Me apunté a la salida de las 11:30am (eran las 11 menos 10 o así) y era el último puesto vacante.

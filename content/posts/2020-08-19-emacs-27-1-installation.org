@@ -1,0 +1,30 @@
+#+BLOG: arenzanaorg
+#+POSTID: 433
+#+BLOG: arenzanaorg
+#+DATE: [2020-08-19 Wed 07:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: emacs
+#+TAGS[]: emacs tech
+#+DESCRIPTION:
+#+TITLE: Emacs 27.1 Installation
+
+This is for you as much as this is for me, since I want to remember some stuff I do and the blog sometimes serves as a public knowledge base.
+
+Regarding 27.1, there's plenty of great resources [[https://www.masteringemacs.org/article/whats-new-in-emacs-27-1][here]] and [[https://emacsredux.com/blog/2020/08/13/emacs-27-1/][here]], so I won't go over them.
+
+Simple installation considering you have Development Tools and TLS libraries installed for your distro:
+
+#+begin_src bash
+wget http://ftp.gnu.org/gnu/emacs/emacs-27.1.tar.gz
+./configure --with-json
+make
+make install
+#+end_src
+
+I'm only adding native JSON support since it's the number one (or [[https://arenzana.org/2019/12/emacs-go-mode-revisited/][number two]] after language servers) feature in Emacs 27. Since the loading order in 27 changes, I'm adding support for previous versions with the following in my ~.emacs.org~ file:
+#+begin_src emacs-lisp
+(when (< emacs-major-version 27)
+  (package-initialize))
+#+end_src
+
+Additionally, I had to run ~go get golang.org/x/tools/gopls@latest~ in order for gopls to not crash. Other than that, it seems like this version hasn't broken any other elements of my set up; but it might still be a little bit too early to tell!

@@ -1,20 +1,21 @@
 ---
-title: Gimme ma iPod
 author: iarenzana
-type: post
-date: 2007-10-17T13:15:00+00:00
-url: /2007/10/gimme-ma-ipod/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/10/gimme-ma-ipod.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/5442636617219636087
+- /feeds/11302648/posts/default/5442636617219636087
+blogger_permalink:
+- /2007/10/gimme-ma-ipod.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-10-17T13:15:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=141
+id: 141
+title: Gimme ma iPod
+url: /2007/10/gimme-ma-ipod/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Lo reconozco, soy un malcriado, y qué; ya tengo edad para serlo, no? Además, si no lo hago yo&#8230; quién lo hará??!!!!

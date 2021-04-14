@@ -1,23 +1,24 @@
 ---
-title: Salir volando y algunas inversiones
 author: iarenzana
-type: post
-date: 2008-08-19T08:06:00+00:00
-url: /2008/08/salir-volando-y-algunas-inversiones/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/08/salir-volando-y-algunas-inversiones.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/4466195695408862773
+- /feeds/11302648/posts/default/4466195695408862773
+blogger_permalink:
+- /2008/08/salir-volando-y-algunas-inversiones.html
 categories:
-  - comentario
-  - informática
-  - noruega
-  - Viajes
-
+- comentario
+- informática
+- noruega
+- Viajes
+date: "2008-08-19T08:06:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=92
+id: 92
+title: Salir volando y algunas inversiones
+url: /2008/08/salir-volando-y-algunas-inversiones/
 ---
 <p style="text-align: justify;">
   Faltan apenas 6 horas para la salida y tengo todo bajo control; o por lo menos bajo el control que mi madre me permite que, a decir verdad, no es demasiado.

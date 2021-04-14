@@ -1,24 +1,25 @@
 ---
-title: Arde Australia
 author: iarenzana
-type: post
-date: 2009-02-13T10:14:00+00:00
-url: /2009/02/arde-australia/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2009/02/arde-australia.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/459695476871321680
+- /feeds/11302648/posts/default/459695476871321680
+blogger_permalink:
+- /2009/02/arde-australia.html
 categories:
-  - Australia
-  - comentario
-  - denuncia
-  - noticias
-  - reflexión
-
+- Australia
+- comentario
+- denuncia
+- noticias
+- reflexión
+date: "2009-02-13T10:14:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=78
+id: 78
+title: Arde Australia
+url: /2009/02/arde-australia/
 ---
 <p style="text-align: justify;">
   Desde que visitara <a href="http://micarreta.blogspot.com/2007/03/primeras-impresiones-trnsito-y-sydney.html">Australia</a> hace casi dos años, no ha habido un instante en el que me arrepintiera de aquello que dije en su momento refiriéndome a tan peculiar lugar: &#8220;esto es el paraíso&#8221;. Sigo sin arrepentirme.

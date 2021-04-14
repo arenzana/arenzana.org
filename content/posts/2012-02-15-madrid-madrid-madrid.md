@@ -1,22 +1,22 @@
 ---
-title: Madrid, Madrid, Madrid
 author: iarenzana
-type: post
-date: 2012-02-15T20:46:00+00:00
-url: /2012/02/madrid-madrid-madrid/
-featured_image: /wp-content/uploads/2012/02/cibeles_HDR.jpg
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2012/02/madrid-madrid-madrid.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/213869112726783856
+- /feeds/11302648/posts/default/213869112726783856
+blogger_permalink:
+- /2012/02/madrid-madrid-madrid.html
 categories:
-  - reflexión
-  - vida
-
+- reflexión
+- vida
+date: "2012-02-15T20:46:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+id: 39
+image: /wp-content/uploads/2012/02/cibeles_HDR.jpg
+title: Madrid, Madrid, Madrid
+url: /2012/02/madrid-madrid-madrid/
 ---
 <p style="text-align: justify;">
   La vida da muchas vueltas y, durante estos últimos meses, digamos que mi velocidad de rotación ha sido algo más rápida de lo normal. En unos meses dejaré mi trabajo y me haré estudiante de nuevo para seguir un ¿deseo? ¿sueño? ¿llamado? Sea lo que sea un cambio así requiere dejar de lado no sólo un empleo increíble sino también unos grandes amigos, familia muy cercana y ministerios que me encantan. Y esto me lleva al pensamiento que tengo desde hace varias semanas: el momento de dejar las cosas.
@@ -41,7 +41,7 @@ categories:
 <table style="text-align: center; width: auto; margin-left: auto; margin-right: auto;">
   <tr>
     <td style="text-align: center;">
-      <a href="https://picasaweb.google.com/lh/photo/WghhSzFZMU_yE4irMr4BKNMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://arenzana.org/wp-content/uploads/2012/02/cibeles_HDR.jpg" height="267" width="400" /></a>
+      <a href="https://picasaweb.google.com/lh/photo/WghhSzFZMU_yE4irMr4BKNMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img loading="lazy" src="https://arenzana.org/wp-content/uploads/2012/02/cibeles_HDR.jpg" height="267" width="400" /></a>
     </td>
   </tr>
   

@@ -1,20 +1,21 @@
 ---
-title: Mudando la piel
 author: iarenzana
-type: post
-date: 2007-09-20T13:32:00+00:00
-url: /2007/09/mudando-la-piel/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/09/mudando-la-piel.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/1557986510684572091
+- /feeds/11302648/posts/default/1557986510684572091
+blogger_permalink:
+- /2007/09/mudando-la-piel.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-09-20T13:32:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=150
+id: 150
+title: Mudando la piel
+url: /2007/09/mudando-la-piel/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Estamos en plena mudanza de modo que debido a esto y a mi vaguería no he escrito demasiado últimamente (en realidad es un 10% mudanza y un 90% vaguería); sigo pensando que me falta algo de fuerzo de voluntad de esa de la que hablan.

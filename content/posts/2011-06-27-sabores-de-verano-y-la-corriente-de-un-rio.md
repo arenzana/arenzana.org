@@ -1,25 +1,26 @@
 ---
-title: Sabores de verano y la corriente de un río
 author: iarenzana
-type: post
-date: 2011-06-27T19:08:00+00:00
-url: /2011/06/sabores-de-verano-y-la-corriente-de-un-rio/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2011/06/sabores-de-verano-y-la-corriente-de-un.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/8309884066434200887
+- /feeds/11302648/posts/default/8309884066434200887
+blogger_permalink:
+- /2011/06/sabores-de-verano-y-la-corriente-de-un.html
 categories:
-  - comentario
-  - jovenes
-  - oracion
-  - reflexión
-  - trabajo
-  - vida
-
+- comentario
+- jovenes
+- oracion
+- reflexión
+- trabajo
+- vida
+date: "2011-06-27T19:08:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=44
+id: 44
+title: Sabores de verano y la corriente de un río
+url: /2011/06/sabores-de-verano-y-la-corriente-de-un-rio/
 ---
 <p style="text-align: justify;">
   Llega el verano y con él algunas de las cosas que más me &#8220;gustan&#8221;: el sudor, no dormir bien, dolor en las articulaciones (como mi abuelo), estudiantes de vacaciones mientras sigo trabajando o el <a href="http://es.wikipedia.org/wiki/El_Grand_Prix_del_verano">Grand Prix del Verano</a>. Algunas de ellas en realidad no son tan dramáticas. De hecho, algunas de ellas, las echas de menos ya que sólo suelen venir en verano, como pueden ser la piscina, los viajecitos o los helados de ron con pasas.

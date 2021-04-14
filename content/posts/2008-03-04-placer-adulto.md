@@ -1,21 +1,22 @@
 ---
-title: Placer adulto
 author: iarenzana
-type: post
-date: 2008-03-04T20:55:00+00:00
-url: /2008/03/placer-adulto/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/03/placer-adulto.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/327399054520171074
+- /feeds/11302648/posts/default/327399054520171074
+blogger_permalink:
+- /2008/03/placer-adulto.html
 categories:
-  - comentario
-  - Viajes
-
+- comentario
+- Viajes
+date: "2008-03-04T20:55:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=112
+id: 112
+title: Placer adulto
+url: /2008/03/placer-adulto/
 ---
 <p style="text-align: justify;">
   Será que cuando eres joven y estudiante no puedes permitirte hacer ciertas cosas. También es verdad que cuando eres trabajador no puedes permitirte otras. Lo mejor es exponer la idea con una frase lapidaria de mi hermano:

@@ -1,23 +1,24 @@
 ---
-title: Huelga de mis guionistas
 author: iarenzana
-type: post
-date: 2008-02-19T11:35:00+00:00
-url: /2008/02/huelga-de-mis-guionistas/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/02/huelga-de-mis-guionistas.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/8049231577541466797
+- /feeds/11302648/posts/default/8049231577541466797
+blogger_permalink:
+- /2008/02/huelga-de-mis-guionistas.html
 categories:
-  - comentario
-  - disculpas
-  - humor
-  - saludos varios
-
+- comentario
+- disculpas
+- humor
+- saludos varios
+date: "2008-02-19T11:35:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=114
+id: 114
+title: Huelga de mis guionistas
+url: /2008/02/huelga-de-mis-guionistas/
 ---
 <p style="text-align: justify;">
   Ante todo deseo disculparme con mis lectores por esta larga ausencia.

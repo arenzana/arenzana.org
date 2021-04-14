@@ -1,20 +1,21 @@
 ---
-title: Sobre el tiempo y la memoria
 author: iarenzana
-type: post
-date: 2007-07-07T18:14:00+00:00
-url: /2007/07/sobre-el-tiempo-y-la-memoria/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/07/sobre-el-tiempo-y-la-memoria.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/3601896250514041061
+- /feeds/11302648/posts/default/3601896250514041061
+blogger_permalink:
+- /2007/07/sobre-el-tiempo-y-la-memoria.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-07-07T18:14:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=163
+id: 163
+title: Sobre el tiempo y la memoria
+url: /2007/07/sobre-el-tiempo-y-la-memoria/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   La semana pasada vi uno de los vídeos más curiosos de los últimos tiempos. Un hombre con una memoria de 7 segundos. De acuerdo con el documental, este hombre, debido a un accidente, no es capaz de pasar los recuerdos de la zona de corto a la de largo plazo.

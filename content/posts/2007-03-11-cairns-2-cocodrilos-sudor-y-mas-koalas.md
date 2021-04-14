@@ -1,20 +1,21 @@
 ---
-title: Cairns 2 – Cocodrilos, sudor y más koalas
 author: iarenzana
-type: post
-date: 2007-03-11T09:43:00+00:00
-url: /2007/03/cairns-2-cocodrilos-sudor-y-mas-koalas/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/03/cairns-2-cocodrilos-sudor-y-ms-koalas.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6714701216444514599
+- /feeds/11302648/posts/default/6714701216444514599
+blogger_permalink:
+- /2007/03/cairns-2-cocodrilos-sudor-y-ms-koalas.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-03-11T09:43:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=174
+id: 174
+title: Cairns 2 &#8211; Cocodrilos, sudor y más koalas
+url: /2007/03/cairns-2-cocodrilos-sudor-y-mas-koalas/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Hoy realmente he aprendido lo que es la selva tropical (Daintree Rainforest). Calor + Humedad = Sudor. Y eso es de los libros de texto; pero hasta que no lo experimentas realmente no lo sabes; así que todos a la selva. A última hora de la tarde empecé a tener mareos y dolor de cabeza; sabía lo que era: deshidratación. Había bebido una cantidad normal de agua; pero perdí mucha más de la que suelo perder normalmente. Aunque no tenía sed, me bebí medio litro de agua y ahora mismo he estabilizado la temperatura corporal y he cenado y estoy como una rosa (a ver si me voy de marcha aquí a la selva).

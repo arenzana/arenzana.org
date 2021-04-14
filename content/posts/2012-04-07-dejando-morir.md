@@ -1,20 +1,20 @@
 ---
-title: Dejando morir
 author: iarenzana
-type: post
-date: 2012-04-07T07:32:00+00:00
-url: /2012/04/dejando-morir/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2012/04/dejando-morir.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/7716173243844858212
+- /feeds/11302648/posts/default/7716173243844858212
+blogger_permalink:
+- /2012/04/dejando-morir.html
 categories:
-  - reflexión
-
+- reflexión
+date: "2012-04-07T07:32:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+id: 37
+title: Dejando morir
+url: /2012/04/dejando-morir/
 ---
 <p style="text-align: justify;">
   Hace no mucho alguien me dijo algo bastante interesante: &#8220;Por cada decisión que tomas, dejas morir otra&#8221;. Inevitablemente. Llevo varios meses con esta idea en la cabeza, principalmente porque estoy en un periodo de mi vida lleno de decisiones muy críticas: ¿dejo mi trabajo de 8 años extremadamente bien pagado para estudiar algo que jamás me pagará igual? ¿dejo mi país para marcharme a estudiar a otro?

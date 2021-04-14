@@ -1,21 +1,22 @@
 ---
-title: 'Lecciones de la vida: El efecto mariposa'
 author: iarenzana
-type: post
-date: 2008-01-10T20:41:00+00:00
-url: /2008/01/lecciones-de-la-vida-el-efecto-mariposa/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/01/lecciones-de-la-vida-el-efecto-mariposa.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/7562102041673435671
+- /feeds/11302648/posts/default/7562102041673435671
+blogger_permalink:
+- /2008/01/lecciones-de-la-vida-el-efecto-mariposa.html
 categories:
-  - informática
-  - trabajo
-
+- informática
+- trabajo
+date: "2008-01-10T20:41:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=118
+id: 118
+title: 'Lecciones de la vida: El efecto mariposa'
+url: /2008/01/lecciones-de-la-vida-el-efecto-mariposa/
 ---
 <p style="text-align: justify;">
   El efecto mariposa parte, básicamente, de la premisa de que &#8220;el aleteo de las alas de una mariposa se puede sentir al otro lado del mundo&#8221;. Este concepto viene a decir que, en un sistema natural estable (parafraseando a la teoría del caos) si incluimos un elemento inestable o, lo que es lo mismo, realizamos alguna variación, se puede provocar un gran efecto a largo plazo .

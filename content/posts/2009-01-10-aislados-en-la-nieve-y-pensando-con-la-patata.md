@@ -1,21 +1,22 @@
 ---
-title: Aislados en la nieve y pensando con la patata
 author: iarenzana
-type: post
-date: 2009-01-10T09:37:00+00:00
-url: /2009/01/aislados-en-la-nieve-y-pensando-con-la-patata/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2009/01/aislados-en-la-nieve-y-pensando-con-la.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/8642008712911015916
+- /feeds/11302648/posts/default/8642008712911015916
+blogger_permalink:
+- /2009/01/aislados-en-la-nieve-y-pensando-con-la.html
 categories:
-  - filosofía
-  - reflexión
-
+- filosofía
+- reflexión
+date: "2009-01-10T09:37:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=81
+id: 81
+title: Aislados en la nieve y pensando con la patata
+url: /2009/01/aislados-en-la-nieve-y-pensando-con-la-patata/
 ---
 <p style="text-align: justify;">
   Medio Madrid y todo Guadalajara están bloqueadas por la inmensa <a href="http://www.elmundo.es/elmundo/2009/01/09/madrid/1231491348.html">nevada</a> que calló ayer (día 9 de Enero del año 2009 de Nuestro Señor). Esto no sólo significa que podemos salir a tirarnos bolazos, retozarnos en el manto blanco y derrapar con el coche sin la excusa del alcohol. Significa también que tendremos más tiempo para sentarnos a estudiar, leer, hablar&#8230;. y pensar. Mala idea.

@@ -1,27 +1,28 @@
 ---
-title: 'Diagnóstico: Estrés.'
 author: iarenzana
-type: post
-date: 2007-01-25T14:52:00+00:00
-url: /2007/01/diagnostico-estres/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/01/diagnstico-estrs.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/8811864705288803665
+- /feeds/11302648/posts/default/8811864705288803665
+blogger_permalink:
+- /2007/01/diagnstico-estrs.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-01-25T14:52:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=191
+id: 191
+title: 'Diagnóstico: Estrés.'
+url: /2007/01/diagnostico-estres/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Mi madre dirá que no, pero a mí me parece que este chico tiene mala cara&#8230;
 </p>
 
 <p style="text-indent:20pt;">
-  <a href="http://farm1.static.flickr.com/114/368958698_4d8d7767f6_o.jpg"><img src="http://farm1.static.flickr.com/114/368958698_4d8d7767f6_o.jpg" height="250" width="277" border="1" hspace="4" vspace="4" alt="368958698 4D8D7767F6 O" /></a>
+  <a href="http://farm1.static.flickr.com/114/368958698_4d8d7767f6_o.jpg"><img loading="lazy" src="http://farm1.static.flickr.com/114/368958698_4d8d7767f6_o.jpg" height="250" width="277" border="1" hspace="4" vspace="4" alt="368958698 4D8D7767F6 O" /></a>
 </p>
 
 <p style="text-align:justify;text-indent:20pt;">

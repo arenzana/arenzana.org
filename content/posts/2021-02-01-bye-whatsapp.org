@@ -1,0 +1,59 @@
+#+BLOG: arenzanaorg
+#+POSTID: 437
+#+DATE: [2021-02-19 Mon 17:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: comms
+#+TAGS[]: tech
+#+DESCRIPTION:
+#+TITLE: Hasta Pronto, WhatsApp / Farewell, WhatsApp (English & Español)
+
+*tl;dr* Ponte en contacto conmigo a través de Signal / You can contact me on Signal
+
+** Hasta Pronto, WhatsApp (Español)
+Es probable que te encuentres aquí porque has visto un link a esta página en mi estado de [[https://www.whatsapp.com][Whatsapp]]. De hecho, esta es la única ocasión desde que uso el servicio (hace alrededor de 11 años), que cambio de estado.
+
+#+BEGIN_QUOTE
+"Hey there! I'm NOT using WhatsApp"
+#+END_QUOTE
+
+No es necesario hablar de todas las noticias que plagan los medios últimamente sobre los [[https://elpais.com/tecnologia/2019/03/06/actualidad/1551903283_498432.html][problemas de]] [[https://www.bloomberg.com/news/articles/2021-01-11/why-whatsapp-s-privacy-rules-sparked-moves-to-rivals-quicktake][los términos de privacidad]] [[https://www.schneier.com/blog/archives/2021/01/changes-in-whatsapps-privacy-policy.html][de WhatsApp]] que, salvo porque [[https://elpais.com/tecnologia/2021-01-15/whatsapp-retrasa-su-decision-de-compartir-con-facebook-los-datos-de-usuarios.html][Facebook ha recogido cable]], el grupo pensaba obligar a sus usuarios a aceptar para seguir utilizando el servicio. O sobre los problemas éticos de la [[https://theintercept.com/2020/10/15/facebook-and-twitter-cross-a-line-far-more-dangerous-than-what-they-censor][censura ejercida por estas empresas]].
+
+La realidad es que ninguna de estas compañías (no solo Facebook, sino Google, Twitter, etc) tiene motivación para ajustar su servicio para el bien de los usuarios porque, citando a Richard Serra, _nosotros somos el producto_ al no pagar por él.
+
+Por estos motivos estoy buscando medios sociales y de comunicación más sostenibles de cara al futuro para los que yo no sea el producto. Existen, en serio; pero no son tan conocidos como "los clásicos".
+
+¿Y ahora qué?
+
+Abandono WhatsApp, pero no de la noche a la mañana. Empezando en marzo, eliminaré las notificaciones y todos los permisos que la aplicación requiere (localización, fotos, etc) para operar correctamente. A día de hoy me resultará posible avisar a mis contactos más comunes de mis intenciones, una vez llegue marzo, las personas con las que apenas hablo tendrán que esperar a que vuelva a abrir la aplicación para que vea el mensaje. Este será el caso durante 6 meses. En ese momento, eliminaré la aplicación de mi móvil y ordenadores.
+
+Pero seguiré aquí, en internet. WhatsApp no es internet, Instagram no es internet. Forman parte de internet, pero La Red es más profunda que todas estas empresas. 
+A partir de ahora, la mejor forma de ponerse en contacto conmigo será a través de [[https://signal.org][Signal]]. A diferencia de WhatsApp o Telegram, Signal es una organización sin ánimo de lucro (no tiene accionistas a los que rendir cuentas) que se sostiene a través de donaciones. Si eres usuario de Signal y lo utilizas regularmente, te animo a que [[https://signal.org/donate/][dones al proyecto]].
+
+Si realmente prefieres no utilizar algo nuevo y tienes un dispositivo Apple, sigo disponible en iMessage y si eres usuario de Telegram, [[https://t.me/Arenzana][mantendré mi cuenta de Telegram]]. Al menos a corto plazo. Finalmente, para los más aventureros, sigo la evolución del protocolo decentralizado [[https://matrix.org][Matrix]], que realmente creo que es el futuro de las comunicaciones. Puedes encontrarme como ~@arenzana:matrix.org~.
+
+Igualmente, mi uso de Twitter se verá reducido con los meses. [[https://joinmastodon.org/][Mastodon]] es sin duda la mejor alternativa y puedes seguirme [[https://social.mrcol.es/@isma][aquí]].
+
+** Farewell, WhatsApp (English)
+
+It's very likely that you're here because you've seen this on my [[https://whatsapp.com][WhatsApp]] status. In fact, this is the first time ever since I registered around 11 years ago that I have changed my status.
+
+#+BEGIN_QUOTE
+"Hey there! I'm NOT using WhatsApp"
+#+END_QUOTE
+
+There's no need to talk about the news about [[https://elpais.com/tecnologia/2019/03/06/actualidad/1551903283_498432.html][WhatsApp's terms]] [[https://www.schneier.com/blog/archives/2021/01/changes-in-whatsapps-privacy-policy.html][of service]] that, if it wasn't because [[https://elpais.com/tecnologia/2021-01-15/whatsapp-retrasa-su-decision-de-compartir-con-facebook-los-datos-de-usuarios.html][Facebook has delayed]], we would be forced to accept in order to keep using the service. There's no need to talk about the ethical problems of the systematic [[https://theintercept.com/2020/10/15/facebook-and-twitter-cross-a-line-far-more-dangerous-than-what-they-censor][censorship exercised by these companies]] either.
+Reality is, none of these companies (not just Facebook, but Google or Twitter for that matter) are enticed to adjust their service for their users well-being because, citing Richard Serra, _we are the product_ since we're not paying for it.
+
+For these reasons, I'm looking for more sustainable social media platforms and means of communication looking into the future. They exist, seriously; but they are not as wide-spread as "the classics".
+
+So now what?
+
+I'm out of WhatsApp, but not immediately. Starting in March, I will eliminate notifications and permissions given to the application (location, pictures, etc). Today, I will start letting my contacts know where to find me. After March, people I talk to less regularly will have to wait until I open the app again (days or weeks later) for me to see the message. This will be the case for about 6 months. After that, I will eliminate the app from my phone and computers.
+
+But I will remain on the internet. WhatsApp is not the internet, Instagram is not the internet. They belong to it, but the Internet is deeper than those applications.
+
+The best way to get in contact with me, will be through [[https://signal.org][Signal]]. Unlike WhatsApp or Telegram, Signal is a 501c-3 (non profit organization) that has no shareholders to please. This also means that if you're a user that enjoys the service, I encourage you to [[https://signal.org/donate/][donate to the project]].
+
+If you really don't want to use a new service and have an Apple device, I will still be available on iMessage and, if you're a Telegram user, [[https://t.me/Arenzana][I will keep my Telegram account]]. At least in the short term. Finally, for the adventurous ones, I'm keeping an eye on the evolution of the decentralized [[https://matrix.org][Matrix]] protocol, I truly believe it is the future of communications. You can find me as ~@arenzana:matrix.org~.
+
+My use of Twitter will be reduced as well, potentially following the fate of WhatsApp. [[https://joinmastodon.org/][Mastodon]] is certainly the best alternative, and you can follow me [[https://social.mrcol.es/@isma][here]].

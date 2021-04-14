@@ -1,21 +1,22 @@
 ---
-title: Vuelta a la jaula
 author: iarenzana
-type: post
-date: 2008-09-04T18:09:00+00:00
-url: /2008/09/vuelta-a-la-jaula/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/09/vuelta-la-jaula.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/661476886536861450
+- /feeds/11302648/posts/default/661476886536861450
+blogger_permalink:
+- /2008/09/vuelta-la-jaula.html
 categories:
-  - comentario
-  - trabajo
-
+- comentario
+- trabajo
+date: "2008-09-04T18:09:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=88
+id: 88
+title: Vuelta a la jaula
+url: /2008/09/vuelta-a-la-jaula/
 ---
 <p style="text-align: justify;">
   Está claro que en cuanto se acaban las vacaciones dejo de tener cosas que contar. Por algún motivo el hecho de estar ocioso me inspira para escribir. Espero que no sea el aburrimiento.

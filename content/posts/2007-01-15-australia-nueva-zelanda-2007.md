@@ -1,22 +1,23 @@
 ---
-title: Australia/Nueva Zelanda 2007
 author: iarenzana
-type: post
-date: 2007-01-15T18:11:00+00:00
-url: /2007/01/australia-nueva-zelanda-2007/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/01/australianueva-zelanda-2007.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/779097489760512195
+- /feeds/11302648/posts/default/779097489760512195
+blogger_permalink:
+- /2007/01/australianueva-zelanda-2007.html
 categories:
-  - Australia
-  - NZ
-  - Viajes
-
+- Australia
+- NZ
+- Viajes
+date: "2007-01-15T18:11:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=198
+id: 198
+title: Australia/Nueva Zelanda 2007
+url: /2007/01/australia-nueva-zelanda-2007/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   El punto culminante de este año para mí llega en Marzo. Y esto tiene una explicación: me voy a Australia. En un viaje preparado por mí y para mí (debería añadir el tag &#8220;egocentrismo&#8221; a este post), durante 20 días recorreré Sydney, Cairns (al norte del continente cerca de la Gran Barrera) y la isla sur de Nueva Zelanda.

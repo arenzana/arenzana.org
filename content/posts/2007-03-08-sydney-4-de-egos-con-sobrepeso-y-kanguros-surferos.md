@@ -1,20 +1,21 @@
 ---
-title: Sydney 4 – De egos con sobrepeso y kanguros surferos
 author: iarenzana
-type: post
-date: 2007-03-08T04:36:00+00:00
-url: /2007/03/sydney-4-de-egos-con-sobrepeso-y-kanguros-surferos/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/03/sydney-4-de-egos-con-sobrepeso-y.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/2658255565302325115
+- /feeds/11302648/posts/default/2658255565302325115
+blogger_permalink:
+- /2007/03/sydney-4-de-egos-con-sobrepeso-y.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-03-08T04:36:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=176
+id: 176
+title: Sydney 4 &#8211; De egos con sobrepeso y kanguros surferos
+url: /2007/03/sydney-4-de-egos-con-sobrepeso-y-kanguros-surferos/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Saludos. Hoy he decidido acercarme a la meca del surf mundial (con permiso de Hawaii)&#8230; la playa más famosa del hemisferio sur (con permiso de Copa Cabana). En fin, ya me habían avisado de que no era gran cosa; que realmente no merece la fama que tiene: y tenían razón. En Castellón e incluso en Málaga he visto playas bastante mejores. Es cierto que el agua estaba clara y tal; pero vamos, no tiene nada (salvo las olas quizá). Por lo demás los kanguros estos siguen en su línea de &#8220;Barrera Cultural&#8221; esta vez hay carteles antes de llegar a la playa de que está prohibido nadar salvo &#8220;entre las banderas&#8221;, hay dos banderas en toda la playa separadas por 10 metros; ese es el espacio que tienen los bañistas para no hacer surf; claro, porque no se puede nadar; pero la tabla a todos lados. Además no restringe a sólo nadadores esas banderas; de modo que a los bañistas también les meten las tablas de surf en la boca. Algo tremendo.

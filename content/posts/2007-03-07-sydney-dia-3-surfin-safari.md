@@ -1,20 +1,21 @@
 ---
-title: Sydney Día 3 – Surfin’ Safari
 author: iarenzana
-type: post
-date: 2007-03-07T12:23:00+00:00
-url: /2007/03/sydney-dia-3-surfin-safari/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/03/sydney-da-3-surfin-safari.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/2000104544013138566
+- /feeds/11302648/posts/default/2000104544013138566
+blogger_permalink:
+- /2007/03/sydney-da-3-surfin-safari.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-03-07T12:23:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=177
+id: 177
+title: Sydney Día 3 &#8211; Surfin&#8217; Safari
+url: /2007/03/sydney-dia-3-surfin-safari/
 ---
 <p style="text-align:justify;text-indent:40pt;">
   Sin muchas ganas me dirigí a coger un ferry que me llevara a Manly. Manly es una península al Norte de Port Jackson (la bahía de Sydney). Tiene fama de ser uno de las mejores excursiones fuera de la ciudad. Por lo que me dijo el del restaurante español, Manly vale mucho más la pena que Bondi Beach, que es la playa más famosa de Australia. Quizá mañana si me da tiempo iré a ver la playa esa; pero, no es la primera vez que me dicen que es un poco decepcionante.

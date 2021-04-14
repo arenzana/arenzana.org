@@ -1,23 +1,24 @@
 ---
-title: Declaración de principios (y finales)
 author: iarenzana
-type: post
-date: 2009-03-05T21:09:00+00:00
-url: /2009/03/declaracion-de-principios-y-finales/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2009/03/declaracion-de-principios-y-finales.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/8813376900491646491
+- /feeds/11302648/posts/default/8813376900491646491
+blogger_permalink:
+- /2009/03/declaracion-de-principios-y-finales.html
 categories:
-  - comentario
-  - curiosidades
-  - filosofía
-  - humor
-
+- comentario
+- curiosidades
+- filosofía
+- humor
+date: "2009-03-05T21:09:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=77
+id: 77
+title: Declaración de principios (y finales)
+url: /2009/03/declaracion-de-principios-y-finales/
 ---
 <p style="text-align: justify;">
   Últimamente me encuentro en una fase que algunos califican de filantrópica y otros de filosófica. Yo lo llamo de rallada mental. En uno de estos momentos de divagación sin control he estado analizando la comunicación humana y cómo influye internet en ella.

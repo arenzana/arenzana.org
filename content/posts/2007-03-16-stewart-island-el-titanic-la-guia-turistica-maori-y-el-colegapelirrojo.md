@@ -1,22 +1,23 @@
 ---
+author: iarenzana
+blogger_author:
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
+blogger_internal:
+- /feeds/11302648/posts/default/410146743558749318
+blogger_permalink:
+- /2007/03/stewart-island-el-titanic-la-gua.html
+categories:
+- Uncategorized
+date: "2007-03-16T05:03:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=169
+id: 169
 title: |
   Stewart Island: El Titanic, la guía turística maorí y el colega
   pelirrojo
-author: iarenzana
-type: post
-date: 2007-03-16T05:03:00+00:00
 url: /2007/03/stewart-island-el-titanic-la-guia-turistica-maori-y-el-colegapelirrojo/
-blogger_blog:
-  - micarreta.blogspot.com
-blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/03/stewart-island-el-titanic-la-gua.html
-blogger_internal:
-  - /feeds/11302648/posts/default/410146743558749318
-categories:
-  - Uncategorized
-
 ---
 <p style="text-align:justify;text-indent:20pt;">
   A pesar de que la mañana no resultaba muy prometedora, decidí acercarme a Stewart Island. Una pequeña isla al sur de Nueva Zelanda (la isla más meridional del país a decir verdad y lo más cerca de la Antártida que he estado nunca) que tiene 250 habitantes y que posee, según algunas lecturas, el ecosistema mejor conservado de toda la isla porque apenas está explotado. Además, el periódico local dijo esta mañana que haría buen tiempo a partir del medio día: veremos a ver.

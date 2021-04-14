@@ -1,20 +1,21 @@
 ---
-title: Frase del día
 author: iarenzana
-type: post
-date: 2007-01-25T13:26:00+00:00
-url: /2007/01/frase-del-dia/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/01/frase-del-da.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/7872792754456996126
+- /feeds/11302648/posts/default/7872792754456996126
+blogger_permalink:
+- /2007/01/frase-del-da.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-01-25T13:26:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=192
+id: 192
+title: Frase del día
+url: /2007/01/frase-del-dia/
 ---
 > <span style="color:#ff7f00;font-size:16pt;"><em>VALIENTE NO ES EL QUE NO TIENE MIEDOS<br /> SI NO EL QUE TENIENDOLOS<br /> SE ENFRENTA A ELLOS</em></span>
 

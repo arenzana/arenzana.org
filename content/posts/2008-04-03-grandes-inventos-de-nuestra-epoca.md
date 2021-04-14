@@ -1,21 +1,22 @@
 ---
-title: Grandes inventos de nuestra época
 author: iarenzana
-type: post
-date: 2008-04-03T20:06:00+00:00
-url: /2008/04/grandes-inventos-de-nuestra-epoca/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/04/grandes-inventos-de-nuestra-poca.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6891051786447545302
+- /feeds/11302648/posts/default/6891051786447545302
+blogger_permalink:
+- /2008/04/grandes-inventos-de-nuestra-poca.html
 categories:
-  - comentario
-  - humor
-
+- comentario
+- humor
+date: "2008-04-03T20:06:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=109
+id: 109
+title: Grandes inventos de nuestra época
+url: /2008/04/grandes-inventos-de-nuestra-epoca/
 ---
 A modo de homenaje quisiera que recordásemos con especial atención los siguientes inventos:
 

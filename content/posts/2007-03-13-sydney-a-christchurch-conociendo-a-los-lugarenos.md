@@ -1,20 +1,21 @@
 ---
-title: 'Sydney a Christchurch: Conociendo a los lugareños'
 author: iarenzana
-type: post
-date: 2007-03-13T06:49:00+00:00
-url: /2007/03/sydney-a-christchurch-conociendo-a-los-lugarenos/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/03/sydney-christchurch-conociendo-los.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/3794531001917263069
+- /feeds/11302648/posts/default/3794531001917263069
+blogger_permalink:
+- /2007/03/sydney-christchurch-conociendo-los.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-03-13T06:49:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=172
+id: 172
+title: 'Sydney a Christchurch: Conociendo a los lugareños'
+url: /2007/03/sydney-a-christchurch-conociendo-a-los-lugarenos/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Saludos. Esta mañana salí de Sydney en dirección a Christchurch, Nueva Zelanda. Todo iba bien, el estómago un poco revuelto tras despegar pero bueno: esas cosas pasan a veces. Un vuelo tranquilo. Nos dan los papeles de inmigración en Nueva Zelanda, igual que en Australia, mismas preguntas, etc. Comida&#8230; no, animales&#8230; no, botas/calzado de montaña&#8230; SÍ. Mal asunto, si marco que no pueden cortarme la cabellera si me pillan, o lo que es peor, carlitos: en un intento de honestidad marco que sí. Christchurch está cubierto por una negra capa de nubes y una lluvia que no obstaculiza el aterrizaje, aunque; yo sabía que a mí sí me incordiaría y bastante. Salgo del avión y llego a aduanas; está lleno: 30 minutos de espera hasta que me llega el turno. Durante la espera me encuentro con una catalana; me ve el pasaporte y me dice &#8220;de donde eres? de la Rambla?&#8221; ¬¬ Sí, porque España, como sabéis es muy pequeño. En un intento por librarme de ella (a pesar de decirle que soy madrileño no se rendía) recogí mi maleta con el fin de ir a por el coche, acelerar y salir de allí lo antes posible.

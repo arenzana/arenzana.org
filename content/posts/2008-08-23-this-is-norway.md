@@ -1,21 +1,22 @@
 ---
-title: This is Norway!
 author: iarenzana
-type: post
-date: 2008-08-23T21:38:00+00:00
-url: /2008/08/this-is-norway/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/08/this-is-norway.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6407554724105165412
+- /feeds/11302648/posts/default/6407554724105165412
+blogger_permalink:
+- /2008/08/this-is-norway.html
 categories:
-  - noruega
-  - Viajes
-
+- noruega
+- Viajes
+date: "2008-08-23T21:38:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=91
+id: 91
+title: This is Norway!
+url: /2008/08/this-is-norway/
 ---
 <p style="text-align: justify;">
   Hacía unas tres horas que habíamos salido y tras diez horas de vuelo (bueno, quizá sólo fueron tres pero a mí me parecieron algunas más) y nuestro primer contacto con seres noruegos se producía en el aeropuerto: definitivamente habíamos llegado.

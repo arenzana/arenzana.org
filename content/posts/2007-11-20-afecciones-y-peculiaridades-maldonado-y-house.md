@@ -1,20 +1,21 @@
 ---
-title: Afecciones y peculiaridades. Maldonado y House.
 author: iarenzana
-type: post
-date: 2007-11-20T21:11:00+00:00
-url: /2007/11/afecciones-y-peculiaridades-maldonado-y-house/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/11/afecciones-y-peculiaridades-maldonado-y.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/467494245017152619
+- /feeds/11302648/posts/default/467494245017152619
+blogger_permalink:
+- /2007/11/afecciones-y-peculiaridades-maldonado-y.html
 categories:
-  - comentario
-
+- comentario
+date: "2007-11-20T21:11:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=131
+id: 131
+title: Afecciones y peculiaridades. Maldonado y House.
+url: /2007/11/afecciones-y-peculiaridades-maldonado-y-house/
 ---
 <p style="text-align: justify;">
   <p style="text-align: justify;">

@@ -1,21 +1,23 @@
 ---
-title: Yo también soy leyenda
 author: iarenzana
-type: post
-date: 2008-01-05T21:20:00+00:00
-url: /2008/01/yo-tambien-soy-leyenda/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/01/yo-tambin-soy-leyenda.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/7213815851921447477
+- /feeds/11302648/posts/default/7213815851921447477
+blogger_permalink:
+- /2008/01/yo-tambin-soy-leyenda.html
 categories:
-  - cine
-  - comentario
+- cine
+- comentario
+date: "2008-01-05T21:20:00Z"
+publishDate: "2097-01-23T19:09:00Z"
 
+guid: https://arenzana.org/?p=119
+id: 119
+title: Yo también soy leyenda
+url: /2008/01/yo-tambien-soy-leyenda/
 ---
 <p style="text-align: justify;">
   Saludos terrícolas. Espero que hayáis conseguido sobrevivir al turrón y los mazapanes de estos días y que los reyes os dejen muchas cosas esta noche. Aunque muchos no merezcáis más que carbon. Pero eso es otra historia en la que no pienso entrar.

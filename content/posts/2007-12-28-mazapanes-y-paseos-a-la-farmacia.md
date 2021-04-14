@@ -1,22 +1,23 @@
 ---
-title: Mazapanes y paseos a la farmacia
 author: iarenzana
-type: post
-date: 2007-12-28T19:37:00+00:00
-url: /2007/12/mazapanes-y-paseos-a-la-farmacia/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/12/mazapanes-y-paseos-la-farmacia.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/6283904959950494125
+- /feeds/11302648/posts/default/6283904959950494125
+blogger_permalink:
+- /2007/12/mazapanes-y-paseos-la-farmacia.html
 categories:
-  - humor
-  - trabajo
-  - vida
-
+- humor
+- trabajo
+- vida
+date: "2007-12-28T19:37:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=120
+id: 120
+title: Mazapanes y paseos a la farmacia
+url: /2007/12/mazapanes-y-paseos-a-la-farmacia/
 ---
 <p style="text-align: justify;">
   Érase una vez un muchacho, podemos llamarle Ismael, tumbado en un sofá de cualquier o ningún lugar en particular el día de Nochevieja. Se encontraba en un extraño éxtasis entre mazapán y mazapán probablemente producido por alguna indigestión de langostinos. Los párpados, pesados, luchaban por unirse en contra de su voluntad. Finalmente, Ismael , sucumbió al deseo de los párpados y quedó envuelto en un profundo sueño.

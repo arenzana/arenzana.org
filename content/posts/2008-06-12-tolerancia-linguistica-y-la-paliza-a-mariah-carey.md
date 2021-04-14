@@ -1,22 +1,23 @@
 ---
-title: Tolerancia lingüística y la paliza a Mariah Carey
 author: iarenzana
-type: post
-date: 2008-06-12T13:06:00+00:00
-url: /2008/06/tolerancia-linguistica-y-la-paliza-a-mariah-carey/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/06/tolerancia-lingstica-y-la-paliza-mariah.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/2688713565582894607
+- /feeds/11302648/posts/default/2688713565582894607
+blogger_permalink:
+- /2008/06/tolerancia-lingstica-y-la-paliza-mariah.html
 categories:
-  - comentario
-  - humor
-  - reflexión
-
+- comentario
+- humor
+- reflexión
+date: "2008-06-12T13:06:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=100
+id: 100
+title: Tolerancia lingüística y la paliza a Mariah Carey
+url: /2008/06/tolerancia-linguistica-y-la-paliza-a-mariah-carey/
 ---
 <p style="text-align: justify;">
   Saludos fieles seguidores. Una vez más, siento esta larga ausencia, pero me da la impresión de que mi musa se ha marchado de vacaciones y me quedo solo durante una temporada.

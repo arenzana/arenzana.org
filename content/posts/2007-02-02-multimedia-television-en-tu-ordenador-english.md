@@ -1,20 +1,21 @@
 ---
-title: Multimedia… Televisión en tu ordenador (English)
 author: iarenzana
-type: post
-date: 2007-02-02T14:18:00+00:00
-url: /2007/02/multimedia-television-en-tu-ordenador-english/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/02/multimedia-televisin-en-tu-ordenador.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/8571909053181859933
+- /feeds/11302648/posts/default/8571909053181859933
+blogger_permalink:
+- /2007/02/multimedia-televisin-en-tu-ordenador.html
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: "2007-02-02T14:18:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=187
+id: 187
+title: Multimedia&#8230; Televisión en tu ordenador (English)
+url: /2007/02/multimedia-television-en-tu-ordenador-english/
 ---
 <p style="text-align:justify;text-indent:20pt;">
   Saludos canallas. Hoy voy a comentar un poco cómo tengo configurado esto para ver la tele en el ordenador sin necesidad te tarjeta receptora ni capturadora ni nada de eso; eso sí, en inglés (lo sientoooo).
@@ -52,15 +53,15 @@ categories:
   * House MD
   * CSI: Miami
   * The Dresden Files (nueva serie de ciencia ficción, está bien. A ver cuando llega aquí)
-  * Diggnation (Sobre tecnología, [www.revision3.com][1])
+  * Diggnation (Sobre tecnología, [www.revision3.com](http://revision3.com/))
   * American Idol (Sí, es el OT americano, a diferencia del de aquí&#8230; esta es la risa, porque no es sobre la música si no sobre los jueces)
   * The Office (Serie sobre una oficina, la risa)
   * My Name Is Earl (Mi nombre es Earl, lo ponen en el cable, en inglés es la risa)
   * Family Guy (Aquí también lo ponen)
   * CSI: NY
   * TWiT Video (Tecnología, este no actualiza)
-  * dl.tv (H.264 version) (Sobre tecnología y electrónica en general, está muy bien, [www.dl.tv][2])
-  * MacBreak (Charlas sobre Mac por Leo Laporte, [www.twit.tv][3]).
+  * dl.tv (H.264 version) (Sobre tecnología y electrónica en general, está muy bien, [www.dl.tv](http://dl.tv/))
+  * MacBreak (Charlas sobre Mac por Leo Laporte, [www.twit.tv](http://www.twit.tv/)).
   * Happy Tree Friends
 
 <p style="text-indent:20pt;">
@@ -75,9 +76,4 @@ categories:
   Faltan 29 días, 4 horas y 6 minutos.
 </p>
 
-**#538 Daily Source Code for Friday February 2nd 2007** del Álbum &#8220;Adam Curry: Daily Source Code&#8221; por [Adam Curry][4]
-
- [1]: http://revision3.com/
- [2]: http://dl.tv/
- [3]: http://www.twit.tv/
- [4]: http://www.google.com/search?q=%22Adam%20Curry%22
+**#538 Daily Source Code for Friday February 2nd 2007** del Álbum &#8220;Adam Curry: Daily Source Code&#8221; por [Adam Curry](http://www.google.com/search?q=%22Adam%20Curry%22)

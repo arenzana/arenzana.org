@@ -1,21 +1,22 @@
 ---
-title: Saludos a mis lectores catalanes
 author: iarenzana
-type: post
-date: 2008-04-21T19:43:00+00:00
-url: /2008/04/saludos-a-mis-lectores-catalanes/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2008/04/saludos-mis-lectores-catalanes.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/4779626191257164439
+- /feeds/11302648/posts/default/4779626191257164439
+blogger_permalink:
+- /2008/04/saludos-mis-lectores-catalanes.html
 categories:
-  - comentario
-  - gracias
-
+- comentario
+- gracias
+date: "2008-04-21T19:43:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=105
+id: 105
+title: Saludos a mis lectores catalanes
+url: /2008/04/saludos-a-mis-lectores-catalanes/
 ---
 <p style="text-align: justify;">
   Google no miente; bueno, al menos en lo que a informes de visitantes se refiere. Y según Google mi blog tiene más visitas del área metropolitana de Barcelona que de toda la Comunidad de Madrid. También es cierto que los madrileños, según Google de nuevo, son más fieles. Lo cual se agradece igualmente.

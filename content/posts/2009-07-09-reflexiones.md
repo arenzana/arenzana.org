@@ -1,21 +1,22 @@
 ---
-title: Reflexiones
 author: iarenzana
-type: post
-date: 2009-07-09T12:48:00+00:00
-url: /2009/07/reflexiones/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2009/07/reflexiones.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/1499134671778632415
+- /feeds/11302648/posts/default/1499134671778632415
+blogger_permalink:
+- /2009/07/reflexiones.html
 categories:
-  - gracias
-  - reflexión
-
+- gracias
+- reflexión
+date: "2009-07-09T12:48:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=70
+id: 70
+title: Reflexiones
+url: /2009/07/reflexiones/
 ---
 En ocasiones en la vida de una persona nos dicen cosas como &#8220;Termínate la comida, no sabes cuántos niños hambrientos hay en África?&#8221;. Sí, supongo que lo sé; pero no lo conozco. La misión que levo a cabo en Ecuador está centrada en el pequeño pueblo de Picaihua. Un pueblo (o barriada) a pocos kilómetros de Ambato. Picaihua es un pueblo formado enteramente de núcleos chabolistas (aunque la mayoría hechos de cemento) en los que la pobreza es sin lugar a dudas, el denominador común. En el centro de este lugar se encuentra la iglesia Cristiana de Picaihua; con cerca de 50 miembros, esta iglesia está haciendo una extraordinaria obra evangelística en el pueblo. Esta iglesia, además, ha enviado a un misionero a una comunidad en la selva amazónica.
 

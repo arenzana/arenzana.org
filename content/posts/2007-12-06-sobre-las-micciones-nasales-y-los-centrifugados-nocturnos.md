@@ -1,22 +1,23 @@
 ---
-title: Sobre las micciones nasales y los centrifugados nocturnos
 author: iarenzana
-type: post
-date: 2007-12-06T10:58:00+00:00
-url: /2007/12/sobre-las-micciones-nasales-y-los-centrifugados-nocturnos/
-blogger_blog:
-  - micarreta.blogspot.com
 blogger_author:
-  - Ismael Arenzana
-blogger_permalink:
-  - /2007/12/sobre-las-micciones-nasales-y-los.html
+- Ismael Arenzana
+blogger_blog:
+- micarreta.blogspot.com
 blogger_internal:
-  - /feeds/11302648/posts/default/638752334614131187
+- /feeds/11302648/posts/default/638752334614131187
+blogger_permalink:
+- /2007/12/sobre-las-micciones-nasales-y-los.html
 categories:
-  - comentario
-  - humor
-  - vida
-
+- comentario
+- humor
+- vida
+date: "2007-12-06T10:58:00Z"
+publishDate: "2097-01-23T19:09:00Z"
+guid: https://arenzana.org/?p=126
+id: 126
+title: Sobre las micciones nasales y los centrifugados nocturnos
+url: /2007/12/sobre-las-micciones-nasales-y-los-centrifugados-nocturnos/
 ---
 <p style="text-align: justify;">
   Y aquí estoy un día más. Solo en este caso ya que toda mi familia se ha ido de puente: lamentable. Siento no haberme manifestado antes; pero mis obligaciones laborales y mis problemas de salud no me lo han permitido. Los problemas de salud siguen; pero aún me dan la oportunidad escribir un poco; no puedo decir lo mismo de mis obligaciones laborales.
