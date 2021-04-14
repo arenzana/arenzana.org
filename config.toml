@@ -1,10 +1,10 @@
-baseURL = "https://arenzana.org"
+baseURL = "https://arenzana.org/"
 languageCode = "en-us"
 title = "Arenzana"
 theme = "hack"
 paginate = 10
 
-copyright = "© arenzana.org. All Rights Reserved"
+copyright = "© 2021, Ismael Arenzana. All rights reserved."
 
 pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
@@ -15,6 +15,9 @@ disqusShortname = ""
 
 summaryLength = 20
 
+[permalinks]
+    blog = "/:slug/"
+    
 [params]
 	subtitle = ""
 	disableDisqusTypes = ["page"]

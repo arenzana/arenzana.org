@@ -7,9 +7,10 @@
 #+DESCRIPTION:
 #+TITLE: Hasta Pronto, WhatsApp / Farewell, WhatsApp (English & Español)
 
-*tl;dr* Ponte en contacto conmigo a través de Signal / You can contact me on Signal
+#+CAPTION: *tl;dr* Ponte en contacto conmigo a través de Signal / You can contact me on Signal
+[[/wp-content/uploads/2021/02/rachit-tank-lZBs-lD9LPQ-unsplash-940x510.jpg]]
 
-** Hasta Pronto, WhatsApp (Español)
+* Hasta Pronto, WhatsApp (Español)
 Es probable que te encuentres aquí porque has visto un link a esta página en mi estado de [[https://www.whatsapp.com][Whatsapp]]. De hecho, esta es la única ocasión desde que uso el servicio (hace alrededor de 11 años), que cambio de estado.
 
 #+BEGIN_QUOTE
@@ -33,7 +34,7 @@ Si realmente prefieres no utilizar algo nuevo y tienes un dispositivo Apple, sig
 
 Igualmente, mi uso de Twitter se verá reducido con los meses. [[https://joinmastodon.org/][Mastodon]] es sin duda la mejor alternativa y puedes seguirme [[https://social.mrcol.es/@isma][aquí]].
 
-** Farewell, WhatsApp (English)
+* Farewell, WhatsApp (English)
 
 It's very likely that you're here because you've seen this on my [[https://whatsapp.com][WhatsApp]] status. In fact, this is the first time ever since I registered around 11 years ago that I have changed my status.
 
