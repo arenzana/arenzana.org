@@ -1,5 +1,7 @@
+@import url(../assets/styles-fonts.css);
+
 body {
-    font-family: "Lora";
+    font-family: "et-book", sans-serif;
     font-weight: 400;
     color: #333;
     line-height: 1.5;
@@ -64,7 +66,7 @@ blockquote {
     margin-left: 1rem;
     font-style: italic;
     font-size: 1.4rem;
-    font-family: Georgia,bitstream charter,serif;
+    font-family: "et-book", sans-serif;
     border-left: 3px solid;
     border-color: #FFAF00;
     padding-left: 20px;
@@ -89,7 +91,7 @@ a:hover {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: Lora;
+    font-family: "et-book", sans-serif;
     line-height: 1.2;
     color: #333;
     font-weight: 500;
