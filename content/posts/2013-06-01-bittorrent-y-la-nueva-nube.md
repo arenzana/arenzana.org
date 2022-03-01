@@ -11,7 +11,7 @@ blogger_permalink:
 categories:
 - tecnologia
 date: "2013-06-01T16:03:00Z"
-#publishDate: "2097-01-23T19:09:00Z"
+publishDate: "2013-06-01T16:03:00Z"
 id: 25
 title: Bittorrent y la nueva nube
 url: /2013/06/bittorrent-y-la-nueva-nube/
