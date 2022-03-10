@@ -8,7 +8,7 @@
 #+TITLE: Emacs for Rust Development
 
 * Emacs > Visual Studio Code
-There's a good chance I'm a hater or that I don't know what I'm doing. After a couple of hours trying to set up VS Code for Rust development, I ended up frustrated not understanding how to simply call the compiler or the debugger from the interface. I looked for ~rust-mode~ on Github and 15 minutes later I was up and running on Emacs. Maybe it's my previous experience with [Go](https://arenzana.org/posts/2019-12-03-emacs-go-mode-revisited/) development set ups that made it all quite simple.
+There's a good chance I'm a hater or that I don't know what I'm doing. After a couple of hours trying to set up VS Code for Rust development, I ended up frustrated not understanding how to simply call the compiler or the debugger from the interface. I looked for ~rust-mode~ on Github and 15 minutes later I was up and running on Emacs. Maybe it's my previous experience with [[https://arenzana.org/posts/2019-12-03-emacs-go-mode-revisited/][Go]] development set ups that made it all quite simple.
 
 * Rust on Emacs
 I approached this the same way I approached Go: let's get regular syntax highlighting, linting, formatting, and compiling first and we'll worry about debuggers later. I'm a bit old school when it comes to approaching debugging.
@@ -32,7 +32,7 @@ We end up with the following on the Emacs config (if you use ~use-package~):
   :hook (flycheck-mode-hook . flycheck-rust-setup))
 #+end_src
 
-Here, we load the mode for Rust development. Auto-indent with spaces, run ~rustfmt~ on save (needs to be installed via [rustup](https://rustup.rs/). Prettify symbols (cause why not), and use language server protocol. I'm binding "M-," to compile; I know it's an odd keybinding, but I'm used to it by now. Feel free to make it your own.
+Here, we load the mode for Rust development. Auto-indent with spaces, run ~rustfmt~ on save (needs to be installed via [[https://rustup.rs/][rustup]]. Prettify symbols (cause why not), and use language server protocol. I'm binding "M-," to compile; I know it's an odd keybinding, but I'm used to it by now. Feel free to make it your own.
 
 In addition to this, I'm hooking ~flycheck~ for linting.
 
@@ -40,5 +40,3 @@ In addition to this, I'm hooking ~flycheck~ for linting.
 IntelliJ made it very easy to set up as well, but that's a multi-hundred dollar application. If you're on a budget, Emacs, vim, or VSCode should bet viable options as well.
 
 I'm still getting started with Rust and I don't know how much it will stick, since I've been writing Go for a number of years; but I'm happy I have a familiar environment to get started from. By now I should know Emacs should *always* be my first option.
-
-

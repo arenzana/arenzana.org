@@ -4,7 +4,7 @@ title = "Arenzana"
 theme = "hack"
 paginate = 10
 
-copyright = "© 2021, Ismael Arenzana. All rights reserved."
+copyright = "© 2022, Ismael Arenzana. All rights reserved."
 
 pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
@@ -17,7 +17,7 @@ summaryLength = 20
 
 [permalinks]
     blog = "/:slug/"
-    
+
 [params]
 	subtitle = ""
 	disableDisqusTypes = ["page"]

@@ -1,0 +1,51 @@
+* README
+
+Hello! This is Isma and this is my README. If you're reading this, you're probably reporting to me. You can think of this README as sort of a first approach to my management style, what you can expect from me, and what I expect from you.
+
+** About Me
+1. I have a mixed operations/software development/business background, with formal education on the last two. I can easily talk all day long about all three of them with little authority on either.
+
+2. I was born and raised in Spain and this fact may be reflected in the way we interact: expect passionate (but respectful) work-related discussions and polite smiles to American football remarks. As a good European, expect me to wear scarves during the winter.
+
+3. Spanish is my first language, English is not. I want to apologize in advance for any misunderstandings. I am very aware of cultural and linguistic differences and I'm very intentional about making sure communication is fluid and misunderstandings rare.
+
+** Work Philosophy, Values, and Expectations
+Part of my work is to facilitate yours. This includes answering questions, make resources available, and filtering out noise coming down our way.
+
+Due to the nature of our work, I value quality over quantity, and that will hopefully be reflected in the workload I assign to you. That being said, if you feel like the quality of your work is being sacrificed by the load or deadlines assigned, I expect you to let me know.
+
+I expect excellency from you. That is not to say "perfect code" or "perfectly monitored systems", but going the extra mile to do your best work. If you're a developer, code should be tested. If you're an operator troubleshooting an issue, a root cause is expected rather than a simple restart. As a team, we want to take pride on the work we do for public safety.
+
+Every line of code we ship (or don't ship) has an impact of people's safety. Unavailable or incorrect location could potentially be fatal to someone's life. We need to treat every service and every release with this thought in mind. If you have questions about the quality of a release, element, product, you are expected to bring it to my attention (even if it's my own doing).
+
+You are always welcome to come to me with questions. Be ready to explain the research you have done, approaches you have taken and solutions you have tried to come to a solution by yourself. If all those have failed, I'll give you guidance or work with you help you come to a solution.
+
+** Feedback (how to give and how I give)
+All feedback is welcome. This is what you need to know about it:
+- I am okay with positive feedback. Just don't overdo it.
+
+- I value negative feedback as I believe it's the only way to improve as a person and professionally. Two requirements of negative feedback:
+
+  a) Direct but respectful and polite. Nobody reacts well to rude feedback.
+
+  b) Make it as specific and measurable as possible. /"You're bad a bad developer"/ is not good feedback. Instead, try something like /"in places like this and this your code could be less verbose and more efficient. You may want to try this and this instead"/.
+
+  I will do my best to put myself in your position and will understand it comes from good intentions with the goal of building me up rather than bringing me down.
+
+Even though directness is not in my nature, I will strive to give you the best feedback possible.
+
+Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement.
+
+** One-on-Ones
+You can expect to meet with me on a one on one basis every two weeks. To me, these are the most important meetings of the week and I hope you can find value in them too.
+
+These are not status update meetings. We have other meetings for that. If you feel like you want to give me a status update on something or have a quick project-related question for me, you can tell me at the beginning of our meeting.
+
+The goal of these meetings is to make sure we are on the same page, for you to know where I think there can be improvements, and for you to let me know where I may be falling short. Feel free to bring any HR-related concerns/issues you may have. I may not be able to resolve them for you, but I can either guide you or intercede on your behalf if necessary.
+
+** Work/Life Boundaries
+I work a bit some weekends. This is my choice. I do not expect that you are going to work on the weekend unless there is a public safety-affecting issue or production work that cannot be scheduled any other time. I might Slack you things, but they can always wait until work begins for you on Monday. If something urgent comes up, I will text you/call you.
+
+Likewise, feel free to Slack me after hours. I may or may not respond depending on availability and/or notification settings. If you have something urgent to escalate or bring to my attention, you can reach me at +1 (260) 797-6529.
+
+I take vacations. You should, too. Disconnected from work is when I do some of my best work. Not taking vacations, invariably leads to burnout and can negatively affect the team.
