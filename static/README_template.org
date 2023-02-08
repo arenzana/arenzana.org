@@ -28,7 +28,7 @@ All feedback is welcome. This is what you need to know about it:
 
   a) Direct but respectful and polite. Nobody reacts well to rude feedback.
 
-  b) Make it as specific and measurable as possible. /"You're bad a bad developer"/ is not good feedback. Instead, try something like /"in places like this and this your code could be less verbose and more efficient. You may want to try this and this instead"/.
+  b) Make it as specific and measurable as possible. /"You're bad as a developer"/ is not good feedback. Instead, try something like /"in places like this and this your code could be less verbose and more efficient. You may want to try this and this instead"/.
 
   I will do my best to put myself in your position and will understand it comes from good intentions with the goal of building me up rather than bringing me down.
 
