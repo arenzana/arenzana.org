@@ -4,7 +4,7 @@ title = "Arenzana"
 theme = "hack"
 paginate = 10
 
-copyright = "© 2022, Ismael Arenzana. All rights reserved."
+copyright = "© 2023, Ismael Arenzana. All rights reserved."
 
 pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
