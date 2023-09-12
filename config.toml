@@ -45,7 +45,7 @@ weight = 2
 [[params.social]]
 name = "Code"
 icon = "code"
-url = "https://code.arenzana.org"
+url = "https://github.com/arenzana"
 
 [[params.social]]
 name = "RSS"
