@@ -1,0 +1,24 @@
+#+BLOG: arenzanaorg
+#+POSTID: 439
+#+DATE: [2023-11-16 Thu 15:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: tech
+#+TAGS[]: tech,ai
+#+DESCRIPTION:
+#+TITLE: AI: Some Good Guidance
+[[./img/ai_takeover.png]]
+
+* AI AI AI AI AI AI AI AI AI AI AI AI AI
+Unless you've been living under a rock and regardless of your technical skills, you must've noticed how AI is now everywhere in our lives. Some even say that it will [[https://www.theguardian.com/technology/2023/jul/07/five-ways-ai-might-destroy-the-world-everyone-on-earth-could-fall-over-dead-in-the-same-second][take over our lives]].
+
+Just like it happened a few years ago with blockchain, companies are now trying to include AI in every single aspect of software product development, regardless of whether it's needed or not.
+
+There are, however, some great use cases for AI. It has, for example, given me great guidance in areas where I'm not very well-versed, such as automated GIS processing with ArcGIS Enterprise. Was it perfect? No it wasn't. But it gave me _good guidance_.
+
+* No Artist
+[[./img/ai_renaissance_artist.png]]
+
+Another great use for AI is to make illustrations. I am no artist, but sometimes I want to illustrate a blog post or a Tweet without the need of a stock image. Maybe the image I'm looking for is too specific or obscure. While not perfect, it gets you /very/ close.
+
+* Game Changer?
+AI might take over the world, but it won't be over the next few years. While it gets us 90% of the way there, it's not 100% what a human can do, and it's that remaining 10% that will be the hardest.

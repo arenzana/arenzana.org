@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Emacs Go Mode - Revisited - Arenzana</title><link rel="icon" type="image/png" href="/Arenzanafav.png" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:title" content="Emacs Go Mode - Revisited" />
+<meta property="og:description" content="A few months ago I went over how to set up Emacs for Go development. Since then, I have honestly not changed a single thing about it." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://arenzana.org/posts/2019-12-03-emacs-go-mode-revisited/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2019-12-03T00:00:00+00:00" />
+<meta property="article:modified_time" content="2019-12-03T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Emacs Go Mode - Revisited"/>
+<meta name="twitter:description" content="A few months ago I went over how to set up Emacs for Go development. Since then, I have honestly not changed a single thing about it."/>
+
+
+	<link rel="stylesheet" type="text/css" media="screen" href="https://arenzana.org/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://arenzana.org/css/main.css" /><link rel="stylesheet" type="text/css" href="https://arenzana.org/css/dark.css" media="(prefers-color-scheme: dark)" />
+
+	<script src="https://arenzana.org/js/feather.min.js"></script>
+	<script src="https://arenzana.org/js/main.js"></script>
+</head>
+
+<body>
+	<div class="container wrapper post">
+		<div class="header">
+	<base href="https://arenzana.org/">
+    <link href="https://social.mrcol.es/@isma" rel="me">
+	<h1 class="site-title"><a href="https://arenzana.org/">Arenzana</a></h1>
+	<div class="site-description"><h2></h2><nav class="nav social">
+			<ul class="flat"><a href="https://github.com/arenzana" title="Code"><i data-feather="code"></i></a><a href="/index.xml" title="RSS"><i data-feather="rss"></i></a></ul>
+		</nav>
+	</div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+			<li>
+				<a href="/">home</a>
+			</li>
+			
+			<li>
+				<a href="/posts">blog</a>
+			</li>
+			
+			<li>
+				<a href="https://iarenzana.gitlab.io/cv/exec_en.html">CV</a>
+			</li>
+			
+		</ul>
+	</nav>
+</div>
+
+
+		<div class="post-header">
+			<h1 class="title">Emacs Go Mode - Revisited</h1>
+			<div class="meta">Posted at &mdash; Dec 3, 2019</div>
+		</div>
+
+		<div class="markdown">
+			
+<p>
+A few months ago <a href="https://arenzana.org/2019/01/emacs-go-mode/">I went over</a> how to set up Emacs for Go development. Since then, I have honestly not changed a single thing about it. Until this week.</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Background
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p>
+Here&#39;s the thing. Something I have changed too much over the last few months has been the vendoring mechanism I use for my Go projects. From <a href="https://github.com/Masterminds/glide">Glide</a>, I moved to <a href="https://github.com/golang/dep">go dep</a>, and a couple of months ago, I started the migration to the <a href="https://github.com/golang/go/wiki/Modules">Go Modules</a>, Golang&#39;s potential long-term solution to the package management mess the community has been living with since the inception of the language 10 years ago (<a href="https://blog.golang.org/10years">Happy Birthday Go!</a>).</p>
+<p>
+Go Modules changes a lot of things about the taxonomy of your projects: vendor management, GOPATH, <code>go get</code>, etc. Just like me and my vendor management journey, <code>gomode</code> has also gone through several iterations from <a href="https://github.com/nsf/gocode">here</a>, to <a href="https://github.com/mdempsky/gocode">here</a>, and <a href="https://github.com/stamblerre/gocode">here</a>.</p>
+<p>
+It was time to start looking at something else with more long term support.</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+LSP time
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>
+LSP (Language Server Provider) promises to do away with all these issues by implementing a &#34;driver&#34; with a common editor interface and adapting to the languages as they evolve. <a href="https://www.youtube.com/watch?v=5Re6BHEOT_k">Rebecca Stambler&#39;s &#34;Go, please stop breaking my editor&#34;</a> is a must-watch if you&#39;re interested in the topic.</p>
+<p>
+To work on Go using emacs, the most logical recipe would be <a href="https://github.com/emacs-lsp/lsp-mode">lsp-mode</a>, <a href="https://github.com/golang/tools/blob/master/gopls/README.md">gopls</a>, and <a href="https://github.com/dominikh/go-mode.el">go-mode</a>. <code>gopls</code> is the LSP-compatible language server, <code>lsp-mode</code> is the Emacs interface for LSP servers, and <code>go-mode</code> is, well, the major mode for Go (discussed <a href="https://arenzana.org/2019/01/emacs-go-mode/">in my previous article</a>).</p>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Go, please
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<p>
+In the video (May 2019), Rebecca points out that <code>gopls</code> is still in alpha and warns us to proceed with caution. Currently, (December 2019) it feels more like a beta, so not too bad, but still not perfect. <code>gopls</code> is, however, the future for Emacs to become a solid Golang editor. This is because it&#39;s the only language tool (beside&#39;s Rebecca&#39;s <code>gocode</code> that&#39;s in maintenance mode) that fully supports Go modules that is in active development.</p>
+<p>
+All I had to do to install it was this:</p>
+<div class="src src-bash">
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>go get golang.org/x/tools/gopls@latest</span></span></code></pre></div>
+</div>
+<p>
+It&#39;s important to check out the latest version since the tool is evolving quite quickly right now.</p>
+<p>
+What happens in the editor is that Emacs spawns an instance of the server when <code>go-mode</code> is enabled on a buffer. After this, <code>lsp-mode</code> will attempt to connect to it. The advantage of using a server rather than a command is that it&#39;s much quicker to respond and interface with Emacs (it does feel snappier once the server comes up, which is also fairly quick). The disadvantages are the security concerns of running a server on a laptop; but to be fair, this is not supposed to be a long-running/permanent process.</p>
+<p>
+On my Emacs config, I just added the following lines:</p>
+<div class="src src-emacs-lisp">
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">lsp-gopls-staticcheck</span> <span style="color:#cb4b16">t</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">lsp-eldoc-render-all</span> <span style="color:#cb4b16">t</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">lsp-gopls-complete-unimported</span> <span style="color:#cb4b16">t</span>)</span></span></code></pre></div>
+</div>
+<p>
+I just wanted those elements to be active, but feel free to edit to taste.</p>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+lsp-mode
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
+<p>
+<code>lsp-mode</code> will need to be added to our Emacs set up. I copied most of this from the <code>gopls</code> + <code>lsp-mode</code> set up guides adjusting it to my needs and adding a couple of things.</p>
+<div class="src src-emacs-lisp">
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span style="display:flex;"><span>(<span style="color:#b58900">use-package</span> <span style="color:#268bd2">lsp-mode</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#b58900">:ensure</span> <span style="color:#cb4b16">t</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#b58900">:commands</span> (<span style="color:#268bd2">lsp</span> <span style="color:#268bd2">lsp-deferred</span>)
+</span></span><span style="display:flex;"><span>  <span style="color:#b58900">:hook</span> (<span style="color:#268bd2">go-mode</span> <span style="color:#719e07">.</span> <span style="color:#268bd2">lsp-deferred</span>))
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#586e75">;;Set up before-save hooks to format buffer and add/delete imports.</span>
+</span></span><span style="display:flex;"><span><span style="color:#586e75">;;Make sure you don&#39;t have other gofmt/goimports hooks enabled.</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">defun</span> <span style="color:#268bd2">lsp-go-install-save-hooks</span> ()
+</span></span><span style="display:flex;"><span>  (<span style="color:#268bd2">add-hook</span> <span style="color:#2aa198">&#39;before-save-hook</span> <span style="color:#268bd2">#&#39;</span><span style="color:#268bd2">lsp-format-buffer</span> <span style="color:#cb4b16">t</span> <span style="color:#cb4b16">t</span>)
+</span></span><span style="display:flex;"><span>  (<span style="color:#268bd2">add-hook</span> <span style="color:#2aa198">&#39;before-save-hook</span> <span style="color:#268bd2">#&#39;</span><span style="color:#268bd2">lsp-organize-imports</span> <span style="color:#cb4b16">t</span> <span style="color:#cb4b16">t</span>))
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">add-hook</span> <span style="color:#2aa198">&#39;go-mode-hook</span> <span style="color:#268bd2">#&#39;</span><span style="color:#268bd2">lsp-go-install-save-hooks</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#586e75">;;Optional - provides fancier overlays.</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">use-package</span> <span style="color:#268bd2">lsp-ui</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#b58900">:ensure</span> <span style="color:#cb4b16">t</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#b58900">:commands</span> <span style="color:#268bd2">lsp-ui-mode</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#b58900">:init</span>
+</span></span><span style="display:flex;"><span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#586e75">;;Company mode is a standard completion package that works well with lsp-mode.</span>
+</span></span><span style="display:flex;"><span><span style="color:#586e75">;;company-lsp integrates company mode completion with lsp-mode.</span>
+</span></span><span style="display:flex;"><span><span style="color:#586e75">;;completion-at-point also works out of the box but doesn&#39;t support snippets.</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">use-package</span> <span style="color:#268bd2">company</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#b58900">:ensure</span> <span style="color:#cb4b16">t</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#b58900">:config</span>
+</span></span><span style="display:flex;"><span>  (<span style="color:#b58900">setq</span> <span style="color:#268bd2">company-idle-delay</span> <span style="color:#2aa198">0</span>)
+</span></span><span style="display:flex;"><span>  (<span style="color:#b58900">setq</span> <span style="color:#268bd2">company-minimum-prefix-length</span> <span style="color:#2aa198">1</span>))
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">use-package</span> <span style="color:#268bd2">company-lsp</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#b58900">:ensure</span> <span style="color:#cb4b16">t</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#b58900">:commands</span> <span style="color:#268bd2">company-lsp</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#586e75">;;Optional - provides snippet support.</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">use-package</span> <span style="color:#268bd2">yasnippet</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#b58900">:ensure</span> <span style="color:#cb4b16">t</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#b58900">:commands</span> <span style="color:#268bd2">yas-minor-mode</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#b58900">:hook</span> (<span style="color:#268bd2">go-mode</span> <span style="color:#719e07">.</span> <span style="color:#268bd2">yas-minor-mode</span>))
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#586e75">;;lsp-ui-doc-enable is false because I don&#39;t like the popover that shows up on the right</span>
+</span></span><span style="display:flex;"><span><span style="color:#586e75">;;I&#39;ll change it if I want it back</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">lsp-ui-doc-enable</span> <span style="color:#cb4b16">nil</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#268bd2">lsp-ui-peek-enable</span> <span style="color:#cb4b16">t</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#268bd2">lsp-ui-sideline-enable</span> <span style="color:#cb4b16">t</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#268bd2">lsp-ui-imenu-enable</span> <span style="color:#cb4b16">t</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#268bd2">lsp-ui-flycheck-enable</span> <span style="color:#cb4b16">t</span>)</span></span></code></pre></div>
+</div>
+<p>
+Here, I:</p>
+<ol>
+<li>Enable <code>lsp-mode</code>.</li>
+<li>Add hooks for package imports and buffer formatting on save.</li>
+<li>Enable <code>lsp-ui</code> (to display <code>go-eldoc</code> info, etc).</li>
+<li>Company for overlays.</li>
+<li><code>yasnippet</code> for snippet support.</li>
+<li>Some options for <code>lsp-ui</code>.</li>
+</ol>
+<p>In the options I disabled <code>lsp-ui-doc-enable</code> because it displayed docs on both the mini buffer and on an overlay located to the right of the buffer. I found it too distracting and decided to disable the overlay and leave the mini buffer help.</p>
+</div>
+</div>
+<div id="outline-container-headline-5" class="outline-2">
+<h2 id="headline-5">
+Old Go Mode
+</h2>
+<div id="outline-text-headline-5" class="outline-text-2">
+<p>
+So what&#39;s left of my original Go mode configuration? Well, the custom compilation stuff, line numbers, etc are still there:</p>
+<div class="src src-emacs-lisp">
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span style="display:flex;"><span>(<span style="color:#b58900">defun</span> <span style="color:#268bd2">custom-go-mode</span> ()
+</span></span><span style="display:flex;"><span>  (<span style="color:#268bd2">display-line-numbers-mode</span> <span style="color:#2aa198">1</span>))
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">use-package</span> <span style="color:#268bd2">go-mode</span>
+</span></span><span style="display:flex;"><span><span style="color:#b58900">:defer</span> <span style="color:#cb4b16">t</span>
+</span></span><span style="display:flex;"><span><span style="color:#b58900">:ensure</span> <span style="color:#cb4b16">t</span>
+</span></span><span style="display:flex;"><span><span style="color:#b58900">:mode</span> (<span style="color:#2aa198">&#34;\\.go\\&#39;&#34;</span> <span style="color:#719e07">.</span> <span style="color:#268bd2">go-mode</span>)
+</span></span><span style="display:flex;"><span><span style="color:#b58900">:init</span>
+</span></span><span style="display:flex;"><span>  (<span style="color:#b58900">setq</span> <span style="color:#268bd2">compile-command</span> <span style="color:#2aa198">&#34;echo Building... &amp;&amp; go build -v &amp;&amp; echo Testing... &amp;&amp; go test -v &amp;&amp; echo Linter... &amp;&amp; golint&#34;</span>)  
+</span></span><span style="display:flex;"><span>  (<span style="color:#b58900">setq</span> <span style="color:#268bd2">compilation-read-command</span> <span style="color:#cb4b16">nil</span>)
+</span></span><span style="display:flex;"><span>  (<span style="color:#268bd2">add-hook</span> <span style="color:#2aa198">&#39;go-mode-hook</span> <span style="color:#2aa198">&#39;custom-go-mode</span>)
+</span></span><span style="display:flex;"><span><span style="color:#b58900">:bind</span> ((<span style="color:#2aa198">&#34;M-,&#34;</span> <span style="color:#719e07">.</span> <span style="color:#268bd2">compile</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#2aa198">&#34;M-.&#34;</span> <span style="color:#719e07">.</span> <span style="color:#268bd2">godef-jump</span>)))
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">compilation-window-height</span> <span style="color:#2aa198">14</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">defun</span> <span style="color:#268bd2">my-compilation-hook</span> ()
+</span></span><span style="display:flex;"><span>  (<span style="color:#b58900">when</span> (<span style="color:#268bd2">not</span> (<span style="color:#268bd2">get-buffer-window</span> <span style="color:#2aa198">&#34;*compilation*&#34;</span>))
+</span></span><span style="display:flex;"><span>    (<span style="color:#b58900">save-selected-window</span>
+</span></span><span style="display:flex;"><span>      (<span style="color:#b58900">save-excursion</span>
+</span></span><span style="display:flex;"><span>	(<span style="color:#b58900">let*</span> ((<span style="color:#268bd2">w</span> (<span style="color:#268bd2">split-window-vertically</span>))
+</span></span><span style="display:flex;"><span>	       (<span style="color:#268bd2">h</span> (<span style="color:#268bd2">window-height</span> <span style="color:#268bd2">w</span>)))
+</span></span><span style="display:flex;"><span>	  (<span style="color:#268bd2">select-window</span> <span style="color:#268bd2">w</span>)
+</span></span><span style="display:flex;"><span>	  (<span style="color:#268bd2">switch-to-buffer</span> <span style="color:#2aa198">&#34;*compilation*&#34;</span>)
+</span></span><span style="display:flex;"><span>	  (<span style="color:#268bd2">shrink-window</span> (<span style="color:#268bd2">-</span> <span style="color:#268bd2">h</span> <span style="color:#268bd2">compilation-window-height</span>)))))))
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">add-hook</span> <span style="color:#2aa198">&#39;compilation-mode-hook</span> <span style="color:#2aa198">&#39;my-compilation-hook</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">global-set-key</span> (<span style="color:#268bd2">kbd</span> <span style="color:#2aa198">&#34;C-c C-c&#34;</span>) <span style="color:#2aa198">&#39;comment-or-uncomment-region</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">compilation-scroll-output</span> <span style="color:#cb4b16">t</span>)</span></span></code></pre></div>
+</div>
+<p>
+I&#39;m not calling any of the goimports, gocode, etc as I used to, since <code>gopls</code> takes care of it all.</p>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-2">
+<h2 id="headline-6">
+Summary
+</h2>
+<div id="outline-text-headline-6" class="outline-text-2">
+<p>
+Besides speed, there&#39;s not a whole lot of difference between my previous and my current setups, really. The real advantage I see is that I&#39;m future-proofing my setup by adopting officially-supported procedures. Just like going to Go Modules: my workflow is not improved, but this seems to be the direction the community is going and it will be easier for me to adopt it now than in the future.</p>
+</div>
+</div>
+<div id="outline-container-headline-7" class="outline-2">
+<h2 id="headline-7">
+Caveats
+</h2>
+<div id="outline-text-headline-7" class="outline-text-2">
+<p>
+The first time you open a <code>.go</code> file, you will be prompted for the root of the project. It will find <code>go.mod</code> and suggest that directory as the root. It&#39;s an extra step, but not a big deal. The interface makes it simple enough.</p>
+<p>
+This root path might have been the issue I initially hit where Emacs would color everything red on save. I couldn&#39;t figure out what the problem was (I assumed it was a problem with my GOPATH and Modules), but removing my <code>.emacs.d</code> directory and having it recreated fixed it on my Mac. I never had the problem on my Fedora laptop.</p>
+</div>
+</div>
+
+		</div>
+
+		<div class="post-tags">
+			
+				
+					<nav class="nav tags">
+							<ul class="flat">
+								
+								<li><a href="/tags/emacs">emacs</a></li>
+								
+								<li><a href="/tags/golang">golang</a></li>
+								
+								<li><a href="/tags/tech">tech</a></li>
+								
+							</ul>
+					</nav>
+				
+			
+		</div>
+		</div>
+	<div class="footer wrapper">
+	<nav class="nav">
+		<div>© 2023, Ismael Arenzana. All rights reserved. </div>
+	</nav>
+</div><script>feather.replace()</script>
+</body>
+</html>

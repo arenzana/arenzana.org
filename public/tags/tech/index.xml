@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech on Arenzana</title>
+    <link>https://arenzana.org/tags/tech/</link>
+    <description>Recent content in tech on Arenzana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023, Ismael Arenzana. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://arenzana.org/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs for Rust Development</title>
+      <link>https://arenzana.org/posts/2022-01-11-emacs-rust/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://arenzana.org/posts/2022-01-11-emacs-rust/</guid>
+      <description>Emacs &amp;gt; Visual Studio Code There&amp;#39;s a good chance I&amp;#39;m a hater or that I don&amp;#39;t know what I&amp;#39;m doing.</description>
+    </item>
+    <item>
+      <title>Hasta Pronto, WhatsApp / Farewell, WhatsApp (English &amp; Español)</title>
+      <link>https://arenzana.org/posts/2021-02-01-bye-whatsapp/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://arenzana.org/posts/2021-02-01-bye-whatsapp/</guid>
+      <description>tl;dr Ponte en contacto conmigo a través de Signal / You can contact me on Signal Hasta Pronto, WhatsApp (Español) Es probable que te encuentres aquí porque has visto un link a esta página en mi estado de Whatsapp.</description>
+    </item>
+    <item>
+      <title>Emacs 27.1 Installation</title>
+      <link>https://arenzana.org/posts/2020-08-19-emacs-27-1-installation/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://arenzana.org/posts/2020-08-19-emacs-27-1-installation/</guid>
+      <description>This is for you as much as this is for me, since I want to remember some stuff I do and the blog sometimes serves as a public knowledge base.</description>
+    </item>
+    <item>
+      <title>Emacs Server - Why and why not?</title>
+      <link>https://arenzana.org/posts/2020-06-25-emacs-server-why-and-why-not/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://arenzana.org/posts/2020-06-25-emacs-server-why-and-why-not/</guid>
+      <description>What Unknown to many of us, under the hood emacs was designed as a client/server architecture; which means, Emacs core runs as a daemon and you attach clients to it.</description>
+    </item>
+    <item>
+      <title>Emacs Go Mode - Revisited</title>
+      <link>https://arenzana.org/posts/2019-12-03-emacs-go-mode-revisited/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://arenzana.org/posts/2019-12-03-emacs-go-mode-revisited/</guid>
+      <description>A few months ago I went over how to set up Emacs for Go development. Since then, I have honestly not changed a single thing about it.</description>
+    </item>
+    <item>
+      <title>Blogging with org-mode</title>
+      <link>https://arenzana.org/2019/04/blogging-with-org-mode/</link>
+      <pubDate>Wed, 24 Apr 2019 20:13:00 +0000</pubDate>
+      <guid>https://arenzana.org/2019/04/blogging-with-org-mode/</guid>
+      <description>Wait, what? My coworker makes infinite fun of me because I do everything in Emacs. He’s a proficient Vim user and uses it as a text editor like a master.</description>
+    </item>
+    <item>
+      <title>Emacs Org-mode</title>
+      <link>https://arenzana.org/2019/04/emacs-org-mode/</link>
+      <pubDate>Wed, 03 Apr 2019 11:05:00 +0000</pubDate>
+      <guid>https://arenzana.org/2019/04/emacs-org-mode/</guid>
+      <description>It’s hard to introduce org-mode. Most emacs users are familiar with it or have, at least, used it at some point or another.</description>
+    </item>
+    <item>
+      <title>Emacs Locale Management and Input Methods</title>
+      <link>https://arenzana.org/2019/01/emacs-locale-management-and-input-methods/</link>
+      <pubDate>Fri, 25 Jan 2019 11:09:00 +0000</pubDate>
+      <guid>https://arenzana.org/2019/01/emacs-locale-management-and-input-methods/</guid>
+      <description>I was born in Spain, and have lived there most of my life. In fact, I just moved to the US 6 years ago.</description>
+    </item>
+    <item>
+      <title>Emacs Go Mode</title>
+      <link>https://arenzana.org/2019/01/emacs-go-mode/</link>
+      <pubDate>Mon, 21 Jan 2019 20:55:00 +0000</pubDate>
+      <guid>https://arenzana.org/2019/01/emacs-go-mode/</guid>
+      <description>You will notice how much I use “me” and “I” on this post. This because your emacs configuration is extremely personal.</description>
+    </item>
+    <item>
+      <title>Emacs, Lovely</title>
+      <link>https://arenzana.org/2019/01/emacs-lovely/</link>
+      <pubDate>Sun, 20 Jan 2019 20:19:00 +0000</pubDate>
+      <guid>https://arenzana.org/2019/01/emacs-lovely/</guid>
+      <description>For the last few months I’ve been tinkering with Emacs at a deeper level. I got started with it at my first job as an intern 15 years ago and have not looked back ever since.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Emacs Server - Why and why not? - Arenzana</title><link rel="icon" type="image/png" href="/Arenzanafav.png" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:title" content="Emacs Server - Why and why not?" />
+<meta property="og:description" content="What Unknown to many of us, under the hood emacs was designed as a client/server architecture; which means, Emacs core runs as a daemon and you attach clients to it." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://arenzana.org/posts/2020-06-25-emacs-server-why-and-why-not/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2020-06-24T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-06-24T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Emacs Server - Why and why not?"/>
+<meta name="twitter:description" content="What Unknown to many of us, under the hood emacs was designed as a client/server architecture; which means, Emacs core runs as a daemon and you attach clients to it."/>
+
+
+	<link rel="stylesheet" type="text/css" media="screen" href="https://arenzana.org/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://arenzana.org/css/main.css" /><link rel="stylesheet" type="text/css" href="https://arenzana.org/css/dark.css" media="(prefers-color-scheme: dark)" />
+
+	<script src="https://arenzana.org/js/feather.min.js"></script>
+	<script src="https://arenzana.org/js/main.js"></script>
+</head>
+
+<body>
+	<div class="container wrapper post">
+		<div class="header">
+	<base href="https://arenzana.org/">
+    <link href="https://social.mrcol.es/@isma" rel="me">
+	<h1 class="site-title"><a href="https://arenzana.org/">Arenzana</a></h1>
+	<div class="site-description"><h2></h2><nav class="nav social">
+			<ul class="flat"><a href="https://github.com/arenzana" title="Code"><i data-feather="code"></i></a><a href="/index.xml" title="RSS"><i data-feather="rss"></i></a></ul>
+		</nav>
+	</div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+			<li>
+				<a href="/">home</a>
+			</li>
+			
+			<li>
+				<a href="/posts">blog</a>
+			</li>
+			
+			<li>
+				<a href="https://iarenzana.gitlab.io/cv/exec_en.html">CV</a>
+			</li>
+			
+		</ul>
+	</nav>
+</div>
+
+
+		<div class="post-header">
+			<h1 class="title">Emacs Server - Why and why not?</h1>
+			<div class="meta">Posted at &mdash; Jun 24, 2020</div>
+		</div>
+
+		<div class="markdown">
+			
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+What
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p>
+Unknown to many of us, under the hood emacs was designed as a client/server architecture; which means, Emacs core runs as a daemon and you attach clients to it. Normally, we run both when we type <code class="verbatim">emacs</code>, but the execution of both the client and the server is transparent to the user. Before you attempt to do something fancy, this architecture is somewhat limited to localhost (1), which means that you can&#39;t quite &#34;remote into&#34; an emacs running on a different host. In a world where we have <a href="https://github.com/tmux/tmux/wiki">tmux</a>, <a href="https://mosh.org/">mosh</a>, and other multiplexers and mobile connectivity technologies, there may not seem like there&#39;s much room for running emacs as a server, but we will see some advantages to this approach.</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Why and How
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>
+I tend to use <code class="verbatim">tmux</code> as my multiplexer and I run a session on my laptop as soon as I start working. This session will only die when the machine goes down for a reboot or when shutting it down. The advantage of running tmux is (besides being able to upgrade iTerm without losing all my sessions) is that it keeps my brain trained to work on a remote box (I used to work in operations, being a sysadmin truly does something to your brain). Inside this tmux session, I run Emacs by typing <code class="verbatim">e</code>, which is an alias on my <code class="verbatim">~/.zshrc</code> as follows:</p>
+<div class="src src-text">
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>alias e=&#34;emacsclient -a &#39;&#39; -t&#34;</span></span></code></pre></div>
+</div>
+<p>
+You will notice that this alias uses a different command, <code class="verbatim">emacsclient</code>. Running this command will not run a full instance of Emacs, but will attempt to attach to a currently running session on localhost. If a server is not running, one will be started. You can also start Emacs as a daemon by running <code class="verbatim">emacs --daemon</code>. No client will be attached to it if you run it this way.</p>
+<p>
+If you have been following this blog, you will know how much I enjoy customizing Emacs. This passion for customization has driven my Emacs to take almost 3 seconds to start from cold (2). And even though I&#39;ve done my best to improve the performance of this operation (remove unnecessary customization, use of <code class="verbatim">use-package</code>, some performance tuning, etc), there&#39;s too much overhead at start time.</p>
+<p>
+By running a server first, my configuration gets loaded once, and when I attach the client, the configuration is loaded in memory. The operation of starting a client (what I actually interface with) is a matter of milliseconds. In addition to this when I close the client and reattach it, my Emacs still contains the same open buffers, running processes, etc. This means that, if you want to actually close Emacs and all of its open buffers, you need to make sure you close all of them <code class="verbatim">C-x C-B</code> and then <code class="verbatim">d</code> on every entry to close.</p>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Conclusion
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<p>
+The value I drive from this workflow resides in performance improvements. It saves me time and, why not, frustrations. It can be argued that value can be found from an Emacs-as-a-server architecture even if your <code class="verbatim">~/.emacs</code> is not too complex, but in my opinion, if that&#39;s your situation, there&#39;s no need to add any extra &#34;complexity&#34; associated to separating the client and server operations.</p>
+<p>
+Special thanks to the always great Irreal for <a href="https://irreal.org/blog/?p=4887\">this article</a> that served as a good starting guide.</p>
+<p>
+(1) While it&#39;s technically possible to connect to a TCP socket, this is not meant to be a remote connectivity tool.</p>
+<p>
+(2) Listen, email loading, RSS, Twitter, journals, and development environments don&#39;t come without a cost.</p>
+</div>
+</div>
+
+		</div>
+
+		<div class="post-tags">
+			
+				
+					<nav class="nav tags">
+							<ul class="flat">
+								
+								<li><a href="/tags/emacs">emacs</a></li>
+								
+								<li><a href="/tags/tech">tech</a></li>
+								
+							</ul>
+					</nav>
+				
+			
+		</div>
+		</div>
+	<div class="footer wrapper">
+	<nav class="nav">
+		<div>© 2023, Ismael Arenzana. All rights reserved. </div>
+	</nav>
+</div><script>feather.replace()</script>
+</body>
+</html>

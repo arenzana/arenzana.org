@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Emacs Locale Management and Input Methods - Arenzana</title><link rel="icon" type="image/png" href="/Arenzanafav.png" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:title" content="Emacs Locale Management and Input Methods" />
+<meta property="og:description" content="I was born in Spain, and have lived there most of my life. In fact, I just moved to the US 6 years ago." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://arenzana.org/2019/01/emacs-locale-management-and-input-methods/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2019-01-25T11:09:00+00:00" />
+<meta property="article:modified_time" content="2019-01-25T11:09:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Emacs Locale Management and Input Methods"/>
+<meta name="twitter:description" content="I was born in Spain, and have lived there most of my life. In fact, I just moved to the US 6 years ago."/>
+
+
+	<link rel="stylesheet" type="text/css" media="screen" href="https://arenzana.org/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://arenzana.org/css/main.css" /><link rel="stylesheet" type="text/css" href="https://arenzana.org/css/dark.css" media="(prefers-color-scheme: dark)" />
+
+	<script src="https://arenzana.org/js/feather.min.js"></script>
+	<script src="https://arenzana.org/js/main.js"></script>
+</head>
+
+<body>
+	<div class="container wrapper post">
+		<div class="header">
+	<base href="https://arenzana.org/">
+    <link href="https://social.mrcol.es/@isma" rel="me">
+	<h1 class="site-title"><a href="https://arenzana.org/">Arenzana</a></h1>
+	<div class="site-description"><h2></h2><nav class="nav social">
+			<ul class="flat"><a href="https://github.com/arenzana" title="Code"><i data-feather="code"></i></a><a href="/index.xml" title="RSS"><i data-feather="rss"></i></a></ul>
+		</nav>
+	</div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+			<li>
+				<a href="/">home</a>
+			</li>
+			
+			<li>
+				<a href="/posts">blog</a>
+			</li>
+			
+			<li>
+				<a href="https://iarenzana.gitlab.io/cv/exec_en.html">CV</a>
+			</li>
+			
+		</ul>
+	</nav>
+</div>
+
+
+		<div class="post-header">
+			<h1 class="title">Emacs Locale Management and Input Methods</h1>
+			<div class="meta">Posted at &mdash; Jan 25, 2019</div>
+		</div>
+
+		<div class="markdown">
+			<p>I was born in Spain, and have lived there most of my life. In fact, I just moved to the US 6 years ago. This means that a lot of my spoken and written communication is still in Spanish, mostly overseas with family and friends. Working with special characters non existent in the English language (think ñ, á, etc) is not as straight forward as it is on MacOS for instance, where <code>Alt + e + a</code> will result in á.</p>
+<h2 id="temporarily-enable-an-input-method">Temporarily enable an input method</h2>
+<p>By default, Emacs doesn’t have an <a href="%22https://www.emacswiki.org/emacs/InputMethods%22">input method</a>. Which means that special characters will not be very convenient to insert. To be able to switch languages, you will need to set an input method. In my case, <code>latin-1-prefix</code> will be the chosen locale. To do this, run <code>M-x set-input-method</code> and then choose the locale. This will most likely affect your editing mode when special characters are no longer needed, therefore to disable the input method, issue <code>M-x toggle-input-method</code> or just <code>C-\</code>.</p>
+<h2 id="permanently-enable-an-input-method">Permanently enable an input method</h2>
+<p>This all works well when you want to write using a different locale temporarily, but it doesn’t work well when you want to have an input method enabled every time you’re in a mode. For instance, if I want to type text in Spanish every time I&rsquo;m in <code>org-mode</code>, I would need to issue the <!-- raw HTML omitted -->M-x set-input-method` command every time I open this mode. This is obviously an inconvenience, and the Emacs life is all about making the editor just the way you want it.</p>
+<p>To permanently set an input method for a mode, we will need to add something like this to our init file.</p>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-lisp" data-lang="lisp"><span style="display:flex;"><span><span style="color:#586e75">;; Set latin-1-prefix as default locale</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#719e07">setq</span> <span style="color:#268bd2">default-input-method</span> <span style="color:#2aa198">&#34;latin-1-prefix&#34;</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">defun</span> <span style="color:#268bd2">activate-default-input-method</span> ()
+</span></span><span style="display:flex;"><span>  (<span style="color:#268bd2">interactive</span>)
+</span></span><span style="display:flex;"><span>  (<span style="color:#268bd2">activate-input-method</span> <span style="color:#268bd2">default-input-method</span>))
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">add-hook</span> <span style="color:#2aa198">&#39;org-mode-hook</span> <span style="color:#2aa198">&#39;activate-default-input-method</span>)</span></span></code></pre></div>
+<p>Here we are indicating that <code>latin-1-prefix</code> will be our new <code>default-input-method</code> and the function will enable this method for <code>org-mode</code>. This way, every time we open <code>org-mode</code>, I will be ready to type in Spanish. This is a white-listing approach, where we select the modes that will have an input method applied, but we can also take the opposite approach. A blacklist method approach will enable an input method for ALL modes except for the ones indicated. This was the first approach I took, but soon realized that I have too many key bindings that would be disabled by the special character keys. Here’s an example of the blacklist approach.</p>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-lisp" data-lang="lisp"><span style="display:flex;"><span><span style="color:#586e75">;; Set latin-1-prefix as default locale</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#719e07">setq</span> <span style="color:#268bd2">default-input-method</span> <span style="color:#2aa198">&#34;latin-1-prefix&#34;</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">defvar</span> <span style="color:#268bd2">use-default-input-method</span> <span style="color:#cb4b16">t</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">make-variable-buffer-local</span> <span style="color:#2aa198">&#39;use-default-input-method</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">defun</span> <span style="color:#268bd2">activate-default-input-method</span> ()
+</span></span><span style="display:flex;"><span>  (<span style="color:#268bd2">interactive</span>)
+</span></span><span style="display:flex;"><span>  (<span style="color:#719e07">if</span> <span style="color:#268bd2">use-default-input-method</span>
+</span></span><span style="display:flex;"><span>      (<span style="color:#268bd2">activate-input-method</span> <span style="color:#268bd2">default-input-method</span>)
+</span></span><span style="display:flex;"><span>    (<span style="color:#268bd2">inactivate-input-method</span>)))
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">add-hook</span> <span style="color:#2aa198">&#39;after-change-major-mode-hook</span> <span style="color:#2aa198">&#39;activate-default-input-method</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">add-hook</span> <span style="color:#2aa198">&#39;minibuffer-setup-hook</span> <span style="color:#2aa198">&#39;activate-default-input-method</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">defun</span> <span style="color:#268bd2">inactivate-default-input-method</span> ()
+</span></span><span style="display:flex;"><span>  (<span style="color:#719e07">setq</span> <span style="color:#268bd2">use-default-input-method</span> <span style="color:#cb4b16">nil</span>))
+</span></span><span style="display:flex;"><span><span style="color:#586e75">;; Blacklisted modes</span>
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">add-hook</span> <span style="color:#2aa198">&#39;c-mode-hook</span> <span style="color:#2aa198">&#39;inactivate-default-input-method</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">add-hook</span> <span style="color:#2aa198">&#39;go-mode-hook</span> <span style="color:#2aa198">&#39;inactivate-default-input-method</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">add-hook</span> <span style="color:#2aa198">&#39;markdown-mode-hook</span> <span style="color:#2aa198">&#39;inactivate-default-input-method</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">add-hook</span> <span style="color:#2aa198">&#39;sh-mode-hook</span> <span style="color:#2aa198">&#39;inactivate-default-input-method</span>)</span></span></code></pre></div>
+<p>This way, we are enabling <code>latin-1-prefix</code> as the default input method for everything except for <code>c-mode</code>, <code>go-mode</code>, <code>markdown-mode</code>, and <code>sh-mode</code>. While these cover many of the options that I use on a regular basis, <code>dired</code> and other modes that I use very frequently would still be screwed up and the blacklist would grow too large. Whitelisting <code>org-mode</code> is enough for now. I might consider <code>message-mode</code> for writing emails in Spanish, which I seldom do, or <code>text-mode</code> (rarely used as well).</p>
+<h2 id="summary">Summary</h2>
+<p>Overall I feel very happy with this set up, but still needs some minor tweaking. As always, Emacs’ flexibility makes customization extremely powerful. Easily overwhelming. Just like everything we’re doing, try settings out, keep your <code>.emacs</code> in source control and make changes without fear. Tweak as needed. Repeat.</p>
+
+		</div>
+
+		<div class="post-tags">
+			
+				
+					<nav class="nav tags">
+							<ul class="flat">
+								
+								<li><a href="/tags/emacs">emacs</a></li>
+								
+								<li><a href="/tags/english">english</a></li>
+								
+								<li><a href="/tags/spanish">spanish</a></li>
+								
+								<li><a href="/tags/tech">tech</a></li>
+								
+							</ul>
+					</nav>
+				
+			
+		</div>
+		</div>
+	<div class="footer wrapper">
+	<nav class="nav">
+		<div>© 2023, Ismael Arenzana. All rights reserved. </div>
+	</nav>
+</div><script>feather.replace()</script>
+</body>
+</html>

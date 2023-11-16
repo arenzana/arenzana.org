@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spanish on Arenzana</title>
+    <link>https://arenzana.org/tags/spanish/</link>
+    <description>Recent content in spanish on Arenzana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023, Ismael Arenzana. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 25 Jan 2019 11:09:00 +0000</lastBuildDate>
+    <atom:link href="https://arenzana.org/tags/spanish/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs Locale Management and Input Methods</title>
+      <link>https://arenzana.org/2019/01/emacs-locale-management-and-input-methods/</link>
+      <pubDate>Fri, 25 Jan 2019 11:09:00 +0000</pubDate>
+      <guid>https://arenzana.org/2019/01/emacs-locale-management-and-input-methods/</guid>
+      <description>I was born in Spain, and have lived there most of my life. In fact, I just moved to the US 6 years ago.</description>
+    </item>
+  </channel>
+</rss>

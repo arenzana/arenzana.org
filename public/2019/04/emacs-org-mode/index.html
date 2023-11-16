@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Emacs Org-mode - Arenzana</title><link rel="icon" type="image/png" href="/Arenzanafav.png" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:title" content="Emacs Org-mode" />
+<meta property="og:description" content="It’s hard to introduce org-mode. Most emacs users are familiar with it or have, at least, used it at some point or another." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://arenzana.org/2019/04/emacs-org-mode/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2019-04-03T11:05:00+00:00" />
+<meta property="article:modified_time" content="2019-04-03T11:05:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Emacs Org-mode"/>
+<meta name="twitter:description" content="It’s hard to introduce org-mode. Most emacs users are familiar with it or have, at least, used it at some point or another."/>
+
+
+	<link rel="stylesheet" type="text/css" media="screen" href="https://arenzana.org/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://arenzana.org/css/main.css" /><link rel="stylesheet" type="text/css" href="https://arenzana.org/css/dark.css" media="(prefers-color-scheme: dark)" />
+
+	<script src="https://arenzana.org/js/feather.min.js"></script>
+	<script src="https://arenzana.org/js/main.js"></script>
+</head>
+
+<body>
+	<div class="container wrapper post">
+		<div class="header">
+	<base href="https://arenzana.org/">
+    <link href="https://social.mrcol.es/@isma" rel="me">
+	<h1 class="site-title"><a href="https://arenzana.org/">Arenzana</a></h1>
+	<div class="site-description"><h2></h2><nav class="nav social">
+			<ul class="flat"><a href="https://github.com/arenzana" title="Code"><i data-feather="code"></i></a><a href="/index.xml" title="RSS"><i data-feather="rss"></i></a></ul>
+		</nav>
+	</div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+			<li>
+				<a href="/">home</a>
+			</li>
+			
+			<li>
+				<a href="/posts">blog</a>
+			</li>
+			
+			<li>
+				<a href="https://iarenzana.gitlab.io/cv/exec_en.html">CV</a>
+			</li>
+			
+		</ul>
+	</nav>
+</div>
+
+
+		<div class="post-header">
+			<h1 class="title">Emacs Org-mode</h1>
+			<div class="meta">Posted at &mdash; Apr 3, 2019</div>
+		</div>
+
+		<div class="markdown">
+			<p>It’s hard to introduce <a href="https://orgmode.org">org-mode</a>. Most emacs users are familiar with it or have, at least, used it at some point or another. I personally have only been using it for about six months, but it has taken a pivotal role in my daily workflows. I will describe how I use it and how I have configured it. As always, feel free to tweak it to fit your needs.</p>
+<h2 id="my-use-cases">My use cases</h2>
+<h3 id="logbooktodo-list">Logbook/TODO-list</h3>
+<p>This is a little bit special. I use <code>org-mode</code> as a project tracker. Yes, we use JIRA and I actually integrate it <a href="%22https://www.emacswiki.org/emacs/OrgJiraMode">with Emacs</a>, but pure org-mode for my personal notes and logbook is a better fit for me.</p>
+<!-- raw HTML omitted -->
+<p>As you can see, I keep track of my tasks using <code>org-mode</code>, but also add notes to the tasks if necessary. For development purposes, I also keep a log of problems that I have encountered and resolutions for these problems. That way I can go back to these notes in the future if needed. I keep this data saved as <code>todo.gpg</code> that gets encrypted and decrypted when opening and saving.</p>
+<h3 id="agenda">Agenda</h3>
+<p><code>org-mode</code> also works well when you want to combine your to-do list with your calendar. If, like me, you have your calendar on Google Calendar, you should check out <a href="%22https://github.com/myuhe/org-gcal.el%22">org-gcal</a>. For the most part, I always have a terminal tab with the agenda up and refresh it periodically to have the latest appointments and task schedules and deadlines.</p>
+<h3 id="journal">Journal</h3>
+<p>Great practice and excellent substitute for therapy. Store thoughts, experiences and ideas. Highly recommended. I use the wonderful <a href="%22https://github.com/bastibe/org-journal%22">org-journal</a> package for this.</p>
+<h3 id="blogging">Blogging</h3>
+<p>I write this blog using <code>org-mode</code> 🙂 (thanks <a href="%22https://github.com/org2blog/org2blog%22">org2blog</a>). I can’t imagine writing it in any other way.</p>
+<h3 id="rss-list">RSS List</h3>
+<p>I just replaced my RSS reader of choice with <a href="%22https://github.com/skeeto/elfeed%22">elfeed</a>. It’s a simple emacs-based RSS reader. Fast, no frills and straightforward. To keep a list of my RSS feeds, I imported an OPML into <a href="%22https://github.com/remyhonig/elfeed-org%22">elfeed-org</a> and now keep all my RSS feeds in one beautiful org-file that I can easily manage and sync.</p>
+<p>There’s plenty of reasons to use <code>org-mode</code>. I have used it for email, but honestly, I have been unable to find a suitable workflow for it. Longform writing is something I would like to spend more time doing, and <code>org-mode</code> seems like a great platform to get started with to do it.</p>
+<h2 id="my-configuration">My configuration</h2>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span style="display:flex;"><span>(<span style="color:#268bd2">setenv</span> <span style="color:#2aa198">&#34;GPG_AGENT_INFO&#34;</span> <span style="color:#cb4b16">nil</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">epg-gpg-program</span> <span style="color:#2aa198">&#34;/usr/local/bin/gpg2&#34;</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">require</span> <span style="color:#2aa198">&#39;epa-file</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">require</span> <span style="color:#2aa198">&#39;password-cache</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">password-cache-expiry</span> (<span style="color:#268bd2">*</span> <span style="color:#2aa198">15</span> <span style="color:#2aa198">60</span>))
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">epa-file-cache-passphrase-for-symmetric-encryption</span> <span style="color:#cb4b16">t</span>)</span></span></code></pre></div>
+<p>First of all, I load GPG for encryption/decryption of gpg files. I set a generous expiration because this is my work desktop and I always keep it locked.</p>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span style="display:flex;"><span>(<span style="color:#b58900">require</span> <span style="color:#2aa198">&#39;org-install</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">package-initialize</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">global-set-key</span> <span style="color:#2aa198">&#34;\C-cl&#34;</span> <span style="color:#2aa198">&#39;org-store-link</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">global-set-key</span> <span style="color:#2aa198">&#34;\C-cc&#34;</span> <span style="color:#2aa198">&#39;org-capture</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">global-set-key</span> <span style="color:#2aa198">&#34;\C-ca&#34;</span> <span style="color:#2aa198">&#39;org-agenda</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">global-set-key</span> <span style="color:#2aa198">&#34;\C-cr&#34;</span> <span style="color:#2aa198">&#39;org-gcal-sync</span>)</span></span></code></pre></div>
+<p>I load <code>org-mode</code> and set the shortcuts to store links (it’s easier this way for me ?), capture (for agenda, work TODO, etc) and pull up the agenda.</p>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">org-directory</span> <span style="color:#2aa198">&#34;~/Documents/org/&#34;</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">org-default-notes-file</span> <span style="color:#2aa198">&#34;~/Documents/org/scrapbook.gpg&#34;</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">org-agenda-files</span> (<span style="color:#268bd2">list</span> <span style="color:#2aa198">&#34;~/Documents/org/todo.gpg&#34;</span> <span style="color:#2aa198">&#34;~/Documents/org/work_cal.org&#34;</span> <span style="color:#2aa198">&#34;~/Documents/org/personal_cal.org&#34;</span>))</span></span></code></pre></div>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-emacs-lisp" data-lang="emacs-lisp"></code></pre></div>
+<p>Here I’m setting the directory structure. <code>org-directory</code> sets the default <code>org-mode</code> directory for file storage. Notes are created with <code>org-default-notes-file</code>, and <code>org-agenda-files</code> lists all the files loaded by default in the Agenda.</p>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span style="display:flex;"><span>(<span style="color:#268bd2">add-hook</span> <span style="color:#2aa198">&#39;org-mode-hook</span> <span style="color:#268bd2">#&#39;</span>(<span style="color:#b58900">lambda</span> ()
+</span></span><span style="display:flex;"><span>			     (<span style="color:#268bd2">visual-line-mode</span>)
+</span></span><span style="display:flex;"><span>			     (<span style="color:#268bd2">org-indent-mode</span>)))
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">add-hook</span> <span style="color:#2aa198">&#39;org-mode-hook</span> <span style="color:#268bd2">#&#39;</span><span style="color:#268bd2">toggle-word-wrap</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">defun</span> <span style="color:#268bd2">my/org-mode-hook</span> ()
+</span></span><span style="display:flex;"><span>  <span style="color:#2aa198">&#34;My </span><span style="color:#2aa198">`org-mode&#39;</span><span style="color:#2aa198"> hook&#34;</span>
+</span></span><span style="display:flex;"><span>  (<span style="color:#268bd2">set-face-attribute</span> <span style="color:#2aa198">&#39;org-document-info-keyword</span> <span style="color:#cb4b16">nil</span> <span style="color:#b58900">:foreground</span> <span style="color:#2aa198">&#34;yellow&#34;</span>)
+</span></span><span style="display:flex;"><span>  (<span style="color:#268bd2">set-face-attribute</span> <span style="color:#2aa198">&#39;org-document-info</span> <span style="color:#cb4b16">nil</span> <span style="color:#b58900">:foreground</span> <span style="color:#2aa198">&#34;cornflower blue&#34;</span>)
+</span></span><span style="display:flex;"><span>  (<span style="color:#268bd2">set-face-attribute</span> <span style="color:#2aa198">&#39;org-document-title</span> <span style="color:#cb4b16">nil</span> <span style="color:#b58900">:foreground</span> <span style="color:#2aa198">&#34;cornflower blue&#34;</span>))
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">add-hook</span> <span style="color:#2aa198">&#39;org-mode-hook</span> <span style="color:#2aa198">&#39;my/org-mode-hook</span>)</span></span></code></pre></div>
+<p>Some color tweaks and line-wrapping. <code>org-mode</code> doesn’t wrap lines by default, but that has an easy fix.</p>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">org-todo-keywords</span>
+</span></span><span style="display:flex;"><span>	  <span style="color:#719e07">&#39;</span>((<span style="color:#268bd2">sequence</span> <span style="color:#2aa198">&#34;TODO(t)&#34;</span> <span style="color:#2aa198">&#34;PENDING(p!)&#34;</span> <span style="color:#2aa198">&#34;WAIT(w@)&#34;</span> <span style="color:#2aa198">&#34;VERIFY(v)&#34;</span> <span style="color:#2aa198">&#34;|&#34;</span> <span style="color:#2aa198">&#34;DONE(d!)&#34;</span> <span style="color:#2aa198">&#34;CANCELED(c@)&#34;</span>)
+</span></span><span style="display:flex;"><span>	     (<span style="color:#268bd2">sequence</span> <span style="color:#2aa198">&#34;REPORT(r@)&#34;</span> <span style="color:#2aa198">&#34;BUG(b@)&#34;</span> <span style="color:#2aa198">&#34;KNOWNCAUSE(k@)&#34;</span> <span style="color:#2aa198">&#34;|&#34;</span> <span style="color:#2aa198">&#34;FIXED(f!)&#34;</span>)))
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">global-set-key</span> (<span style="color:#268bd2">kbd</span> <span style="color:#2aa198">&#34;C-c s&#34;</span>) 
+</span></span><span style="display:flex;"><span>		(<span style="color:#b58900">lambda</span> () (<span style="color:#b58900">interactive</span>) (<span style="color:#268bd2">find-file</span> <span style="color:#2aa198">&#34;~/Documents/org/scrapbook.gpg&#34;</span>)))
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">global-set-key</span> (<span style="color:#268bd2">kbd</span> <span style="color:#2aa198">&#34;C-c w&#34;</span>) 
+</span></span><span style="display:flex;"><span>		(<span style="color:#b58900">lambda</span> () (<span style="color:#b58900">interactive</span>) (<span style="color:#268bd2">find-file</span> <span style="color:#2aa198">&#34;~/Documents/org/todo.gpg&#34;</span>)))
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">org-log-done</span> <span style="color:#2aa198">&#39;time</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">org-list-allow-alphabetical</span> <span style="color:#cb4b16">t</span>)</span></span></code></pre></div>
+<p>Define files for notes and for the to-do list. Here we also define the to-do sequences and indicate whether I want them timestamped (!) or timestamped and with a comment (@).</p>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">org-capture-templates</span>
+</span></span><span style="display:flex;"><span><span style="color:#719e07">&#39;</span>((<span style="color:#2aa198">&#34;n&#34;</span> <span style="color:#2aa198">&#34;Personal Note&#34;</span> <span style="color:#268bd2">entry</span> (<span style="color:#268bd2">file</span> <span style="color:#2aa198">&#34;~/Documents/org/scrapbook.gpg&#34;</span>)
+</span></span><span style="display:flex;"><span>   <span style="color:#2aa198">&#34;* PERSONAL NOTE %?\n%U\n&#34;</span> <span style="color:#b58900">:empty-lines</span> <span style="color:#2aa198">1</span>)
+</span></span><span style="display:flex;"><span>  (<span style="color:#2aa198">&#34;w&#34;</span> <span style="color:#2aa198">&#34;Work Note&#34;</span> <span style="color:#268bd2">entry</span> (<span style="color:#268bd2">file</span> <span style="color:#2aa198">&#34;~/Documents/org/scrapbook.gpg&#34;</span>)
+</span></span><span style="display:flex;"><span>   <span style="color:#2aa198">&#34;* WORK NOTE %?\n%U\n&#34;</span> <span style="color:#b58900">:empty-lines</span> <span style="color:#2aa198">1</span>)
+</span></span><span style="display:flex;"><span>  (<span style="color:#2aa198">&#34;j&#34;</span> <span style="color:#2aa198">&#34;Journal&#34;</span> <span style="color:#268bd2">entry</span>
+</span></span><span style="display:flex;"><span>   (<span style="color:#268bd2">file+datetree</span> <span style="color:#2aa198">&#34;~/Documents/org/journal.gpg&#34;</span>)
+</span></span><span style="display:flex;"><span>   <span style="color:#2aa198">&#34;**** %U%?\n%a&#34;</span> <span style="color:#b58900">:tree-type</span> <span style="color:#268bd2">week</span>))
+</span></span><span style="display:flex;"><span>)</span></span></code></pre></div>
+<p>Define the capture modes. I only have personal and work notes and journal capture.</p>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span style="display:flex;"><span>(<span style="color:#268bd2">eval-after-load</span> <span style="color:#2aa198">&#34;org&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#719e07">&#39;</span>(<span style="color:#b58900">require</span> <span style="color:#2aa198">&#39;ox-md</span> <span style="color:#cb4b16">nil</span> <span style="color:#cb4b16">t</span>))</span></span></code></pre></div>
+<p><code>org-agenda</code> will only load the next 4 days. I don’t need any more than that.</p>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">org-agenda-span</span> <span style="color:#2aa198">4</span>)</span></span></code></pre></div>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span style="display:flex;"><span>(<span style="color:#b58900">require</span> <span style="color:#2aa198">&#39;org2blog-autoloads</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">require</span> <span style="color:#2aa198">&#39;netrc</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">require</span> <span style="color:#2aa198">&#39;auth-source</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">let</span> (<span style="color:#268bd2">credentials</span>)
+</span></span><span style="display:flex;"><span>	(<span style="color:#268bd2">add-to-list</span> <span style="color:#2aa198">&#39;auth-sources</span> <span style="color:#2aa198">&#34;~/.authinfo&#34;</span>)
+</span></span><span style="display:flex;"><span>	(<span style="color:#b58900">setq</span> <span style="color:#268bd2">credentials</span> (<span style="color:#268bd2">auth-source-user-and-password</span> <span style="color:#2aa198">&#34;arenzana.org&#34;</span>))
+</span></span><span style="display:flex;"><span>	(<span style="color:#b58900">setq</span> <span style="color:#268bd2">org2blog/wp-blog-alist</span>
+</span></span><span style="display:flex;"><span>	      <span style="color:#719e07">`</span>((<span style="color:#2aa198">&#34;arenzanaorg&#34;</span>
+</span></span><span style="display:flex;"><span>		 <span style="color:#b58900">:url</span> <span style="color:#2aa198">&#34;https://arenzana.org/xmlrpc.php&#34;</span>
+</span></span><span style="display:flex;"><span>		 <span style="color:#b58900">:username</span> <span style="color:#719e07">,</span>(<span style="color:#268bd2">car</span> <span style="color:#268bd2">credentials</span>)
+</span></span><span style="display:flex;"><span>		 <span style="color:#b58900">:password</span> <span style="color:#719e07">,</span>(<span style="color:#268bd2">cadr</span> <span style="color:#268bd2">credentials</span>)
+</span></span><span style="display:flex;"><span>		 <span style="color:#b58900">:default-title</span> <span style="color:#2aa198">&#34;Hello World&#34;</span>
+</span></span><span style="display:flex;"><span>		 <span style="color:#b58900">:default-categories</span> (<span style="color:#2aa198">&#34;emacs&#34;</span>)
+</span></span><span style="display:flex;"><span>		 <span style="color:#b58900">:tags-as-categories</span> <span style="color:#cb4b16">nil</span>))))
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">org2blog/wp-use-sourcecode-shortcode</span> <span style="color:#cb4b16">nil</span>)
+</span></span><span style="display:flex;"><span><span style="color:#586e75">;; removed light=&#34;true&#34;</span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">org2blog/wp-sourcecode-default-params</span> <span style="color:#cb4b16">nil</span>)
+</span></span><span style="display:flex;"><span><span style="color:#586e75">;; target language needs to be in here</span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">org2blog/wp-sourcecode-langs</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#719e07">&#39;</span>(<span style="color:#2aa198">&#34;actionscript3&#34;</span> <span style="color:#2aa198">&#34;bash&#34;</span> <span style="color:#2aa198">&#34;coldfusion&#34;</span> <span style="color:#2aa198">&#34;cpp&#34;</span> <span style="color:#2aa198">&#34;csharp&#34;</span> <span style="color:#2aa198">&#34;css&#34;</span> <span style="color:#2aa198">&#34;delphi&#34;</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#2aa198">&#34;erlang&#34;</span> <span style="color:#2aa198">&#34;fsharp&#34;</span> <span style="color:#2aa198">&#34;diff&#34;</span> <span style="color:#2aa198">&#34;groovy&#34;</span> <span style="color:#2aa198">&#34;javascript&#34;</span> <span style="color:#2aa198">&#34;java&#34;</span> <span style="color:#2aa198">&#34;javafx&#34;</span> <span style="color:#2aa198">&#34;matlab&#34;</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#2aa198">&#34;objc&#34;</span> <span style="color:#2aa198">&#34;perl&#34;</span> <span style="color:#2aa198">&#34;php&#34;</span> <span style="color:#2aa198">&#34;text&#34;</span> <span style="color:#2aa198">&#34;powershell&#34;</span> <span style="color:#2aa198">&#34;python&#34;</span> <span style="color:#2aa198">&#34;ruby&#34;</span> <span style="color:#2aa198">&#34;scala&#34;</span> <span style="color:#2aa198">&#34;sql&#34;</span>
+</span></span><span style="display:flex;"><span>	<span style="color:#2aa198">&#34;vb&#34;</span> <span style="color:#2aa198">&#34;xml&#34;</span> <span style="color:#2aa198">&#34;go&#34;</span> <span style="color:#2aa198">&#34;sh&#34;</span> <span style="color:#2aa198">&#34;emacs-lisp&#34;</span> <span style="color:#2aa198">&#34;lisp&#34;</span> <span style="color:#2aa198">&#34;lua&#34;</span>))
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#586e75">;; this will use emacs syntax higlighting in your #+BEGIN_SRC</span>
+</span></span><span style="display:flex;"><span><span style="color:#586e75">;; &lt;language&gt; &lt;your-code&gt; #+END_SRC code blocks.</span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">org-src-fontify-natively</span> <span style="color:#cb4b16">t</span>)</span></span></code></pre></div>
+<p>For <code>org-2blog</code> We begin by loading it and <code>.netrc</code>. In my case, I’m using <code>.authinfo</code> that I keep encrypted as well. It stores my blog credentials. Since I only have one blog, I just add it as <code>arenzanaorg</code> to the wordpress blog list, set some defaults, and then set some source code defaults. I got most of this configuration from &lt;a <a href="%22http://blog.binchen.org/posts/how-to-use-org2blog-effectively-as-a-programmer.html%22">here</a>. Great resource!</p>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span style="display:flex;"><span>(<span style="color:#b58900">require</span> <span style="color:#2aa198">&#39;org-gcal</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#268bd2">load-library</span> <span style="color:#2aa198">&#34;~/.gcal.el.gpg&#34;</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">org-gcal-file-alist</span> <span style="color:#719e07">&#39;</span>((<span style="color:#2aa198">&#34;iarenzana@gmail.com&#34;</span> <span style="color:#719e07">.</span>  <span style="color:#2aa198">&#34;~/Documents/org/personal_cal.org&#34;</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#2aa198">&#34;iarenzana@indigital.net&#34;</span> <span style="color:#719e07">.</span> <span style="color:#2aa198">&#34;~/Documents/org/work_cal.org&#34;</span>)))</span></span></code></pre></div>
+<!-- raw HTML omitted -->
+<p><code>org-gcal</code> is the package I use to pull <a href="%22https://calendar.google.com%22">Google Calendar</a> data into Emacs and, ultimately, <code>org-agenda</code>. Earlier in the set up I created a shortcut for <code>org-gcal-sync</code> to update the calendars on demand. After that, I just press <code>r</code> in <code>org-agenda</code> to refresh the buffer and the new events show up . In order to not publish API keys to any repository, I keep this information in a <code>.gcal.el.gpg</code> file stored in my home directory. This is what the structure of that file looks like:</p>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span style="display:flex;"><span><span style="color:#586e75">;; -*- epa-file-encrypt-to: (&#34;user@example.com&#34;) -*-</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>(<span style="color:#b58900">setq</span> <span style="color:#268bd2">org-gcal-client-id</span> <span style="color:#2aa198">&#34;clientid&#34;</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#268bd2">org-gcal-client-secret</span> <span style="color:#2aa198">&#34;secretkey&#34;</span>)</span></span></code></pre></div>
+<p>Make sure you substitute the email address with your PGP key’s email and both <code>clientid</code> and <code>secretid</code> with the ones generated at <!-- raw HTML omitted -->Google Cloud<!-- raw HTML omitted --> for your calendar. To do this, create a new oauth key pair.</p>
+<h2 id="caveats">Caveats</h2>
+<p>There’s a few things that still bother me that I want to tackle. First of them is the <code>yellow</code> output of my blog’s HTML code source. I’m disabling colors by not specifying <code>emacs-lisp</code> as the language, but this is a bad work around. I have been unable to correctly format the HTML template for this, so I will need to keep researching.</p>
+<p>Also, every time I open emacs I’m prompted for <code>.gcal.el.gpg</code>‘s password. I’d like to delay this until I call <code>org-gcal</code>.</p>
+<h2 id="summary">Summary</h2>
+<p>I know I’ve flown over my <code>org-mode</code> set up, but going in depth would take a lot more posts (which I may write). For now this is a short introduction to how I use the package and some of the possibilities that might bring ideas on how to improve your workflows.</p>
+
+		</div>
+
+		<div class="post-tags">
+			
+				
+					<nav class="nav tags">
+							<ul class="flat">
+								
+								<li><a href="/tags/emacs">emacs</a></li>
+								
+								<li><a href="/tags/org-mode">org-mode</a></li>
+								
+								<li><a href="/tags/tech">tech</a></li>
+								
+							</ul>
+					</nav>
+				
+			
+		</div>
+		</div>
+	<div class="footer wrapper">
+	<nav class="nav">
+		<div>© 2023, Ismael Arenzana. All rights reserved. </div>
+	</nav>
+</div><script>feather.replace()</script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogging on Arenzana</title>
+    <link>https://arenzana.org/tags/blogging/</link>
+    <description>Recent content in blogging on Arenzana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023, Ismael Arenzana. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 24 Apr 2019 20:13:00 +0000</lastBuildDate>
+    <atom:link href="https://arenzana.org/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogging with org-mode</title>
+      <link>https://arenzana.org/2019/04/blogging-with-org-mode/</link>
+      <pubDate>Wed, 24 Apr 2019 20:13:00 +0000</pubDate>
+      <guid>https://arenzana.org/2019/04/blogging-with-org-mode/</guid>
+      <description>Wait, what? My coworker makes infinite fun of me because I do everything in Emacs. He’s a proficient Vim user and uses it as a text editor like a master.</description>
+    </item>
+  </channel>
+</rss>

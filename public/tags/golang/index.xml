@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>golang on Arenzana</title>
+    <link>https://arenzana.org/tags/golang/</link>
+    <description>Recent content in golang on Arenzana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023, Ismael Arenzana. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://arenzana.org/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs Go Mode - Revisited</title>
+      <link>https://arenzana.org/posts/2019-12-03-emacs-go-mode-revisited/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://arenzana.org/posts/2019-12-03-emacs-go-mode-revisited/</guid>
+      <description>A few months ago I went over how to set up Emacs for Go development. Since then, I have honestly not changed a single thing about it.</description>
+    </item>
+    <item>
+      <title>Emacs Go Mode</title>
+      <link>https://arenzana.org/2019/01/emacs-go-mode/</link>
+      <pubDate>Mon, 21 Jan 2019 20:55:00 +0000</pubDate>
+      <guid>https://arenzana.org/2019/01/emacs-go-mode/</guid>
+      <description>You will notice how much I use “me” and “I” on this post. This because your emacs configuration is extremely personal.</description>
+    </item>
+  </channel>
+</rss>

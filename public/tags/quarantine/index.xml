@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quarantine on Arenzana</title>
+    <link>https://arenzana.org/tags/quarantine/</link>
+    <description>Recent content in quarantine on Arenzana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023, Ismael Arenzana. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 19 Jun 2020 08:30:00 -0400</lastBuildDate>
+    <atom:link href="https://arenzana.org/tags/quarantine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reopen</title>
+      <link>https://arenzana.org/posts/2020-06-19-reopen/</link>
+      <pubDate>Fri, 19 Jun 2020 08:30:00 -0400</pubDate>
+      <guid>https://arenzana.org/posts/2020-06-19-reopen/</guid>
+      <description>Not gonna lie, life has been is not easy during this COVID-19 crisis. I get it, it has not been easy for anyone really, but during this time I have come to a few realizations about some things in my life.</description>
+    </item>
+  </channel>
+</rss>
