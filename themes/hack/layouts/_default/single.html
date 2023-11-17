@@ -9,6 +9,11 @@
 			<h1 class="title">{{ .Title }}</h1>
 			<div class="meta">Posted at &mdash; {{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
 		</div>
+       {{ if .Params.hero }}
+       <div class="hero-image">
+          <img src="{{ .Params.hero }}" alt="Hero Image">
+       </div>
+       {{ end }}
 
 		<div class="markdown">
 			{{ .Content }}

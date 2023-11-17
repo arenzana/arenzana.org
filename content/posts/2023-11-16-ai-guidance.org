@@ -1,10 +1,11 @@
 #+BLOG: arenzanaorg
 #+POSTID: 439
-#+DATE: [2023-11-16 Thu 15:55]
+#+DATE: [2023-11-17 Thu 16:55]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: tech
 #+TAGS[]: tech,ai
 #+DESCRIPTION:
+#+hugo_front_matter: :hero ./img/ai_takeover.png
 #+TITLE: AI: Some Good Guidance
 [[./img/ai_takeover.png]]
 
