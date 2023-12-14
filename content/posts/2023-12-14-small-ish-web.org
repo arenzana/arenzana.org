@@ -1,0 +1,23 @@
+#+BLOG: arenzanaorg
+#+POSTID: 441
+#+DATE: [2023-12-14 Thu 13:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: tech
+#+TAGS[]: tech,web
+#+DESCRIPTION: A new movement to encourage people to take ownership of their content is in vogue. You know, like in the early days
+#+images[]: /img/featured_small_web.png
+#+DRAFT: false
+#+TITLE: Small-ish Web
+[[./img/featured_small_web.png]]
+
+Nearly 95% of all the links I receive from my friends come from one place: Instagram. It's usually a Reel (so many cat Reels!) or a story. I don't really use Instagram, and it makes me feel uneasy to do most of my content discovery through an app that forces me into a format, an algorithm... and one company.
+
+When I started using the internet about 25 years ago, content discovery was harder. Google could assist you finding things and email was the extent of your Social Media. But maybe that was the point: there was no "content creation". For the most part, people just published their thoughts and articles on their websites, and if you found them interesting, you could just subscribe through their [[https://en.wikipedia.org/wiki/RSS][RSS feeds]]. And the web was weird back then: so many Flash-based websites, so many guestbooks, color combinations that could make your eyes bleed and, in a very odd way, there seemed to be plurality of thought.
+
+A few years later we decided, as a society, that all the sharing and discovery should be done through Social Media: everyone was there and it was convenient. We gave up ownership of our content and Meta (among a few others)  became the place where our thoughts and our emotions would go to die. Where will our pictures and thoughts be in 15 or 20 years? Will our children have access to them? Or even more scary: Are we essentially allowing a few tech companies shape how history is told?
+
+I'm not saying there's no place for Social platforms as content discovery avenues. In would take it as far as to say that I don't have a problem with Big Tech not playing with other companies by not using open protocols such as RSS for content delivery. My problem is with us as consumers, that comfort and, dare I say, complacency are enough for us to sacrifice ownership of our thoughts and memories, give up on our [[https://arenzana.org/posts/2021-02-01-bye-whatsapp/][privacy]], or allow an enterprise choose what we look at, consume, or even think. The web _still is_ open enough for us to publish our thoughts and knowledge.
+
+For the last several months I've seen a few efforts to bring back the open, [[https://omg.lol][quirky]], and [[https://blog.kagi.com/small-web][smaller web]]. To me these are great efforts to foster thinking and not so much "content creation". [[https://omg.lol][omg.lol]] is a great starting point if you want to get back to the roots of the web and don't want to host the content yourself or want to put much technical effort into it.
+
+But my recommendation? Buy a [[https://namecheap.com][domain]] and cheap hosting ([[https://hetzner.com][Hetzner]] or [[https://scaleway.com][Scaleway]] are good alternatives) or even a Raspberry Pi if you have a stable enough internet connection. Put [[https://gohugo.io][Hugo]] or any simple static website generator (like this one) and publish your thoughts. Sure, use Instagram, Facebook, Twitter, etc as a transport and discovery to make yourself known. But please, don't let companies decide how much access I should have to _YOUR_ ideas.
