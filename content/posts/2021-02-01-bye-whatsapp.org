@@ -27,10 +27,10 @@ Por estos motivos estoy buscando medios sociales y de comunicación más sosteni
 
 Abandono WhatsApp, pero no de la noche a la mañana. Empezando en marzo, eliminaré las notificaciones y todos los permisos que la aplicación requiere (localización, fotos, etc) para operar correctamente. A día de hoy me resultará posible avisar a mis contactos más comunes de mis intenciones, una vez llegue marzo, las personas con las que apenas hablo tendrán que esperar a que vuelva a abrir la aplicación para que vea el mensaje. Este será el caso durante 6 meses. En ese momento, eliminaré la aplicación de mi móvil y ordenadores.
 
-Pero seguiré aquí, en internet. WhatsApp no es internet, Instagram no es internet. Forman parte de internet, pero La Red es más profunda que todas estas empresas. 
+Pero seguiré aquí, en internet. WhatsApp no es internet, Instagram no es internet. Forman parte de internet, pero La Red es más profunda que todas estas empresas.
 A partir de ahora, la mejor forma de ponerse en contacto conmigo será a través de [[https://signal.org][Signal]]. A diferencia de WhatsApp o Telegram, Signal es una organización sin ánimo de lucro (no tiene accionistas a los que rendir cuentas) que se sostiene a través de donaciones. Si eres usuario de Signal y lo utilizas regularmente, te animo a que [[https://signal.org/donate/][dones al proyecto]].
 
-Si realmente prefieres no utilizar algo nuevo y tienes un dispositivo Apple, sigo disponible en iMessage y si eres usuario de Telegram, [[https://t.me/Arenzana][mantendré mi cuenta de Telegram]]. Al menos a corto plazo. Finalmente, para los más aventureros, sigo la evolución del protocolo decentralizado [[https://matrix.org][Matrix]], que realmente creo que es el futuro de las comunicaciones. Puedes contactar conmigo [[https://matrix.to/#/@isma:matrix.mrcol.es][aquí]].
+Si realmente prefieres no utilizar algo nuevo y tienes un dispositivo Apple, sigo disponible en iMessage y si eres usuario de Telegram, [[https://t.me/Arenzana][mantendré mi cuenta de Telegram]]. Al menos a corto plazo. Finalmente, para los más aventureros, sigo la evolución del protocolo decentralizado [[https://matrix.org][Matrix]], que realmente creo que es el futuro de las comunicaciones. Puedes contactar conmigo [[https://matrix.to/#/@isma:matrix.arenzana.org][aquí]].
 
 Igualmente, mi uso de Twitter se verá reducido con los meses. [[https://joinmastodon.org/][Mastodon]] es sin duda la mejor alternativa y puedes seguirme [[https://social.mrcol.es/@isma][aquí]].
 
@@ -55,6 +55,6 @@ But I will remain on the internet. WhatsApp is not the internet, Instagram is no
 
 The best way to get in contact with me, will be through [[https://signal.org][Signal]]. Unlike WhatsApp or Telegram, Signal is a 501c-3 (non profit organization) that has no shareholders to please. This also means that if you're a user that enjoys the service, I encourage you to [[https://signal.org/donate/][donate to the project]].
 
-If you really don't want to use a new service and have an Apple device, I will still be available on iMessage and, if you're a Telegram user, [[https://t.me/Arenzana][I will keep my Telegram account]]. At least in the short term. Finally, for the adventurous ones, I'm keeping an eye on the evolution of the decentralized [[https://matrix.org][Matrix]] protocol, I truly believe it is the future of communications. You can find me [[https://matrix.to/#/@isma:matrix.mrcol.es][here]].
+If you really don't want to use a new service and have an Apple device, I will still be available on iMessage and, if you're a Telegram user, [[https://t.me/Arenzana][I will keep my Telegram account]]. At least in the short term. Finally, for the adventurous ones, I'm keeping an eye on the evolution of the decentralized [[https://matrix.org][Matrix]] protocol, I truly believe it is the future of communications. You can find me [[https://matrix.to/#/@isma:matrix.arenzana.org][here]].
 
 My use of Twitter will be reduced as well, potentially following the fate of WhatsApp. [[https://joinmastodon.org/][Mastodon]] is certainly the best alternative, and you can follow me [[https://social.mrcol.es/@isma][here]].

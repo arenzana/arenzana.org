@@ -1,25 +1,29 @@
 baseURL = "https://arenzana.org/"
 languageCode = "en-us"
-title = "Arenzana"
+title = "Isma Arenzana"
 theme = "hack"
 paginate = 10
-
 copyright = "© 2023, Ismael Arenzana. All rights reserved."
-
+description = "Someone with not a lot to say but apparently a lot to write about"
 pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
+image = "img/featured.jpg"
 googleAnalytics = ""
 disqusShortname = ""
 
 summaryLength = 20
+
+[twitter]
+    description = "Someone with not a lot to say but apparently a lot to write about"
+    image = "img/IMG_3797.JPG"
 
 [permalinks]
     blog = "/:slug/"
 
 [params]
 	subtitle = ""
+	image = "img/IMG_3797.JPG"
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	mode = "auto" # "dark", "auto", "light"
@@ -43,9 +47,14 @@ url = "/posts"
 weight = 2
 
 [[params.social]]
-name = "Code"
-icon = "code"
+name = "Github"
+icon = "github"
 url = "https://github.com/arenzana"
+
+[[params.social]]
+name = "X"
+icon = "twitter"
+url = "https://x.com/iarenzana"
 
 [[params.social]]
 name = "RSS"

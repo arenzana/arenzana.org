@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Arenzana</title>
+    <title>Posts on Isma Arenzana</title>
     <link>https://arenzana.org/posts/</link>
-    <description>Recent content in Posts on Arenzana</description>
+    <description>Recent content in Posts on Isma Arenzana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023, Ismael Arenzana. All rights reserved.</copyright>
@@ -112,16 +112,14 @@
       <link>https://arenzana.org/2013/06/bittorrent-y-la-nueva-nube/</link>
       <pubDate>Sat, 01 Jun 2013 16:03:00 +0000</pubDate>
       <guid>https://arenzana.org/2013/06/bittorrent-y-la-nueva-nube/</guid>
-      <description>Hoy toca una pequeña historieta sobre tecnología, que hace mucho que no escribo sobre ello.
-Hace unas semanas recibí mi Raspberry Pi y la he cargado con Fedora Linux y la estoy usando como servidor.</description>
+      <description>Hoy toca una pequeña historieta sobre tecnología, que hace mucho que no escribo sobre ello.&#xA;Hace unas semanas recibí mi Raspberry Pi y la he cargado con Fedora Linux y la estoy usando como servidor.</description>
     </item>
     <item>
       <title>¡Está vivo!</title>
       <link>https://arenzana.org/2013/05/esta-vivo/</link>
       <pubDate>Wed, 22 May 2013 00:19:00 +0000</pubDate>
       <guid>https://arenzana.org/2013/05/esta-vivo/</guid>
-      <description>¡Está vivo!
-En referencia a un clasicazo del cine, me llena de emoción presentar mi nueva web. Después de 5 meses de trabajo, lanzo la web que utilizaré de ahora en adelante para publicar mi trabajo y promocionar mi fotografía.</description>
+      <description>¡Está vivo!&#xA;En referencia a un clasicazo del cine, me llena de emoción presentar mi nueva web. Después de 5 meses de trabajo, lanzo la web que utilizaré de ahora en adelante para publicar mi trabajo y promocionar mi fotografía.</description>
     </item>
     <item>
       <title>Algo de cariño virtual</title>
