@@ -1,0 +1,38 @@
+#+BLOG: arenzanaorg
+#+POSTID: 441
+#+DATE: [2023-12-15 Thu 13:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: books
+#+TAGS[]: books,bestof
+#+DESCRIPTION: My list of the best books I've read this year
+#+images[]: /img/featured_best_books_of_2023.png
+#+DRAFT: true
+#+TITLE: My Favorite Books of 2023
+[[./img/featured_best_books_of_2023.png]]
+
+If [[https://www.gatesnotes.com/Holiday-list-2023][Bill Gates]] does this every year, maybe having a /Best books of the year/ can become a thing for me as well. While I don't read [[https://eab.com/insights/daily-briefing/academic-affairs/how-bill-gates-reads-50-books-per-year-and-remembers-what-he-learns/][as much as Bill does]] or have an MFA from a liberal arts school in New England, I would like to share some of my favorite books in fiction and non fiction that I've read this year. Some of them are even considered classics, which tells you that most of the books I have read this year have not been published in 2023.
+
+* Best in Fiction
+** [[https://www.goodreads.com/book/show/35620840-16-souls][16 Souls by John Nance]]
+I can watch air disaster videos all day long. No problems. But I was unable to read "16 Souls" before going to bed. It is one of the best narrations I have ever read and it made me feel like I was on that plane. If you enjoy suspense and aviation this is a no-brainer.
+
+** [[https://www.goodreads.com/book/show/22034.The_Godfather][The Godfather by Mario Puzo]]
+If you enjoyed the movies like I did but haven't read the book like I hadn't, this one is for you. No need to explain this one.
+
+** The Giver by Lois Lowry
+
+
+* Best in Non-Fiction
+** Elon Musk by Walter Isaacson
+** The Wizard of Lies by Diana B. Henriques
+** The Story of Russia by Orlando Figes
+
+* Honorable Mentions
+** [[https://www.goodreads.com/series/248865-marcus-goldman][Marcus Goldam's Trilogy by Joël Dicker]]
+I read all three this year in Spanish. Warning: Can't put them down. The series follows the life of Marcus Goldman and dives into his skill to find crimes around him and get involved. This is the reason why I will never become an author.
+
+** [[https://www.goodreads.com/book/show/63208854-nadie-en-esta-tierra][Nadie en Esta Tierra by Víctor del Árbol]]
+Another suspense book (can definitely see the trend here). By a Spanish author. Nothing very special about it, but the description of the places and the characters agre great and remind me of my homeland.
+
+** Understanding Air France 447 by Bill Palmer
+As an aviation enthusiast, this is a great read. Highly technical book on what happened to the Air France flight that crashed in the Atlantic a decade ago.
