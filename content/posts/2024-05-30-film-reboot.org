@@ -1,0 +1,14 @@
+#+BLOG: arenzanaorg
+#+POSTID: 443
+#+DATE: [2024-05-30 Thu 14:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: photography
+#+TAGS[]: film photography
+#+DESCRIPTION: Inspired by what I've seen around, I'm rebooting my photography website. This time, however, focused on film
+#+images[]: /img/20240520-film.jpg
+#+DRAFT: false
+#+TITLE: Film rebooted
+[[./img/20240520-film.jpg]]
+
+After many years dormant, I have decided to restart my photography [[https://isma.photo][site]]. This time, however, it's not about the business of photography but to simply display some of my work in film.
+I have always loved photography, I even did it professionally for a while. But there is nothing like the simple act of picking up a film camera, shoot, and pray that something good came out. Hope that the roll actually wound and didn't get exposed by accident... hey, at least I don't need to charge anything!

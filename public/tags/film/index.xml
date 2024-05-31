@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Film on Isma Arenzana</title>
+    <link>https://arenzana.org/tags/film/</link>
+    <description>Recent content in Film on Isma Arenzana</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2024, Ismael Arenzana. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://arenzana.org/tags/film/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Film rebooted</title>
+      <link>https://arenzana.org/posts/2024-05-30-film-reboot/</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://arenzana.org/posts/2024-05-30-film-reboot/</guid>
+      <description>After many years dormant, I have decided to restart my photography site. This time, however, it&amp;#39;s not about the business of photography but to simply display some of my work in film.</description>
+    </item>
+  </channel>
+</rss>

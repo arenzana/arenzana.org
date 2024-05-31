@@ -4,11 +4,18 @@
     <title>Isma Arenzana</title>
     <link>https://arenzana.org/</link>
     <description>Recent content on Isma Arenzana</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© 2023, Ismael Arenzana. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 14 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <copyright>© 2024, Ismael Arenzana. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://arenzana.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Film rebooted</title>
+      <link>https://arenzana.org/posts/2024-05-30-film-reboot/</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://arenzana.org/posts/2024-05-30-film-reboot/</guid>
+      <description>After many years dormant, I have decided to restart my photography site. This time, however, it&amp;#39;s not about the business of photography but to simply display some of my work in film.</description>
+    </item>
     <item>
       <title>Small-ish Web</title>
       <link>https://arenzana.org/posts/2023-12-14-small-ish-web/</link>

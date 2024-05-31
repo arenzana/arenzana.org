@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>emacs on Isma Arenzana</title>
+    <title>Emacs on Isma Arenzana</title>
     <link>https://arenzana.org/tags/emacs/</link>
-    <description>Recent content in emacs on Isma Arenzana</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Emacs on Isma Arenzana</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© 2023, Ismael Arenzana. All rights reserved.</copyright>
+    <copyright>© 2024, Ismael Arenzana. All rights reserved.</copyright>
     <lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://arenzana.org/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
     <item>
