@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tech on Isma Arenzana</title>
+    <title>Tech on Isma Arenzana</title>
     <link>https://arenzana.org/tags/tech/</link>
-    <description>Recent content in tech on Isma Arenzana</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Tech on Isma Arenzana</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2023, Ismael Arenzana. All rights reserved.</copyright>
     <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
