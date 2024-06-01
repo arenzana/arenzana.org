@@ -54,6 +54,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+.Ulysses*
 
 # Lock files
 .hugo_build.lock
