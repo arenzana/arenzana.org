@@ -3,15 +3,15 @@ params:
   author: Ismael Arenzana
   images: [/img/20240601-writing.jpg]
 id: 444
-date: “2024-06-01T17:00:00-5:00”
-publishDate: “2024-06-01T17:00:00-05:00”
-keywords: [“emacs”]
+date: 2024-06-01T17:00:00-5:00
+publishDate: 2024-06-01T17:00:00-05:00
+keywords: [“emacs”,”writing”]
 title: Writing
-slug: 2024-06-01-the-loser
+slug: 2024-06-01-writing
 summary: A short comment on writing tools, emacs, and writing in general
 draft: false
 ---
-[[/img/20240601-writing.jpg]]
+[/img/20240601-writing.jpg]
 
 # Why
 For the last few days, I have been experimenting with different writing tools: [IA Writer][1], [Ulysses][2], and [Emacs][3]. As you know, I am an avid emacs user for everything from [https://arenzana.org/posts/2019-12-03-emacs-go-mode-revisited/](programming), to reading my RSS feeds, and even email. This week, however, I have ventured out to look at other writing tools for my blog. The trigger was DHH’s [article](https://world.hey.com/dhh/you-can-own-more-than-one-type-of-computer-73439146) on living with more than one computer (more on this later).
