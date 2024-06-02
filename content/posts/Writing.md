@@ -14,7 +14,7 @@ draft: false
 ![](https://arenzana.org/img/20240601-writing.jpg)
 
 # Why
-For the last few days, I have been experimenting with different writing tools: [IA Writer][1], [Ulysses][2], and [Emacs][3]. As you know, I am an avid emacs user for everything from [https://arenzana.org/posts/2019-12-03-emacs-go-mode-revisited/](programming), to reading my RSS feeds, and even email. This week, however, I have ventured out to look at other writing tools for my blog. The trigger was DHH’s [article](https://world.hey.com/dhh/you-can-own-more-than-one-type-of-computer-73439146) on living with more than one computer (more on this later).
+For the last few days, I have been experimenting with different writing tools: [IA Writer][1], [Ulysses][2], and [Emacs][3]. As you know, I am an avid emacs user for everything from [programming](https://arenzana.org/posts/2019-12-03-emacs-go-mode-revisited/), to reading my RSS feeds, and even email. This week, however, I have ventured out to look at other writing tools for my blog. The trigger was DHH’s [article](https://world.hey.com/dhh/you-can-own-more-than-one-type-of-computer-73439146) on living with more than one computer (more on this later).
 
 Why? You might ask. My iPad is *NOT* a great tool when it comes to open source software. And by “great”, I mean that it’s not as straight forward as I’d like it to be. Sure, you could install a terminal emulator like iSH, and then install emacs inside, but how do we figure out the filesystem? (yes, I know, Apple limitation). But the temptation of simpler is too powerful sometimes and I have been bitten by the bug of trying something new. What can I say, we all like shiny new things.
 
