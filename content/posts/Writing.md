@@ -11,7 +11,7 @@ slug: 2024-06-01-writing
 summary: A short comment on writing tools, emacs, and writing in general
 draft: false
 ---
-![](/img/20240601-writing.jpg)
+![](https://arenzana.org/img/20240601-writing.jpg)
 
 # Why
 For the last few days, I have been experimenting with different writing tools: [IA Writer][1], [Ulysses][2], and [Emacs][3]. As you know, I am an avid emacs user for everything from [https://arenzana.org/posts/2019-12-03-emacs-go-mode-revisited/](programming), to reading my RSS feeds, and even email. This week, however, I have ventured out to look at other writing tools for my blog. The trigger was DHH’s [article](https://world.hey.com/dhh/you-can-own-more-than-one-type-of-computer-73439146) on living with more than one computer (more on this later).
@@ -20,7 +20,7 @@ Why? You might ask. My iPad is *NOT* a great tool when it comes to open source s
 
 # Initial thoughts
 
-I’m writing this on iA Writer on MacOS. I love that I can either use iCloud or Dropbox to sync the documents and keep writing on my iPad using my keyboard on the go. Yes, this does happen often enough for me to justify the effort. To export it, I do use a bit of *git* magic and run a script on the server to deploy. Not the easiest but not the hardest either. My new [photography blog][5] is running on Wordpress. Both iA Writer and Ulysses (and for that matter [https://arenzana.org/2019/04/blogging-with-org-mode/](emacs)) can directly publish to Wordpress, which is nice. But I’m not convinced that I want to move back to this platform for my personal blog. At least not yet.
+I’m writing this on iA Writer on MacOS. I love that I can either use iCloud or Dropbox to sync the documents and keep writing on my iPad using my keyboard on the go. Yes, this does happen often enough for me to justify the effort. To export it, I do use a bit of *git* magic and run a script on the server to deploy. Not the easiest but not the hardest either. My new [photography blog][5] is running on Wordpress. Both iA Writer and Ulysses (and for that matter [emacs](https://arenzana.org/2019/04/blogging-with-org-mode/)) can directly publish to Wordpress, which is nice. But I’m not convinced that I want to move back to this platform for my personal blog. At least not yet.
 
 The nice thing about iA Writer is that it’s a one time payment. That’s it. Yes, you do need to pay per platform, but you don’t need to upgrade if you don’t make enough use of the tool. Ulysses, however, is a subscription ($39.99 as of this writing). All platforms. I tend to favor one-time payments rather than subscriptions, this is a con against Ulysses.
 
